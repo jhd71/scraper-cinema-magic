@@ -6,23 +6,23 @@
     "url": "https://www.cinemamagic-creusot.fr"
   },
   "date": "2026-02-06",
-  "dateUpdate": "2026-02-06T03:47:15.277Z",
+  "dateUpdate": "2026-02-06T03:55:40.100Z",
   "films": [
     {
-      "titre": "Aujourd’hui",
+      "titre": "LOL 2.0",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/",
-      "duree": "",
+      "duree": "01h 45min",
       "genre": "",
       "horaires": [
         "20:20"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "Marsupilami",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/",
-      "duree": "",
+      "duree": "1h 39min",
       "genre": "",
       "horaires": [
         "13:45",
@@ -30,80 +30,80 @@
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "Baise-en-ville",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000004512-baise-en-ville/",
-      "duree": "",
+      "duree": "1h 34min",
       "genre": "",
       "horaires": [
         "18:20"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "Le Mage du Kremlin",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000005026-le-mage-du-kremlin/",
-      "duree": "",
+      "duree": "2h 25min",
       "genre": "",
       "horaires": [
         "14:00"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "Olivia",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/302424-olivia/",
-      "duree": "",
+      "duree": "1h 11min",
       "genre": "",
       "horaires": [
         "16:50"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "Furcy, né libre",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/292718-furcy-ne-libre/",
-      "duree": "",
+      "duree": "1h 48min",
       "genre": "",
       "horaires": [
         "14:15"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "L’Affaire Bojarski",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000014092-laffaire-bojarski/",
-      "duree": "",
+      "duree": "2h 8min",
       "genre": "",
       "horaires": [
         "16:10"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "La Femme de ménage",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317403-la-femme-de-menage/",
-      "duree": "",
+      "duree": "2h 13min",
       "genre": "",
       "horaires": [
         "16:30"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "Avatar : de Feu et de Cendres",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/187247-avatar-de-feu-et-de-cendres/",
-      "duree": "",
+      "duree": "3h 17min",
       "genre": "",
       "horaires": [
         "19:30"
       ]
     },
     {
-      "titre": "Aujourd’hui",
+      "titre": "Zootopie 2",
       "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/277428-zootopie-2/",
-      "duree": "",
+      "duree": "21h 48min",
       "genre": "",
       "horaires": [
         "18:35"
