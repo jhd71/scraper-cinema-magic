@@ -22,121 +22,63 @@ async function scrapeCinemaMagic() {
             timeout: 60000
         });
         
-        // Attendre que les films soient chargés
-        await page.waitForSelector('.film, .movie, [class*="film"], [class*="movie"], article', { timeout: 30000 });
+        // Attendre que les films soient chargés - MÊMES SÉLECTEURS QUE LE CAPITOLE
+        await page.waitForSelector('.css-kz9mk9', { timeout: 30000 });
         console.log('✅ Page chargée avec succès');
         
         // Capture d'écran pour debug
-        await page.screenshot({ path: 'screenshot-magic.png', fullPage: true });
+        await page.screenshot({ path: 'screenshot.png', fullPage: true });
         console.log('📸 Screenshot sauvegardé');
         
-        // Sauvegarder le HTML pour analyser la structure
-        const html = await page.content();
-        fs.writeFileSync('page-magic.html', html);
-        console.log('📄 HTML sauvegardé dans page-magic.html');
-        
-        // Extraire les données des films
-        // NOTE: Les sélecteurs devront peut-être être ajustés selon la structure réelle du site
+        // Extraire les données des films - MÊME CODE QUE LE CAPITOLE
         const films = await page.evaluate(() => {
+            const filmElements = document.querySelectorAll('.css-1fwauv0');
             const filmsData = [];
-            
-            // Essayer plusieurs sélecteurs possibles
-            const selectors = [
-                '.css-1fwauv0',           // Style similaire au Capitole
-                '.film-item',
-                '.movie-item',
-                '[class*="film"]',
-                '[class*="movie"]',
-                'article',
-                '.seance',
-                '.screening'
-            ];
-            
-            let filmElements = [];
-            for (const selector of selectors) {
-                const elements = document.querySelectorAll(selector);
-                if (elements.length > 0) {
-                    filmElements = elements;
-                    console.log(`Sélecteur trouvé: ${selector} (${elements.length} éléments)`);
-                    break;
-                }
-            }
             
             filmElements.forEach((filmEl) => {
                 try {
-                    // TITRE du film - essayer plusieurs sélecteurs
-                    let titre = '';
-                    const titreSelectors = ['h2', 'h3', '.title', '.film-title', '.movie-title', '[class*="title"]', 'a'];
-                    for (const sel of titreSelectors) {
-                        const el = filmEl.querySelector(sel);
-                        if (el && el.textContent.trim()) {
-                            titre = el.textContent.trim();
-                            break;
-                        }
-                    }
+                    // TITRE du film
+                    const titreEl = filmEl.querySelector('.css-kz9mk9 a');
+                    const titre = titreEl ? titreEl.textContent.trim() : 'Non spécifié';
                     
                     // AFFICHE du film
-                    const imageEl = filmEl.querySelector('img');
-                    const affiche = imageEl ? (imageEl.src || imageEl.getAttribute('data-src') || '') : '';
+                    const imageEl = filmEl.querySelector('.css-16rc3bn img');
+                    const affiche = imageEl ? imageEl.src : '';
                     
-                    // LIEN vers la fiche du film
-                    const lienEl = filmEl.querySelector('a[href*="/film"]') || filmEl.querySelector('a');
-                    let lien = 'https://www.cinemamagic-creusot.fr/horaires/';
-                    if (lienEl) {
-                        const href = lienEl.getAttribute('href');
-                        if (href) {
-                            lien = href.startsWith('http') ? href : 'https://www.cinemamagic-creusot.fr' + href;
-                        }
-                    }
+                    // LIEN vers la fiche du film (page individuelle)
+                    const lienEl = filmEl.querySelector('a[href*="/films/"]');
+                    const hrefFilm = lienEl ? lienEl.getAttribute('href') : null;
+                    const lien = hrefFilm ? (hrefFilm.startsWith('http') ? hrefFilm : 'https://www.cinemamagic-creusot.fr' + hrefFilm) : 'https://www.cinemamagic-creusot.fr/horaires/';
                     
                     // DURÉE
-                    let duree = '';
-                    const dureeEl = filmEl.querySelector('[class*="duration"], [class*="duree"], .runtime, time');
-                    if (dureeEl) {
-                        duree = dureeEl.textContent.trim();
-                    } else {
-                        // Chercher un pattern de durée dans le texte
-                        const text = filmEl.textContent;
-                        const dureeMatch = text.match(/(\d+h\s*\d*|\d+\s*min)/i);
-                        if (dureeMatch) duree = dureeMatch[0];
-                    }
+                    const dureeEl = filmEl.querySelector('.css-uyt4dk span');
+                    const duree = dureeEl ? dureeEl.textContent.trim() : '';
                     
                     // GENRE
+                    const genreEl = filmEl.querySelector('.css-45pqov + span, .css-fqfb77 div:last-child');
                     let genre = '';
-                    const genreEl = filmEl.querySelector('[class*="genre"], [class*="category"], .type');
-                    if (genreEl) {
-                        genre = genreEl.textContent.trim();
-                    }
-                    
-                    // HORAIRES
-                    const horaires = [];
-                    const horaireSelectors = [
-                        'time span',
-                        '.time',
-                        '.horaire',
-                        '.seance-time',
-                        '[class*="time"]',
-                        '[class*="horaire"]',
-                        'button[class*="time"]',
-                        'span[class*="time"]'
-                    ];
-                    
-                    for (const sel of horaireSelectors) {
-                        const horaireElements = filmEl.querySelectorAll(sel);
-                        if (horaireElements.length > 0) {
-                            horaireElements.forEach(h => {
-                                const horaire = h.textContent.trim();
-                                // Vérifier que c'est bien un horaire (format HH:MM ou HHhMM)
-                                if (horaire && /^\d{1,2}[h:]\d{2}$/.test(horaire) && !horaires.includes(horaire)) {
-                                    horaires.push(horaire);
-                                }
-                            });
-                            if (horaires.length > 0) break;
+                    const allSpans = filmEl.querySelectorAll('.css-45pqov');
+                    allSpans.forEach(span => {
+                        if (span.textContent.includes('Genre')) {
+                            const nextText = span.nextSibling;
+                            if (nextText) {
+                                genre = nextText.textContent.trim();
+                            }
                         }
-                    }
+                    });
                     
-                    // Ajouter seulement si on a un titre et au moins un horaire
-                    if (titre && horaires.length > 0) {
+                    // TOUS LES HORAIRES
+                    const horaireElements = filmEl.querySelectorAll('.css-caniai time span, .css-148nby5 time span');
+                    const horaires = [];
+                    horaireElements.forEach(h => {
+                        const horaire = h.textContent.trim();
+                        if (horaire && !horaires.includes(horaire)) {
+                            horaires.push(horaire);
+                        }
+                    });
+                    
+                    // Ajouter seulement si on a au moins un horaire
+                    if (horaires.length > 0 && titre !== 'Non spécifié') {
                         filmsData.push({
                             titre: titre,
                             affiche: affiche,
@@ -166,7 +108,7 @@ async function scrapeCinemaMagic() {
             cinema: {
                 nom: "Magic",
                 ville: "Le Creusot",
-                adresse: "Le Creusot",
+                adresse: "7 rue Hélène Boucher, 71200 Le Creusot",
                 url: "https://www.cinemamagic-creusot.fr"
             },
             date: new Date().toISOString().split('T')[0],
@@ -183,28 +125,13 @@ async function scrapeCinemaMagic() {
         fs.writeFileSync('data/cinema-magic.json', JSON.stringify(data, null, 2));
         console.log('✅ Données sauvegardées dans data/cinema-magic.json');
         
+        // Sauvegarder aussi le HTML pour debug
+        const html = await page.content();
+        fs.writeFileSync('page.html', html);
+        console.log('📄 HTML sauvegardé dans page.html');
+        
     } catch (error) {
         console.error('❌ Erreur lors du scraping:', error);
-        
-        // Créer un fichier JSON vide en cas d'erreur pour ne pas casser le site
-        const emptyData = {
-            cinema: {
-                nom: "Magic",
-                ville: "Le Creusot",
-                adresse: "Le Creusot",
-                url: "https://www.cinemamagic-creusot.fr"
-            },
-            date: new Date().toISOString().split('T')[0],
-            dateUpdate: new Date().toISOString(),
-            films: [],
-            error: error.message
-        };
-        
-        if (!fs.existsSync('data')) {
-            fs.mkdirSync('data');
-        }
-        fs.writeFileSync('data/cinema-magic.json', JSON.stringify(emptyData, null, 2));
-        
         process.exit(1);
     } finally {
         await browser.close();
