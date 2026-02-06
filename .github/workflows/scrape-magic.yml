@@ -1,0 +1,38 @@
+name: Scrape Cinema Magic Le Creusot
+
+on:
+  schedule:
+    # Exécuter toutes les 3 heures
+    - cron: '0 */3 * * *'
+  workflow_dispatch: # Permet l'exécution manuelle
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: node scrape-magic.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git stash
+          git pull --rebase origin main
+          git stash pop || true
+          git add -A
+          git diff --staged --quiet || git commit -m "🎬 Mise à jour Cinema Magic - $(date '+%Y-%m-%d %H:%M')"
+          git push

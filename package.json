@@ -1,0 +1,14 @@
+{
+  "name": "scraper-cinema-magic",
+  "version": "1.0.0",
+  "description": "Scraper pour récupérer les horaires du cinéma Magic (Le Creusot)",
+  "main": "scrape-magic.js",
+  "scripts": {
+    "scrape": "node scrape-magic.js"
+  },
+  "author": "actuetmedia.fr",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
