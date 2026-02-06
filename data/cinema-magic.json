@@ -1,0 +1,113 @@
+{
+  "cinema": {
+    "nom": "Magic",
+    "ville": "Le Creusot",
+    "adresse": "7 rue Hélène Boucher, 71200 Le Creusot",
+    "url": "https://www.cinemamagic-creusot.fr"
+  },
+  "date": "2026-02-06",
+  "dateUpdate": "2026-02-06T03:47:15.277Z",
+  "films": [
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "20:20"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "13:45",
+        "21:00"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000004512-baise-en-ville/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "18:20"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000005026-le-mage-du-kremlin/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "14:00"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/302424-olivia/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "16:50"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/292718-furcy-ne-libre/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "14:15"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000014092-laffaire-bojarski/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "16:10"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/317403-la-femme-de-menage/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "16:30"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/187247-avatar-de-feu-et-de-cendres/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "19:30"
+      ]
+    },
+    {
+      "titre": "Aujourd’hui",
+      "affiche": "https://all.web.img.acsta.net/r_2500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/277428-zootopie-2/",
+      "duree": "",
+      "genre": "",
+      "horaires": [
+        "18:35"
+      ]
+    }
+  ]
+}
