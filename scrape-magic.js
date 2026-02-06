@@ -44,9 +44,11 @@ async function scrapeCinema() {
         
         filmElements.forEach((filmEl) => {
             try {
-                // Titre depuis l'attribut title du lien
+                // Titre et lien depuis le lien principal
                 const linkEl = filmEl.querySelector('a[title]');
                 const titre = linkEl ? linkEl.getAttribute('title') : '';
+                const href = linkEl ? linkEl.getAttribute('href') : '';
+                const lien = href ? 'https://www.cinemamagic-creusot.fr' + href : '';
                 
                 if (!titre) return;
                 
@@ -132,7 +134,8 @@ async function scrapeCinema() {
                         genre,
                         duree,
                         horaires,
-                        affiche
+                        affiche,
+                        lien
                     });
                 }
             } catch (e) {
