@@ -2,7 +2,7 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-02-06",
-  "scraped_at": "2026-02-06T04:19:18.823Z",
+  "scraped_at": "2026-02-06T04:29:26.199Z",
   "films": [
     {
       "titre": "LOL 2.0",
@@ -11,7 +11,8 @@
       "horaires": [
         "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/"
     },
     {
       "titre": "Marsupilami",
@@ -21,7 +22,8 @@
         "13:45",
         "21:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/"
     },
     {
       "titre": "Baise-en-ville",
@@ -30,7 +32,8 @@
       "horaires": [
         "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000004512-baise-en-ville/"
     },
     {
       "titre": "Le Mage du Kremlin",
@@ -39,7 +42,8 @@
       "horaires": [
         "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/27/26/27264fbe0076f4db99b28acfa0e21ac5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000005026-le-mage-du-kremlin/"
     },
     {
       "titre": "Olivia",
@@ -48,7 +52,8 @@
       "horaires": [
         "16:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/35/40/354092484a9bc5dfedb67167f9da43da.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/302424-olivia/"
     },
     {
       "titre": "Furcy, né libre",
@@ -57,7 +62,8 @@
       "horaires": [
         "14:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/51/04/5104c913367b4e8dc4d89d55c7c965ae.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/292718-furcy-ne-libre/"
     },
     {
       "titre": "L’Affaire Bojarski",
@@ -66,7 +72,8 @@
       "horaires": [
         "16:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000014092-laffaire-bojarski/"
     },
     {
       "titre": "La Femme de ménage",
@@ -75,7 +82,8 @@
       "horaires": [
         "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/317403-la-femme-de-menage/"
     },
     {
       "titre": "Avatar : de Feu et de Cendres",
@@ -84,7 +92,8 @@
       "horaires": [
         "19:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/52/fb/52fb8f0345af2b0940557aa049ca19fd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/187247-avatar-de-feu-et-de-cendres/"
     },
     {
       "titre": "Zootopie 2",
@@ -93,7 +102,8 @@
       "horaires": [
         "18:35"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/45/ac/45ac77474bfae505033a30909e4eda41.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/277428-zootopie-2/"
     }
   ]
 }
