@@ -2,11 +2,12 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-02-06",
-  "scraped_at": "2026-02-06T04:13:49.504Z",
+  "scraped_at": "2026-02-06T04:19:18.823Z",
   "films": [
     {
       "titre": "LOL 2.0",
       "genre": "Comédie",
+      "duree": "1h 45min",
       "horaires": [
         "20:20"
       ],
@@ -15,6 +16,7 @@
     {
       "titre": "Marsupilami",
       "genre": "Comédie, Aventure, Famille",
+      "duree": "1h 39min",
       "horaires": [
         "13:45",
         "21:00"
@@ -24,6 +26,7 @@
     {
       "titre": "Baise-en-ville",
       "genre": "Comédie",
+      "duree": "1h 34min",
       "horaires": [
         "18:20"
       ],
@@ -32,6 +35,7 @@
     {
       "titre": "Le Mage du Kremlin",
       "genre": "Thriller",
+      "duree": "2h 25min",
       "horaires": [
         "14:00"
       ],
@@ -40,6 +44,7 @@
     {
       "titre": "Olivia",
       "genre": "Animation",
+      "duree": "1h 11min",
       "horaires": [
         "16:50"
       ],
@@ -48,6 +53,7 @@
     {
       "titre": "Furcy, né libre",
       "genre": "Historique, Drame, Judiciaire, Biopic",
+      "duree": "1h 48min",
       "horaires": [
         "14:15"
       ],
@@ -56,6 +62,7 @@
     {
       "titre": "L’Affaire Bojarski",
       "genre": "Drame",
+      "duree": "2h 8min",
       "horaires": [
         "16:10"
       ],
@@ -64,6 +71,7 @@
     {
       "titre": "La Femme de ménage",
       "genre": "Thriller",
+      "duree": "2h 13min",
       "horaires": [
         "16:30"
       ],
@@ -72,6 +80,7 @@
     {
       "titre": "Avatar : de Feu et de Cendres",
       "genre": "Science fiction, Aventure, Action, Fantastique",
+      "duree": "3h 17min",
       "horaires": [
         "19:30"
       ],
@@ -80,6 +89,7 @@
     {
       "titre": "Zootopie 2",
       "genre": "Animation, Aventure, Famille, Comédie",
+      "duree": "1h 48min",
       "horaires": [
         "18:35"
       ],
