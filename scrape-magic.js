@@ -94,6 +94,17 @@ async function scrapeCinema() {
                     });
                 }
                 
+                // Durée - chercher dans .css-uyt4dk span (format "1h 39min")
+                let duree = '';
+                const dureeSpans = filmEl.querySelectorAll('.css-uyt4dk span');
+                dureeSpans.forEach(span => {
+                    const text = span.textContent?.trim() || '';
+                    // Chercher le format "Xh XXmin"
+                    if (/^\d+h\s*\d*min?$/.test(text)) {
+                        duree = text;
+                    }
+                });
+                
                 // Horaires
                 const horaires = [];
                 const timeElements = filmEl.querySelectorAll('time span');
@@ -119,6 +130,7 @@ async function scrapeCinema() {
                     results.push({
                         titre,
                         genre,
+                        duree,
                         horaires,
                         affiche
                     });
@@ -153,7 +165,7 @@ async function scrapeCinema() {
     );
     
     console.log(`\n✅ ${films.length} films sauvegardés dans data/cinema-magic.json`);
-    films.forEach(f => console.log(`   - ${f.titre} (${f.genre}) : ${f.horaires.join(', ')}`));
+    films.forEach(f => console.log(`   - ${f.titre} (${f.genre}) [${f.duree}] : ${f.horaires.join(', ')}`));
     
     return data;
 }
