@@ -6,7 +6,8 @@ async function scrapeCinemaMagic() {
     
     const browser = await puppeteer.launch({
         headless: 'new',
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
+        executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || null,
+        args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
     });
     
     const page = await browser.newPage();
@@ -231,6 +232,10 @@ async function scrapeCinemaMagic() {
             films: [],
             error: error.message
         };
+        
+        if (!fs.existsSync('data')) {
+            fs.mkdirSync('data');
+        }
         fs.writeFileSync('data/cinema-magic.json', JSON.stringify(emptyData, null, 2));
         
     } finally {
