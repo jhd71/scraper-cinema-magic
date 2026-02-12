@@ -2,15 +2,14 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-02-12",
-  "scraped_at": "2026-02-12T01:16:17.571Z",
+  "scraped_at": "2026-02-12T04:52:52.084Z",
   "films": [
     {
       "titre": "Goat - rêver plus haut",
       "genre": "Animation, Comédie, Action",
       "duree": "1h 40min",
       "horaires": [
-        "16:00",
-        "20:30"
+        "16:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326824-goat-rever-plus-haut/"
@@ -20,8 +19,8 @@
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:15",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006174-les-enfants-de-la-resistance/"
@@ -31,53 +30,72 @@
       "genre": "Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "13:50",
-        "18:20"
+        "14:15",
+        "18:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/"
+    },
+    {
+      "titre": "Les Toutes Petites Créatures 2",
+      "genre": "Animation, Famille",
+      "duree": "0h 38min",
+      "horaires": [
+        "16:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000037794-les-toutes-petites-creatures-2/"
     },
     {
       "titre": "Marsupilami",
       "genre": "Comédie, Aventure, Famille",
       "duree": "1h 39min",
       "horaires": [
-        "16:15",
-        "20:40"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/"
     },
     {
-      "titre": "Love Me Tender",
+      "titre": "Gourou",
+      "genre": "Thriller, Drame",
+      "duree": "2h 6min",
+      "horaires": [
+        "13:50",
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/328179-gourou/"
+    },
+    {
+      "titre": "Hamnet",
       "genre": "Drame",
+      "duree": "2h 5min",
+      "horaires": [
+        "20:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/9a/f5/9af5f87b39938fec50f86c32c3d31b69.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/315003-hamnet/"
+    },
+    {
+      "titre": "La Femme de ménage",
+      "genre": "Thriller",
       "duree": "2h 13min",
       "horaires": [
-        "18:15"
+        "17:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/fd/c5/fdc5ab8f6d4e8896cba70aa2176f1f85.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/289453-love-me-tender/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/317403-la-femme-de-menage/"
     },
     {
-      "titre": "Moi Ivan, toi Abraham",
-      "genre": "Comédie dramatique",
-      "duree": "1h 45min",
+      "titre": "Le Chant des forêts",
+      "genre": "Documentaire",
+      "duree": "1h 33min",
       "horaires": [
-        "14:10",
-        "20:50"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/e5/dc/e5dc68a34d3a400a61f38676fc13cfa1.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/7835-moi-ivan-toi-abraham/"
-    },
-    {
-      "titre": "Le Quai des brumes",
-      "genre": "Drame",
-      "duree": "1h 31min",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/54/5f/545f55305b0e728df6df61980e66855c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/2594-le-quai-des-brumes/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/321789-le-chant-des-forets/"
     }
   ]
 }
