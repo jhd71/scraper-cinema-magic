@@ -2,25 +2,14 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-02-16",
-  "scraped_at": "2026-02-16T01:15:40.827Z",
+  "scraped_at": "2026-02-16T04:53:40.837Z",
   "films": [
-    {
-      "titre": "Le Rêve américain",
-      "genre": "Comédie",
-      "duree": "2h 1min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012480-le-reve-americain/"
-    },
     {
       "titre": "Goat - rêver plus haut",
       "genre": "Animation, Comédie, Action",
       "duree": "1h 40min",
       "horaires": [
-        "12:30",
-        "17:00"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326824-goat-rever-plus-haut/"
@@ -30,9 +19,7 @@
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "10:20",
-        "14:30",
-        "18:50"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006174-les-enfants-de-la-resistance/"
@@ -42,30 +29,19 @@
       "genre": "Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "10:25",
-        "19:00"
+        "16:05",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/"
-    },
-    {
-      "titre": "Les Toutes Petites Créatures 2",
-      "genre": "Animation, Famille",
-      "duree": "0h 38min",
-      "horaires": [
-        "10:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/70/e4/70e4bca25a2fa64e3574bcb887805ffe.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000037794-les-toutes-petites-creatures-2/"
     },
     {
       "titre": "Marsupilami",
       "genre": "Comédie, Aventure, Famille",
       "duree": "1h 39min",
       "horaires": [
-        "12:20",
-        "16:40",
-        "20:50"
+        "14:00",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/"
@@ -75,7 +51,7 @@
       "genre": "Comédie",
       "duree": "1h 34min",
       "horaires": [
-        "11:30"
+        "10:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000004512-baise-en-ville/"
@@ -85,8 +61,8 @@
       "genre": "Thriller, Drame",
       "duree": "2h 6min",
       "horaires": [
-        "14:35",
-        "21:00"
+        "13:50",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/328179-gourou/"
@@ -96,30 +72,30 @@
       "genre": "Drame",
       "duree": "2h 5min",
       "horaires": [
-        "20:50"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/9a/f5/9af5f87b39938fec50f86c32c3d31b69.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/315003-hamnet/"
     },
     {
-      "titre": "L’Affaire Bojarski",
-      "genre": "Drame",
-      "duree": "2h 8min",
+      "titre": "Le Chant des forêts",
+      "genre": "Documentaire",
+      "duree": "1h 33min",
       "horaires": [
-        "13:30"
+        "16:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/18/05/18059e8dd9bca2e516d41023cc08d9d1.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000014092-laffaire-bojarski/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/321789-le-chant-des-forets/"
     },
     {
-      "titre": "La Femme de ménage",
-      "genre": "Thriller",
-      "duree": "2h 13min",
+      "titre": "Mariage royal",
+      "genre": "Comédie musicale, Comédie, Romance",
+      "duree": "1h 34min",
       "horaires": [
-        "18:20"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/317403-la-femme-de-menage/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f4/48/f448f3a11c8a86a0ab0885599aa30755.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/16142-mariage-royal/"
     }
   ]
 }
