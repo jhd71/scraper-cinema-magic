@@ -2,7 +2,7 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-02-16",
-  "scraped_at": "2026-02-16T09:42:39.178Z",
+  "scraped_at": "2026-02-16T12:40:08.728Z",
   "films": [
     {
       "titre": "Goat - rêver plus haut",
@@ -51,7 +51,8 @@
       "genre": "Comédie",
       "duree": "1h 34min",
       "horaires": [
-        "10:30"
+        "10:30",
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/8e/a5/8ea5ebba183c85d8c42b36a96b66d517.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000004512-baise-en-ville/"
