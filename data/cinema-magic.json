@@ -2,15 +2,44 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-02-18",
-  "scraped_at": "2026-02-18T01:17:08.643Z",
+  "scraped_at": "2026-02-18T04:48:19.067Z",
   "films": [
+    {
+      "titre": "Le Rêve américain",
+      "genre": "Comédie",
+      "duree": "2h 1min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012480-le-reve-americain/"
+    },
+    {
+      "titre": "Marty Supreme",
+      "genre": "Drame, Biopic",
+      "duree": "2h 30min",
+      "horaires": [
+        "20:35"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000007317-marty-supreme/"
+    },
+    {
+      "titre": "Super Charlie",
+      "genre": "Animation, Famille, Aventure, Comédie, Fantastique",
+      "duree": "1h 20min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f0/c9/f0c9c07f44b1e8dfd4f4793d81246491.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/326812-super-charlie/"
+    },
     {
       "titre": "Goat - rêver plus haut",
       "genre": "Animation, Comédie, Action",
       "duree": "1h 40min",
       "horaires": [
-        "14:15",
-        "18:30"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326824-goat-rever-plus-haut/"
@@ -20,54 +49,53 @@
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "14:00",
-        "18:50"
+        "16:10",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006174-les-enfants-de-la-resistance/"
-    },
-    {
-      "titre": "LOL 2.0",
-      "genre": "Comédie",
-      "duree": "1h 45min",
-      "horaires": [
-        "16:20",
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/"
     },
     {
       "titre": "Marsupilami",
       "genre": "Comédie, Aventure, Famille",
       "duree": "1h 39min",
       "horaires": [
-        "16:15",
-        "20:50"
+        "14:00",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/"
     },
     {
-      "titre": "Gourou",
-      "genre": "Thriller, Drame",
-      "duree": "2h 6min",
+      "titre": "Love Me Tender",
+      "genre": "Drame",
+      "duree": "2h 13min",
       "horaires": [
-        "18:15",
-        "20:30"
+        "13:50",
+        "20:25"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/328179-gourou/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/fd/c5/fdc5ab8f6d4e8896cba70aa2176f1f85.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/289453-love-me-tender/"
     },
     {
-      "titre": "Laurel et Hardy Premiers coups de génie",
-      "genre": "Comédie",
-      "duree": "0h 52min",
+      "titre": "Moi Ivan, toi Abraham",
+      "genre": "Comédie dramatique",
+      "duree": "1h 45min",
       "horaires": [
-        "16:00"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/pictures/20/03/03/11/58/2711913.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/281618-laurel-et-hardy-premiers-coups-de-genie/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/e5/dc/e5dc68a34d3a400a61f38676fc13cfa1.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/7835-moi-ivan-toi-abraham/"
+    },
+    {
+      "titre": "Mariage royal",
+      "genre": "Comédie musicale, Comédie, Romance",
+      "duree": "1h 34min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f4/48/f448f3a11c8a86a0ab0885599aa30755.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/16142-mariage-royal/"
     }
   ]
 }
