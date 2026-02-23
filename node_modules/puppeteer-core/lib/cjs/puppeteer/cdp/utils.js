@@ -5,7 +5,14 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.pageBindingInitString = exports.addPageBinding = exports.valueFromRemoteObject = exports.createClientError = exports.createEvaluationError = void 0;
+exports.CDP_BINDING_PREFIX = void 0;
+exports.createEvaluationError = createEvaluationError;
+exports.createClientError = createClientError;
+exports.valueFromJSHandle = valueFromJSHandle;
+exports.valueFromRemoteObjectReference = valueFromRemoteObjectReference;
+exports.valueFromPrimitiveRemoteObject = valueFromPrimitiveRemoteObject;
+exports.addPageBinding = addPageBinding;
+exports.pageBindingInitString = pageBindingInitString;
 const util_js_1 = require("../common/util.js");
 const assert_js_1 = require("../util/assert.js");
 /**
@@ -21,7 +28,7 @@ function createEvaluationError(details) {
     else if ((details.exception.type !== 'object' ||
         details.exception.subtype !== 'error') &&
         !details.exception.objectId) {
-        return valueFromRemoteObject(details.exception);
+        return valueFromPrimitiveRemoteObject(details.exception);
     }
     else {
         const detail = getErrorDetails(details);
@@ -53,7 +60,6 @@ function createEvaluationError(details) {
     error.stack = [...messageLines, ...stackLines].join('\n');
     return error;
 }
-exports.createEvaluationError = createEvaluationError;
 const getErrorDetails = (details) => {
     let name = '';
     let message;
@@ -82,7 +88,7 @@ function createClientError(details) {
     else if ((details.exception.type !== 'object' ||
         details.exception.subtype !== 'error') &&
         !details.exception.objectId) {
-        return valueFromRemoteObject(details.exception);
+        return valueFromPrimitiveRemoteObject(details.exception);
     }
     else {
         const detail = getErrorDetails(details);
@@ -106,11 +112,38 @@ function createClientError(details) {
     error.stack = [...messageLines, ...stackLines].join('\n');
     return error;
 }
-exports.createClientError = createClientError;
 /**
  * @internal
  */
-function valueFromRemoteObject(remoteObject) {
+function valueFromJSHandle(handle) {
+    const remoteObject = handle.remoteObject();
+    if (remoteObject.objectId) {
+        return valueFromRemoteObjectReference(handle);
+    }
+    else {
+        return valueFromPrimitiveRemoteObject(remoteObject);
+    }
+}
+/**
+ * @internal
+ */
+function valueFromRemoteObjectReference(handle) {
+    const remoteObject = handle.remoteObject();
+    (0, assert_js_1.assert)(remoteObject.objectId, 'Cannot extract value when no objectId is given');
+    const description = remoteObject.description ?? '';
+    if (remoteObject.subtype === 'error' && description) {
+        const newlineIdx = description.indexOf('\n');
+        if (newlineIdx === -1) {
+            return description;
+        }
+        return description.slice(0, newlineIdx);
+    }
+    return `[${remoteObject.subtype || remoteObject.type} ${remoteObject.className}]`;
+}
+/**
+ * @internal
+ */
+function valueFromPrimitiveRemoteObject(remoteObject) {
     (0, assert_js_1.assert)(!remoteObject.objectId, 'Cannot extract value when objectId is given');
     if (remoteObject.unserializableValue) {
         if (remoteObject.type === 'bigint') {
@@ -132,18 +165,15 @@ function valueFromRemoteObject(remoteObject) {
     }
     return remoteObject.value;
 }
-exports.valueFromRemoteObject = valueFromRemoteObject;
 /**
  * @internal
  */
-function addPageBinding(type, name) {
-    // This is the CDP binding.
-    // @ts-expect-error: In a different context.
-    const callCdp = globalThis[name];
+function addPageBinding(type, name, prefix) {
     // Depending on the frame loading state either Runtime.evaluate or
     // Page.addScriptToEvaluateOnNewDocument might succeed. Let's check that we
     // don't re-wrap Puppeteer's binding.
-    if (callCdp[Symbol.toStringTag] === 'PuppeteerBinding') {
+    // @ts-expect-error: In a different context.
+    if (globalThis[name]) {
         return;
     }
     // We replace the CDP binding with a Puppeteer binding.
@@ -157,7 +187,9 @@ function addPageBinding(type, name) {
             const seq = (callPuppeteer.lastSeq ?? 0) + 1;
             callPuppeteer.lastSeq = seq;
             callPuppeteer.args.set(seq, args);
-            callCdp(JSON.stringify({
+            // @ts-expect-error: In a different context.
+            // Needs to be the same as CDP_BINDING_PREFIX.
+            globalThis[prefix + name](JSON.stringify({
                 type,
                 name,
                 seq,
@@ -180,15 +212,15 @@ function addPageBinding(type, name) {
             });
         },
     });
-    // @ts-expect-error: In a different context.
-    globalThis[name][Symbol.toStringTag] = 'PuppeteerBinding';
 }
-exports.addPageBinding = addPageBinding;
+/**
+ * @internal
+ */
+exports.CDP_BINDING_PREFIX = 'puppeteer_';
 /**
  * @internal
  */
 function pageBindingInitString(type, name) {
-    return (0, util_js_1.evaluationString)(addPageBinding, type, name);
+    return (0, util_js_1.evaluationString)(addPageBinding, type, name, exports.CDP_BINDING_PREFIX);
 }
-exports.pageBindingInitString = pageBindingInitString;
 //# sourceMappingURL=utils.js.map
