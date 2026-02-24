@@ -18,7 +18,7 @@ export function createEvaluationError(details) {
     else if ((details.exception.type !== 'object' ||
         details.exception.subtype !== 'error') &&
         !details.exception.objectId) {
-        return valueFromRemoteObject(details.exception);
+        return valueFromPrimitiveRemoteObject(details.exception);
     }
     else {
         const detail = getErrorDetails(details);
@@ -78,7 +78,7 @@ export function createClientError(details) {
     else if ((details.exception.type !== 'object' ||
         details.exception.subtype !== 'error') &&
         !details.exception.objectId) {
-        return valueFromRemoteObject(details.exception);
+        return valueFromPrimitiveRemoteObject(details.exception);
     }
     else {
         const detail = getErrorDetails(details);
@@ -105,7 +105,35 @@ export function createClientError(details) {
 /**
  * @internal
  */
-export function valueFromRemoteObject(remoteObject) {
+export function valueFromJSHandle(handle) {
+    const remoteObject = handle.remoteObject();
+    if (remoteObject.objectId) {
+        return valueFromRemoteObjectReference(handle);
+    }
+    else {
+        return valueFromPrimitiveRemoteObject(remoteObject);
+    }
+}
+/**
+ * @internal
+ */
+export function valueFromRemoteObjectReference(handle) {
+    const remoteObject = handle.remoteObject();
+    assert(remoteObject.objectId, 'Cannot extract value when no objectId is given');
+    const description = remoteObject.description ?? '';
+    if (remoteObject.subtype === 'error' && description) {
+        const newlineIdx = description.indexOf('\n');
+        if (newlineIdx === -1) {
+            return description;
+        }
+        return description.slice(0, newlineIdx);
+    }
+    return `[${remoteObject.subtype || remoteObject.type} ${remoteObject.className}]`;
+}
+/**
+ * @internal
+ */
+export function valueFromPrimitiveRemoteObject(remoteObject) {
     assert(!remoteObject.objectId, 'Cannot extract value when objectId is given');
     if (remoteObject.unserializableValue) {
         if (remoteObject.type === 'bigint') {
@@ -130,14 +158,12 @@ export function valueFromRemoteObject(remoteObject) {
 /**
  * @internal
  */
-export function addPageBinding(type, name) {
-    // This is the CDP binding.
-    // @ts-expect-error: In a different context.
-    const callCdp = globalThis[name];
+export function addPageBinding(type, name, prefix) {
     // Depending on the frame loading state either Runtime.evaluate or
     // Page.addScriptToEvaluateOnNewDocument might succeed. Let's check that we
     // don't re-wrap Puppeteer's binding.
-    if (callCdp[Symbol.toStringTag] === 'PuppeteerBinding') {
+    // @ts-expect-error: In a different context.
+    if (globalThis[name]) {
         return;
     }
     // We replace the CDP binding with a Puppeteer binding.
@@ -151,7 +177,9 @@ export function addPageBinding(type, name) {
             const seq = (callPuppeteer.lastSeq ?? 0) + 1;
             callPuppeteer.lastSeq = seq;
             callPuppeteer.args.set(seq, args);
-            callCdp(JSON.stringify({
+            // @ts-expect-error: In a different context.
+            // Needs to be the same as CDP_BINDING_PREFIX.
+            globalThis[prefix + name](JSON.stringify({
                 type,
                 name,
                 seq,
@@ -174,13 +202,15 @@ export function addPageBinding(type, name) {
             });
         },
     });
-    // @ts-expect-error: In a different context.
-    globalThis[name][Symbol.toStringTag] = 'PuppeteerBinding';
 }
 /**
  * @internal
  */
+export const CDP_BINDING_PREFIX = 'puppeteer_';
+/**
+ * @internal
+ */
 export function pageBindingInitString(type, name) {
-    return evaluationString(addPageBinding, type, name);
+    return evaluationString(addPageBinding, type, name, CDP_BINDING_PREFIX);
 }
 //# sourceMappingURL=utils.js.map

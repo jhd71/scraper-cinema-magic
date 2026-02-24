@@ -96,6 +96,8 @@ let EmulationManager = (() => {
     let _private_setDefaultBackgroundColor_descriptor;
     let _private_setJavaScriptEnabled_decorators;
     let _private_setJavaScriptEnabled_descriptor;
+    let _private_emulateFocus_decorators;
+    let _private_emulateFocus_descriptor;
     return class EmulationManager {
         static {
             const _metadata = typeof Symbol === "function" && Symbol.metadata ? Object.create(null) : void 0;
@@ -109,8 +111,15 @@ let EmulationManager = (() => {
             _private_setGeolocation_decorators = [decorators_js_1.invokeAtMostOnceForArguments];
             _private_setDefaultBackgroundColor_decorators = [decorators_js_1.invokeAtMostOnceForArguments];
             _private_setJavaScriptEnabled_decorators = [decorators_js_1.invokeAtMostOnceForArguments];
+            _private_emulateFocus_decorators = [decorators_js_1.invokeAtMostOnceForArguments];
             __esDecorate(this, _private_applyViewport_descriptor = { value: __setFunctionName(async function (client, viewportState) {
                     if (!viewportState.viewport) {
+                        await Promise.all([
+                            client.send('Emulation.clearDeviceMetricsOverride'),
+                            client.send('Emulation.setTouchEmulationEnabled', {
+                                enabled: false,
+                            }),
+                        ]).catch(util_js_1.debugError);
                         return;
                     }
                     const { viewport } = viewportState;
@@ -123,12 +132,20 @@ let EmulationManager = (() => {
                         : { angle: 0, type: 'portraitPrimary' };
                     const hasTouch = viewport.hasTouch || false;
                     await Promise.all([
-                        client.send('Emulation.setDeviceMetricsOverride', {
+                        client
+                            .send('Emulation.setDeviceMetricsOverride', {
                             mobile,
                             width,
                             height,
                             deviceScaleFactor,
                             screenOrientation,
+                        })
+                            .catch(err => {
+                            if (err.message.includes('Target does not support metrics override')) {
+                                (0, util_js_1.debugError)(err);
+                                return;
+                            }
+                            throw err;
                         }),
                         client.send('Emulation.setTouchEmulationEnabled', {
                             enabled: hasTouch,
@@ -225,9 +242,17 @@ let EmulationManager = (() => {
                         value: !state.javaScriptEnabled,
                     });
                 }, "#setJavaScriptEnabled") }, _private_setJavaScriptEnabled_decorators, { kind: "method", name: "#setJavaScriptEnabled", static: false, private: true, access: { has: obj => #setJavaScriptEnabled in obj, get: obj => obj.#setJavaScriptEnabled }, metadata: _metadata }, null, _instanceExtraInitializers);
+            __esDecorate(this, _private_emulateFocus_descriptor = { value: __setFunctionName(async function (client, state) {
+                    if (!state.active) {
+                        return;
+                    }
+                    await client.send('Emulation.setFocusEmulationEnabled', {
+                        enabled: state.enabled,
+                    });
+                }, "#emulateFocus") }, _private_emulateFocus_decorators, { kind: "method", name: "#emulateFocus", static: false, private: true, access: { has: obj => #emulateFocus in obj, get: obj => obj.#emulateFocus }, metadata: _metadata }, null, _instanceExtraInitializers);
             if (_metadata) Object.defineProperty(this, Symbol.metadata, { enumerable: true, configurable: true, writable: true, value: _metadata });
         }
-        #client = (__runInitializers(this, _instanceExtraInitializers), void 0);
+        #client = __runInitializers(this, _instanceExtraInitializers);
         #emulatingMobile = false;
         #hasTouch = false;
         #states = [];
@@ -262,6 +287,10 @@ let EmulationManager = (() => {
             javaScriptEnabled: true,
             active: false,
         }, this, this.#setJavaScriptEnabled);
+        #focusState = new EmulatedState({
+            enabled: true,
+            active: false,
+        }, this, this.#emulateFocus);
         #secondaryClients = new Set();
         constructor(client) {
             this.#client = client;
@@ -291,12 +320,20 @@ let EmulationManager = (() => {
             return this.#javascriptEnabledState.state.javaScriptEnabled;
         }
         async emulateViewport(viewport) {
-            await this.#viewportState.setState({
-                viewport,
-                active: true,
-            });
-            const mobile = viewport.isMobile || false;
-            const hasTouch = viewport.hasTouch || false;
+            const currentState = this.#viewportState.state;
+            if (!viewport && !currentState.active) {
+                return false;
+            }
+            await this.#viewportState.setState(viewport
+                ? {
+                    viewport,
+                    active: true,
+                }
+                : {
+                    active: false,
+                });
+            const mobile = viewport?.isMobile || false;
+            const hasTouch = viewport?.hasTouch || false;
             const reloadNeeded = this.#emulatingMobile !== mobile || this.#hasTouch !== hasTouch;
             this.#emulatingMobile = mobile;
             this.#hasTouch = hasTouch;
@@ -325,6 +362,7 @@ let EmulationManager = (() => {
                 'blurredVision',
                 'deuteranopia',
                 'protanopia',
+                'reducedContrast',
                 'tritanopia',
             ]);
             (0, assert_js_1.assert)(!type || visionDeficiencies.has(type), `Unsupported vision deficiency: ${type}`);
@@ -409,6 +447,13 @@ let EmulationManager = (() => {
             await this.#javascriptEnabledState.setState({
                 active: true,
                 javaScriptEnabled: enabled,
+            });
+        }
+        get #emulateFocus() { return _private_emulateFocus_descriptor.value; }
+        async emulateFocus(enabled) {
+            await this.#focusState.setState({
+                active: true,
+                enabled,
             });
         }
     };
