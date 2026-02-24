@@ -33,6 +33,35 @@ async function scrapeCinema() {
         console.log('Pas de popup cookies');
     }
     
+    // === CLIQUER SUR LA DATE D'AUJOURD'HUI ===
+    const today = new Date();
+    const todayDay = today.getDate();
+    console.log(`📅 Recherche de la date du jour : ${todayDay}`);
+    
+    await new Promise(r => setTimeout(r, 2000));
+    
+    const clicked = await page.evaluate((day) => {
+        const allElements = document.querySelectorAll('button, a, div[role="tab"], [class*="date"], [class*="day"], [class*="calendar"]');
+        for (const el of allElements) {
+            const text = el.textContent?.trim() || '';
+            const match = text.match(/\b(\d{1,2})\b/);
+            if (match && parseInt(match[1]) === day) {
+                if (el.offsetHeight < 100 && el.offsetHeight > 0) {
+                    el.click();
+                    return text;
+                }
+            }
+        }
+        return null;
+    }, todayDay);
+    
+    if (clicked) {
+        console.log(`✅ Date du jour cliquée : "${clicked}"`);
+        await new Promise(r => setTimeout(r, 2000));
+    } else {
+        console.log('⚠️ Bouton date du jour non trouvé, on continue avec la date par défaut');
+    }
+    
     // Attendre les films
     await page.waitForSelector('.css-1fwauv0', { timeout: 30000 });
     console.log('✅ Films trouvés avec .css-1fwauv0');
