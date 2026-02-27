@@ -1,15 +1,15 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-02-26",
-  "scraped_at": "2026-02-26T21:27:35.823Z",
+  "date": "2026-02-27",
+  "scraped_at": "2026-02-27T01:11:06.416Z",
   "films": [
     {
       "titre": "Scream 7",
       "genre": "Épouvante-horreur, Thriller",
       "duree": "1h 54min",
       "horaires": [
-        "18:35"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/318865-scream-7/"
@@ -20,7 +20,7 @@
       "duree": "2h 1min",
       "horaires": [
         "13:45",
-        "18:10"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012480-le-reve-americain/"
@@ -30,29 +30,29 @@
       "genre": "Drame, Biopic",
       "duree": "2h 30min",
       "horaires": [
-        "13:45",
-        "20:30"
+        "13:50",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007317-marty-supreme/"
     },
     {
-      "titre": "\"Hurlevent\"",
-      "genre": "Drame, Romance",
-      "duree": "2h 16min",
+      "titre": "Goat - rêver plus haut",
+      "genre": "Animation, Comédie, Action",
+      "duree": "1h 40min",
       "horaires": [
-        "16:30",
-        "20:45"
+        "18:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000007235-hurlevent/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/326824-goat-rever-plus-haut/"
     },
     {
       "titre": "Les Enfants de la Résistance",
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "19:00"
+        "16:40",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006174-les-enfants-de-la-resistance/"
@@ -68,34 +68,34 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/"
     },
     {
-      "titre": "Soulèvements",
-      "genre": "Documentaire",
-      "duree": "1h 45min",
+      "titre": "Marsupilami",
+      "genre": "Comédie, Aventure, Famille",
+      "duree": "1h 39min",
       "horaires": [
-        "21:00"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c3/7a/c37aa39be9f24b3762c95b0d28a7f074.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000027296-soulevements/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/"
     },
     {
       "titre": "The Mastermind",
       "genre": "Drame, Policier",
       "duree": "1h 50min",
       "horaires": [
-        "14:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012006-the-mastermind/"
     },
     {
-      "titre": "Gourou",
-      "genre": "Thriller, Drame",
-      "duree": "2h 6min",
+      "titre": "Mariage royal",
+      "genre": "Comédie musicale, Comédie, Romance",
+      "duree": "1h 34min",
       "horaires": [
-        "16:10"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/328179-gourou/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f4/48/f448f3a11c8a86a0ab0885599aa30755.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/16142-mariage-royal/"
     }
   ]
 }
