@@ -1,15 +1,15 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-03-02",
-  "scraped_at": "2026-03-02T21:24:18.789Z",
+  "date": "2026-03-03",
+  "scraped_at": "2026-03-03T01:15:15.392Z",
   "films": [
     {
       "titre": "Scream 7",
       "genre": "Épouvante-horreur, Thriller",
       "duree": "1h 54min",
       "horaires": [
-        "21:00"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2f/1d/2f1d554dfd962d6049b9c1ea8cc4bbaa.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/318865-scream-7/"
@@ -20,7 +20,7 @@
       "duree": "2h 1min",
       "horaires": [
         "13:45",
-        "18:25"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012480-le-reve-americain/"
@@ -30,29 +30,29 @@
       "genre": "Drame, Biopic",
       "duree": "2h 30min",
       "horaires": [
-        "20:45",
-        "16:00"
+        "15:55",
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007317-marty-supreme/"
     },
     {
-      "titre": "\"Hurlevent\"",
-      "genre": "Drame, Romance",
-      "duree": "2h 16min",
+      "titre": "Goat - rêver plus haut",
+      "genre": "Animation, Comédie, Action",
+      "duree": "1h 40min",
       "horaires": [
-        "13:55",
-        "20:50"
+        "18:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0b/f5/0bf52c69f64606b7325be670294cb767.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000007235-hurlevent/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/37/b7/37b765610a647216c6dd6ea52d3170bd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/326824-goat-rever-plus-haut/"
     },
     {
       "titre": "Les Enfants de la Résistance",
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "16:25"
+        "13:55",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006174-les-enfants-de-la-resistance/"
@@ -62,7 +62,7 @@
       "genre": "Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "18:45"
+        "16:05"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/54/c454690b912d2f827afd1c530d815186.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024120-lol-20/"
@@ -72,20 +72,30 @@
       "genre": "Comédie, Aventure, Famille",
       "duree": "1h 39min",
       "horaires": [
-        "19:00"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/"
     },
     {
-      "titre": "Gourou",
-      "genre": "Thriller, Drame",
-      "duree": "2h 6min",
+      "titre": "The Mastermind",
+      "genre": "Drame, Policier",
+      "duree": "1h 50min",
       "horaires": [
-        "16:35"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/70/e9/70e9dfd918886ca3ea4e1088f06f659c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/328179-gourou/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/9b/e7/9be71377d6e8e664aa6225ee84a1daf5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012006-the-mastermind/"
+    },
+    {
+      "titre": "Le Quai des brumes",
+      "genre": "Drame",
+      "duree": "1h 31min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/54/5f/545f55305b0e728df6df61980e66855c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/2594-le-quai-des-brumes/"
     }
   ]
 }
