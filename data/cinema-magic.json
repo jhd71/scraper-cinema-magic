@@ -2,7 +2,7 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-03-09",
-  "scraped_at": "2026-03-09T12:38:06.781Z",
+  "scraped_at": "2026-03-09T15:48:56.447Z",
   "films": [
     {
       "titre": "Alter Ego",
@@ -50,7 +50,8 @@
       "genre": "Policier",
       "duree": "1h 20min",
       "horaires": [
-        "13:00"
+        "13:00",
+        "14:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/59/d8/59d850a90c94bb8ebbbb22fbff9d4970.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325655-maigret-et-le-mort-amoureux/"
