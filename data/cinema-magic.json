@@ -2,7 +2,7 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-03-16",
-  "scraped_at": "2026-03-16T12:47:35.345Z",
+  "scraped_at": "2026-03-16T15:56:37.594Z",
   "films": [
     {
       "titre": "LES K D'OR",
@@ -95,16 +95,6 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006174-les-enfants-de-la-resistance/"
-    },
-    {
-      "titre": "Woolf Works (The Royal Ballet)",
-      "genre": "Opéra",
-      "duree": "3h 13min",
-      "horaires": [
-        "20:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/b4/36/b4368859ac199a85d3e2f20f4bc3c5ab.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022519-woolf-works-the-royal-ballet/"
     },
     {
       "titre": "La Femme de ménage",
