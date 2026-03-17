@@ -1,15 +1,15 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-03-16",
-  "scraped_at": "2026-03-16T21:30:30.110Z",
+  "date": "2026-03-17",
+  "scraped_at": "2026-03-17T01:14:24.831Z",
   "films": [
     {
       "titre": "LES K D'OR",
       "genre": "Comédie",
       "duree": "1h 36min",
       "horaires": [
-        "20:45"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000003121-les-k-dor/"
@@ -19,7 +19,8 @@
       "genre": "Comédie",
       "duree": "1h 39min",
       "horaires": [
-        "18:20"
+        "16:20",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/288260-alter-ego/"
@@ -29,7 +30,7 @@
       "genre": "Documentaire",
       "duree": "1h 33min",
       "horaires": [
-        "16:20"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/76/32/76325273dba162d20a31fbc235173f69.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032102-rural/"
@@ -39,38 +40,58 @@
       "genre": "Comédie",
       "duree": "1h 26min",
       "horaires": [
-        "16:30"
+        "14:00",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012022-chers-parents/"
+    },
+    {
+      "titre": "EPiC: Elvis Presley in Concert",
+      "genre": "Documentaire, Concert",
+      "duree": "1h 36min",
+      "horaires": [
+        "14:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/4c/a9/4ca9330ce74e46f44ac476a9a6d8ebf9.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000018720-epic-elvis-presley-in-concert/"
     },
     {
       "titre": "Is This Thing On?",
       "genre": "Drame",
       "duree": "2h 1min",
       "horaires": [
-        "14:20"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/2c/ae/2cae809fed06a33e5c9a55e0e28c2e92.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317213-is-this-thing-on/"
     },
     {
-      "titre": "Coutures",
-      "genre": "Drame",
-      "duree": "1h 47min",
+      "titre": "Orwell: 2+2=5",
+      "genre": "Documentaire",
+      "duree": "2h 0min",
       "horaires": [
-        "14:10",
-        "20:30"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/66/c3/66c3fe35122f2e0e86e01859a80153b7.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000015619-coutures/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/314229-orwell-225/"
+    },
+    {
+      "titre": "Rue Málaga",
+      "genre": "Comédie dramatique",
+      "duree": "1h 57min",
+      "horaires": [
+        "16:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/4f/46/4f46a55374da1919875e846787fd1289.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000020088-rue-malaga/"
     },
     {
       "titre": "Le Rêve américain",
       "genre": "Comédie",
       "duree": "2h 1min",
       "horaires": [
-        "18:10"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/d2/72/d272d8a1cec3d5bf9aa5e254588b10de.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012480-le-reve-americain/"
@@ -80,51 +101,50 @@
       "genre": "Policier",
       "duree": "1h 20min",
       "horaires": [
-        "14:30"
+        "16:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/59/d8/59d850a90c94bb8ebbbb22fbff9d4970.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325655-maigret-et-le-mort-amoureux/"
+    },
+    {
+      "titre": "Marty Supreme",
+      "genre": "Drame, Biopic",
+      "duree": "2h 30min",
+      "horaires": [
+        "13:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/7d/cb/7dcb8416ab4e8fd4ff6eeaed758c6004.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000007317-marty-supreme/"
+    },
+    {
+      "titre": "It’s Never Over, Jeff Buckley",
+      "genre": "Documentaire, Concert",
+      "duree": "1h 50min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/9d/ec/9dec00a4d97e3715294cda121bcb6bff.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000017070-its-never-over-jeff-buckley/"
     },
     {
       "titre": "Les Enfants de la Résistance",
       "genre": "Drame, Historique, Aventure, Famille",
       "duree": "1h 41min",
       "horaires": [
-        "14:00",
-        "18:30"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/58/0f58892693cc868f4c0caf21614954cf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006174-les-enfants-de-la-resistance/"
     },
     {
-      "titre": "La Femme de ménage",
-      "genre": "Thriller",
-      "duree": "2h 13min",
+      "titre": "L’Attachement",
+      "genre": "Drame",
+      "duree": "1h 45min",
       "horaires": [
-        "20:40"
+        "20:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/ed/a3/eda3bba832e22c79ea22117b058f84e5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/317403-la-femme-de-menage/"
-    },
-    {
-      "titre": "Le Chant des forêts",
-      "genre": "Documentaire",
-      "duree": "1h 33min",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f5/52/f5523e15c97af96169bdc93479553602.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/321789-le-chant-des-forets/"
-    },
-    {
-      "titre": "Dossier 137",
-      "genre": "Policier",
-      "duree": "1h 55min",
-      "horaires": [
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/f2/64/f2640084cabb11cf1457d43888f43084.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000008860-dossier-137/"
+      "affiche": "https://all.web.img.acsta.net/r_500_x/img/83/a4/83a423a22c4438f3ecae29e227b2f6a9.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/313781-lattachement/"
     }
   ]
 }
