@@ -1,121 +1,120 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-03-18",
-  "scraped_at": "2026-03-18T06:51:42.327Z",
+  "date": "2026-03-19",
+  "scraped_at": "2026-03-19T03:56:35.167Z",
   "films": [
     {
       "titre": "La Guerre des prix",
-      "genre": "Thriller",
+      "genre": "ThrillerTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?14:2018:40",
       "duree": "1h 36min",
       "horaires": [
-        "20:50"
+        "14:20",
+        "18:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016305-la-guerre-des-prix/"
     },
     {
       "titre": "Les Rayons et les Ombres",
-      "genre": "Drame, Historique",
+      "genre": "Drame, HistoriqueTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?14:0019:50",
       "duree": "3h 19min",
       "horaires": [
         "14:00",
         "19:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007343-les-rayons-et-les-ombres/"
     },
     {
       "titre": "Projet dernière chance",
-      "genre": "Science fiction, Action, Aventure",
+      "genre": "Science fiction, Action, AventureTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?20:25",
       "duree": "2h 37min",
       "horaires": [
-        "13:50",
-        "20:40"
+        "20:25"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/282076-projet-derniere-chance/"
     },
     {
       "titre": "LES K D'OR",
-      "genre": "Comédie",
+      "genre": "ComédieTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:20",
       "duree": "1h 36min",
-      "horaires": [
-        "14:20",
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000003121-les-k-dor/"
-    },
-    {
-      "titre": "Jumpers",
-      "genre": "Animation, Aventure, Comédie",
-      "duree": "1h 45min",
       "horaires": [
         "16:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000009065-jumpers/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000003121-les-k-dor/"
     },
     {
-      "titre": "La Maison des femmes",
-      "genre": "Drame",
-      "duree": "1h 50min",
-      "horaires": [
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012019-la-maison-des-femmes/"
-    },
-    {
-      "titre": "Chers parents",
-      "genre": "Comédie",
-      "duree": "1h 26min",
-      "horaires": [
-        "18:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012022-chers-parents/"
-    },
-    {
-      "titre": "Biscuit le chien fantastique",
-      "genre": "Animation, Comédie, Famille",
-      "duree": "1h 32min",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/7b/09/7b095f309baf4441fc5966b2f217900e.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000017117-biscuit-le-chien-fantastique/"
-    },
-    {
-      "titre": "Marsupilami",
-      "genre": "Comédie, Aventure, Famille",
+      "titre": "Alter Ego",
+      "genre": "ComédieTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?17:45",
       "duree": "1h 39min",
       "horaires": [
         "17:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/b2/cb/b2cb998b62863d43cdd9a5f49c5ea4e6.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/317669-marsupilami/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a3/21/a3212f7a3bc901b69704c09de6e30093.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/288260-alter-ego/"
     },
     {
-      "titre": "Les Échos du passé",
-      "genre": "Drame",
-      "duree": "2h 35min",
+      "titre": "La Maison des femmes",
+      "genre": "DrameTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?18:15",
+      "duree": "1h 50min",
       "horaires": [
-        "18:00"
+        "18:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/16/07/1607b1aa4e7516d75f83006f89c4cb20.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/325123-les-echos-du-passe/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012019-la-maison-des-femmes/"
     },
     {
-      "titre": "L’Engloutie",
-      "genre": "Drame",
-      "duree": "1h 37min",
+      "titre": "Pillion",
+      "genre": "Drame, Érotique, Comédie, RomanceTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?20:40",
+      "duree": "1h 47min",
+      "horaires": [
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000004467-pillion/"
+    },
+    {
+      "titre": "The Bride!",
+      "genre": "Drame, Thriller, Romance, Science fiction, Épouvante-horreurTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?13:50",
+      "duree": "2h 7min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/180943-the-bride/"
+    },
+    {
+      "titre": "Chers parents",
+      "genre": "ComédieTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:20",
+      "duree": "1h 26min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012022-chers-parents/"
+    },
+    {
+      "titre": "Is This Thing On?",
+      "genre": "DrameTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?14:10",
+      "duree": "2h 1min",
       "horaires": [
         "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_500_x/img/a8/23/a823d4d9bc40438a7af124111fc67d19.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/311909-lengloutie/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2c/ae/2cae809fed06a33e5c9a55e0e28c2e92.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/317213-is-this-thing-on/"
+    },
+    {
+      "titre": "Orwell: 2+2=5",
+      "genre": "DocumentaireTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusLes docus du momentTu l'As Vu Mon Docu ?  En savoir plusAujourd’hui?16:25",
+      "duree": "52h 0min",
+      "horaires": [
+        "16:25"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/314229-orwell-225/"
     }
   ]
 }
