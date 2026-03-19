@@ -2,7 +2,7 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-03-19",
-  "scraped_at": "2026-03-19T15:43:26.970Z",
+  "scraped_at": "2026-03-19T18:42:32.444Z",
   "films": [
     {
       "titre": "La Guerre des prix",
@@ -115,6 +115,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314229-orwell-225/"
+    },
+    {
+      "titre": "Les Leçons Persanes",
+      "genre": "Historique, Drame, Guerre",
+      "duree": "2h 7min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/21/12/16/09/19/3769159.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/271732-les-lecons-persanes/"
     }
   ]
 }
