@@ -2,11 +2,11 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-03-19",
-  "scraped_at": "2026-03-19T06:45:15.186Z",
+  "scraped_at": "2026-03-19T08:55:12.859Z",
   "films": [
     {
       "titre": "La Guerre des prix",
-      "genre": "ThrillerTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?14:2018:40",
+      "genre": "Thriller",
       "duree": "1h 36min",
       "horaires": [
         "14:20",
@@ -17,7 +17,7 @@
     },
     {
       "titre": "Les Rayons et les Ombres",
-      "genre": "Drame, HistoriqueTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?14:0019:50",
+      "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
         "14:00",
@@ -28,7 +28,7 @@
     },
     {
       "titre": "Projet dernière chance",
-      "genre": "Science fiction, Action, AventureTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?20:25",
+      "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
         "20:25"
@@ -38,7 +38,7 @@
     },
     {
       "titre": "LES K D'OR",
-      "genre": "ComédieTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:20",
+      "genre": "Comédie",
       "duree": "1h 36min",
       "horaires": [
         "16:20"
@@ -48,7 +48,7 @@
     },
     {
       "titre": "Alter Ego",
-      "genre": "ComédieTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?17:45",
+      "genre": "Comédie",
       "duree": "1h 39min",
       "horaires": [
         "17:45"
@@ -58,7 +58,7 @@
     },
     {
       "titre": "La Maison des femmes",
-      "genre": "DrameTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?18:15",
+      "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
         "18:15"
@@ -68,7 +68,7 @@
     },
     {
       "titre": "Pillion",
-      "genre": "Drame, Érotique, Comédie, RomanceTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?20:40",
+      "genre": "Drame, Érotique, Comédie, Romance",
       "duree": "1h 47min",
       "horaires": [
         "20:40"
@@ -78,7 +78,7 @@
     },
     {
       "titre": "The Bride!",
-      "genre": "Drame, Thriller, Romance, Science fiction, Épouvante-horreurTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?13:50",
+      "genre": "Film",
       "duree": "2h 7min",
       "horaires": [
         "13:50"
@@ -88,7 +88,7 @@
     },
     {
       "titre": "Chers parents",
-      "genre": "ComédieTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?16:20",
+      "genre": "Comédie",
       "duree": "1h 26min",
       "horaires": [
         "16:20"
@@ -98,7 +98,7 @@
     },
     {
       "titre": "Is This Thing On?",
-      "genre": "DrameTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusAujourd’hui?14:10",
+      "genre": "Drame",
       "duree": "2h 1min",
       "horaires": [
         "14:10"
@@ -108,7 +108,7 @@
     },
     {
       "titre": "Orwell: 2+2=5",
-      "genre": "DocumentaireTrois jours à prix minis !Le Printemps du Cinéma  En savoir plusLes docus du momentTu l'As Vu Mon Docu ?  En savoir plusAujourd’hui?16:25",
+      "genre": "Documentaire",
       "duree": "52h 0min",
       "horaires": [
         "16:25"
