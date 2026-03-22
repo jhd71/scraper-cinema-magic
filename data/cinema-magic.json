@@ -2,8 +2,8 @@
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
   "date": "2026-03-22",
-  "dateLabel": "Dim.22",
-  "scraped_at": "2026-03-22T01:17:57.312Z",
+  "dateLabel": "Aujourd'hui",
+  "scraped_at": "2026-03-22T01:24:47.873Z",
   "films": [
     {
       "titre": "La Guerre des prix",
