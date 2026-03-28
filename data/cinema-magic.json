@@ -1,16 +1,17 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-03-27",
+  "date": "2026-03-28",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-03-27T21:25:49.124Z",
+  "scraped_at": "2026-03-28T01:16:26.135Z",
   "films": [
     {
       "titre": "Ceux qui comptent",
       "genre": "Comédie dramatique",
       "duree": "1h 38min",
       "horaires": [
-        "18:30"
+        "16:40",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/91/c4/91c4697bf2f82f4dba42d64d8188ec45.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018802-ceux-qui-comptent/"
@@ -20,8 +21,8 @@
       "genre": "Thriller",
       "duree": "1h 36min",
       "horaires": [
-        "16:15",
-        "20:15"
+        "14:20",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016305-la-guerre-des-prix/"
@@ -42,8 +43,8 @@
       "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
-        "13:50",
-        "20:25"
+        "15:25",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/282076-projet-derniere-chance/"
@@ -53,7 +54,7 @@
       "genre": "Comédie dramatique, Policier",
       "duree": "1h 44min",
       "horaires": [
-        "14:10"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000020100-le-crime-du-3e-etage/"
@@ -63,7 +64,7 @@
       "genre": "Animation, Science fiction",
       "duree": "1h 15min",
       "horaires": [
-        "16:45"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279261-planetes/"
@@ -73,7 +74,7 @@
       "genre": "Comédie dramatique",
       "duree": "1h 28min",
       "horaires": [
-        "18:15"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000021956-victor-comme-tout-le-monde/"
@@ -83,7 +84,7 @@
       "genre": "Animation, Aventure, Comédie",
       "duree": "1h 45min",
       "horaires": [
-        "18:20"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000009065-jumpers/"
@@ -93,20 +94,20 @@
       "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
-        "16:20"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012019-la-maison-des-femmes/"
     },
     {
-      "titre": "Pillion",
-      "genre": "Drame, Érotique, Comédie, Romance",
-      "duree": "1h 47min",
+      "titre": "The Bride!",
+      "genre": "Film",
+      "duree": "2h 7min",
       "horaires": [
-        "20:40"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000004467-pillion/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/180943-the-bride/"
     },
     {
       "titre": "Chers parents",
