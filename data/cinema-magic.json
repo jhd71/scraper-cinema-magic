@@ -3,11 +3,11 @@
   "ville": "Le Creusot",
   "date": "2026-03-31",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-03-31T15:59:02.396Z",
+  "scraped_at": "2026-03-31T18:47:41.925Z",
   "films": [
     {
       "titre": "Siegfried (The Royal Opera)",
-      "genre": "Opéra",
+      "genre": "Film",
       "duree": "5h 30min",
       "horaires": [
         "18:15"
@@ -17,7 +17,7 @@
     },
     {
       "titre": "Ceux qui comptent",
-      "genre": "Comédie dramatique",
+      "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
         "20:40"
@@ -27,7 +27,7 @@
     },
     {
       "titre": "La Guerre des prix",
-      "genre": "Thriller",
+      "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
         "16:00"
@@ -37,7 +37,7 @@
     },
     {
       "titre": "Les Rayons et les Ombres",
-      "genre": "Drame, Historique",
+      "genre": "Film",
       "duree": "3h 19min",
       "horaires": [
         "15:40"
@@ -47,7 +47,7 @@
     },
     {
       "titre": "Projet dernière chance",
-      "genre": "Science fiction, Action, Aventure",
+      "genre": "Film",
       "duree": "2h 37min",
       "horaires": [
         "15:20",
@@ -58,7 +58,7 @@
     },
     {
       "titre": "Le Crime du 3e étage",
-      "genre": "Comédie dramatique, Policier",
+      "genre": "Film",
       "duree": "1h 44min",
       "horaires": [
         "14:00"
@@ -68,7 +68,7 @@
     },
     {
       "titre": "Planètes",
-      "genre": "Animation, Science fiction",
+      "genre": "Film",
       "duree": "1h 15min",
       "horaires": [
         "13:50"
@@ -78,7 +78,7 @@
     },
     {
       "titre": "La Maison des femmes",
-      "genre": "Drame",
+      "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
         "18:30"
@@ -88,7 +88,7 @@
     },
     {
       "titre": "Rural",
-      "genre": "Documentaire",
+      "genre": "Film",
       "duree": "1h 33min",
       "horaires": [
         "20:50"
@@ -108,7 +108,7 @@
     },
     {
       "titre": "Chers parents",
-      "genre": "Comédie",
+      "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
         "13:50",
@@ -119,7 +119,7 @@
     },
     {
       "titre": "EPiC: Elvis Presley in Concert",
-      "genre": "Documentaire, Concert",
+      "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
         "16:30"
