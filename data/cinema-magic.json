@@ -1,17 +1,26 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-03-30T21:33:47.863Z",
+  "scraped_at": "2026-03-31T01:23:17.918Z",
   "films": [
+    {
+      "titre": "Siegfried (The Royal Opera)",
+      "genre": "Opéra",
+      "duree": "5h 30min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f9/90/f990d8a2ea5e213bd19f85e8124d1c1c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000022521-siegfried-the-royal-opera/"
+    },
     {
       "titre": "Ceux qui comptent",
       "genre": "Comédie dramatique",
       "duree": "1h 38min",
       "horaires": [
-        "14:00",
-        "18:20"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/91/c4/91c4697bf2f82f4dba42d64d8188ec45.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018802-ceux-qui-comptent/"
@@ -21,7 +30,7 @@
       "genre": "Thriller",
       "duree": "1h 36min",
       "horaires": [
-        "20:20"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016305-la-guerre-des-prix/"
@@ -31,8 +40,7 @@
       "genre": "Drame, Historique",
       "duree": "3h 19min",
       "horaires": [
-        "13:50",
-        "19:50"
+        "15:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007343-les-rayons-et-les-ombres/"
@@ -42,7 +50,8 @@
       "genre": "Science fiction, Action, Aventure",
       "duree": "2h 37min",
       "horaires": [
-        "20:10"
+        "15:20",
+        "20:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/282076-projet-derniere-chance/"
@@ -52,90 +61,71 @@
       "genre": "Comédie dramatique, Policier",
       "duree": "1h 44min",
       "horaires": [
-        "16:20"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000020100-le-crime-du-3e-etage/"
-    },
-    {
-      "titre": "LES K D'OR",
-      "genre": "Comédie",
-      "duree": "1h 36min",
-      "horaires": [
-        "14:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/72/1472d7be3edc7bc25bb46224e2f64328.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000003121-les-k-dor/"
     },
     {
       "titre": "Planètes",
       "genre": "Animation, Science fiction",
       "duree": "1h 15min",
       "horaires": [
-        "18:30"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279261-planetes/"
-    },
-    {
-      "titre": "Victor comme tout le monde",
-      "genre": "Comédie dramatique",
-      "duree": "1h 28min",
-      "horaires": [
-        "18:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7b/ec/7bec0c5e6b6d2cf4f985353223ae133a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000021956-victor-comme-tout-le-monde/"
     },
     {
       "titre": "La Maison des femmes",
       "genre": "Drame",
       "duree": "1h 50min",
       "horaires": [
-        "16:10"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012019-la-maison-des-femmes/"
     },
     {
-      "titre": "Pillion",
-      "genre": "Drame, Érotique, Comédie, Romance",
-      "duree": "1h 47min",
+      "titre": "Rural",
+      "genre": "Documentaire",
+      "duree": "1h 33min",
       "horaires": [
-        "20:30"
+        "20:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/4b/534b15308fa026cff713af2a4ccae844.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000004467-pillion/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/76/32/76325273dba162d20a31fbc235173f69.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000032102-rural/"
     },
     {
       "titre": "The Bride!",
       "genre": "Film",
       "duree": "2h 7min",
       "horaires": [
-        "16:00"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/180943-the-bride/"
     },
     {
-      "titre": "Orwell: 2+2=5",
-      "genre": "Documentaire",
-      "duree": "52h 0min",
+      "titre": "Chers parents",
+      "genre": "Comédie",
+      "duree": "1h 26min",
       "horaires": [
-        "17:30"
+        "13:50",
+        "19:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/2b/0c2bd5a0e4ca0f608888589f81b6a9b2.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/314229-orwell-225/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012022-chers-parents/"
     },
     {
-      "titre": "Nosferatu, fantôme de la nuit",
-      "genre": "Épouvante-horreur",
-      "duree": "1h 47min",
+      "titre": "EPiC: Elvis Presley in Concert",
+      "genre": "Documentaire, Concert",
+      "duree": "1h 36min",
       "horaires": [
-        "13:50"
+        "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/00/4900977318bf7b5b18656cb5ef3484ae.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1382-nosferatu-fantome-de-la-nuit/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4c/a9/4ca9330ce74e46f44ac476a9a6d8ebf9.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000018720-epic-elvis-presley-in-concert/"
     }
   ]
 }
