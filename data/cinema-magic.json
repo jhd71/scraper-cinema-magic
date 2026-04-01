@@ -1,131 +1,145 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-03-31T21:29:20.116Z",
+  "scraped_at": "2026-04-01T01:29:55.580Z",
   "films": [
     {
-      "titre": "Siegfried (The Royal Opera)",
+      "titre": "Compostelle",
       "genre": "Film",
-      "duree": "5h 30min",
+      "duree": "",
       "horaires": [
-        "18:15"
+        "14:10",
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f9/90/f990d8a2ea5e213bd19f85e8124d1c1c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022521-siegfried-the-royal-opera/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000016304-compostelle/"
+    },
+    {
+      "titre": "Mauvaise Pioche",
+      "genre": "Film",
+      "duree": "1h 32min",
+      "horaires": [
+        "16:25",
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000020594-mauvaise-pioche/"
+    },
+    {
+      "titre": "Plus fort que moi",
+      "genre": "Film",
+      "duree": "2h 1min",
+      "horaires": [
+        "16:00",
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b7/8fb759142fd32992ed10f00b082d92fd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000009982-plus-fort-que-moi/"
+    },
+    {
+      "titre": "Super Mario Galaxy Le Film",
+      "genre": "Film",
+      "duree": "1h 39min",
+      "horaires": [
+        "13:50",
+        "17:30",
+        "20:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
     },
     {
       "titre": "Ceux qui comptent",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "20:40"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/91/c4/91c4697bf2f82f4dba42d64d8188ec45.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018802-ceux-qui-comptent/"
     },
     {
-      "titre": "La Guerre des prix",
+      "titre": "Droits dans leurs bottes",
       "genre": "Film",
-      "duree": "1h 36min",
+      "duree": "1h 25min",
+      "horaires": [
+        "20:35"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/81/a2/81a2b14fba760c7308863008bccd2242.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000039030-droits-dans-leurs-bottes/"
+    },
+    {
+      "titre": "La Danse des renards",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "18:25"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ef/99/ef99ce4fb6db8b8348ebc254c64ab440.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/316780-la-danse-des-renards/"
+    },
+    {
+      "titre": "La Princesse, l'ogre et la fourmi",
+      "genre": "Film",
+      "duree": "0h 42min",
       "horaires": [
         "16:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/82/9e/829ecf49faaf8f4534f045054c096d9d.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000016305-la-guerre-des-prix/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d4/4f/d44fc9a919162a0bdf8cc6bfa82ece89.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000037359-la-princesse-logre-et-la-fourmi/"
     },
     {
       "titre": "Les Rayons et les Ombres",
       "genre": "Film",
       "duree": "3h 19min",
       "horaires": [
-        "15:40"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/47/c447be57bea5db08d582f557727e6a22.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007343-les-rayons-et-les-ombres/"
     },
     {
-      "titre": "Projet dernière chance",
+      "titre": "Reminders Of Him",
       "genre": "Film",
-      "duree": "2h 37min",
+      "duree": "1h 55min",
       "horaires": [
-        "15:20",
-        "20:35"
+        "18:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/282076-projet-derniere-chance/"
-    },
-    {
-      "titre": "Le Crime du 3e étage",
-      "genre": "Film",
-      "duree": "1h 44min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/0f/b20fa135f8ed4c7d0a5e0949c56e095e.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000020100-le-crime-du-3e-etage/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f7/f5/f7f5b02f75fd640bd6feb9f9581c42e0.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/315376-reminders-of-him/"
     },
     {
       "titre": "Planètes",
       "genre": "Film",
       "duree": "1h 15min",
       "horaires": [
-        "13:50"
+        "16:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/8f/ea8fb95276ef64374d453772434084b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279261-planetes/"
     },
     {
-      "titre": "La Maison des femmes",
+      "titre": "Howard Zinn, une histoire populaire américaine 2",
       "genre": "Film",
-      "duree": "1h 50min",
+      "duree": "21h 52min",
       "horaires": [
-        "18:30"
+        "14:30",
+        "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d0/9f/d09ff1ec5ee43c6f7f17d6622d7422d0.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012019-la-maison-des-femmes/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/73/6e73f5172dd4c7f6a48350a1bb36e383.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000032267-howard-zinn-une-histoire-populaire-americaine-2/"
     },
     {
-      "titre": "Rural",
+      "titre": "Los Tigres",
       "genre": "Film",
-      "duree": "1h 33min",
+      "duree": "1h 49min",
       "horaires": [
-        "20:50"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/76/32/76325273dba162d20a31fbc235173f69.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000032102-rural/"
-    },
-    {
-      "titre": "The Bride!",
-      "genre": "Film",
-      "duree": "2h 7min",
-      "horaires": [
-        "18:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/1b/45/1b45ecb07e76bd594a85997de715f925.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/180943-the-bride/"
-    },
-    {
-      "titre": "Chers parents",
-      "genre": "Film",
-      "duree": "1h 26min",
-      "horaires": [
-        "13:50",
-        "19:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/29/3f/293f877dfb7dcb5672591cba06329a20.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012022-chers-parents/"
-    },
-    {
-      "titre": "EPiC: Elvis Presley in Concert",
-      "genre": "Film",
-      "duree": "1h 36min",
-      "horaires": [
-        "16:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4c/a9/4ca9330ce74e46f44ac476a9a6d8ebf9.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000018720-epic-elvis-presley-in-concert/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e6/07/e6072a30a6045a3cdc545da6bbafe62a.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/325967-los-tigres/"
     }
   ]
 }
