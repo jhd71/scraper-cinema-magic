@@ -3,12 +3,12 @@
   "ville": "Le Creusot",
   "date": "2026-04-01",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-04-01T18:46:23.244Z",
+  "scraped_at": "2026-04-01T21:33:57.523Z",
   "films": [
     {
       "titre": "Compostelle",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 54min",
       "horaires": [
         "14:10",
         "18:30"
