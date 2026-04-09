@@ -1,17 +1,17 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-04-08T21:34:35.436Z",
+  "scraped_at": "2026-04-09T01:15:47.376Z",
   "films": [
     {
       "titre": "Cocorico 2",
       "genre": "Film",
       "duree": "21h 31min",
       "horaires": [
-        "16:30",
-        "20:45"
+        "16:20",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012412-cocorico-2/"
@@ -22,7 +22,7 @@
       "duree": "1h 32min",
       "horaires": [
         "14:20",
-        "18:30"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9d/15/9d157ac17daf804e350714f1f925c6bb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000023671-lenfant-du-desert/"
@@ -32,8 +32,7 @@
       "genre": "Film",
       "duree": "1h 33min",
       "horaires": [
-        "14:10",
-        "20:30"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4d/e3/4de3841fc2b8b6f2fa29be5ac5c4f964.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017983-la-femme-de/"
@@ -43,8 +42,8 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "16:15",
-        "20:20"
+        "15:45",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016304-compostelle/"
@@ -55,7 +54,7 @@
       "duree": "1h 32min",
       "horaires": [
         "14:30",
-        "18:20"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000020594-mauvaise-pioche/"
@@ -65,7 +64,7 @@
       "genre": "Film",
       "duree": "2h 1min",
       "horaires": [
-        "18:10"
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b7/8fb759142fd32992ed10f00b082d92fd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000009982-plus-fort-que-moi/"
@@ -75,72 +74,82 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "15:45",
-        "20:50"
+        "14:00",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
     },
     {
-      "titre": "Ceux qui comptent",
+      "titre": "Les Filles du ciel",
       "genre": "Film",
-      "duree": "1h 38min",
+      "duree": "1h 36min",
       "horaires": [
-        "16:10"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/91/c4/91c4697bf2f82f4dba42d64d8188ec45.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000018802-ceux-qui-comptent/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/323410-les-filles-du-ciel/"
     },
     {
       "titre": "Walter Lapin",
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "13:50"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a2/bd/a2bdae0847360b299016dd772fc85c2b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022218-walter-lapin/"
     },
     {
-      "titre": "Projet dernière chance",
+      "titre": "La Danse des renards",
       "genre": "Film",
-      "duree": "2h 37min",
+      "duree": "1h 34min",
       "horaires": [
-        "17:50"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/2a/992abd2d7fd54a1c00db5b43aee847d0.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/282076-projet-derniere-chance/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ef/99/ef99ce4fb6db8b8348ebc254c64ab440.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/316780-la-danse-des-renards/"
     },
     {
-      "titre": "La reconquista",
+      "titre": "La Princesse, l'ogre et la fourmi",
       "genre": "Film",
-      "duree": "1h 58min",
-      "horaires": [
-        "14:00",
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c0/9d/c09de5d58cc2bddcaaf5aa3049c99328.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/244490-la-reconquista/"
-    },
-    {
-      "titre": "Jusqu’à l’aube",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "18:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/67/d2/67d29f7594b073cd17e01223964b67d8.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/323536-jusqua-laube/"
-    },
-    {
-      "titre": "Jack et Nancy - les plus belles histoires de Quentin Blake",
-      "genre": "Film",
-      "duree": "0h 52min",
+      "duree": "0h 42min",
       "horaires": [
         "17:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/76/3d76384dc9a14c36165ea3b2df314ceb.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000024997-jack-et-nancy-les-plus-belles-histoires-de-quentin-blake/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d4/4f/d44fc9a919162a0bdf8cc6bfa82ece89.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000037359-la-princesse-logre-et-la-fourmi/"
+    },
+    {
+      "titre": "Police Flash 80",
+      "genre": "Film",
+      "duree": "801h 26min",
+      "horaires": [
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e0/d2e0fc59aa05b1667b14e7c3987573bc.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000022941-police-flash-80/"
+    },
+    {
+      "titre": "Reminders Of Him",
+      "genre": "Film",
+      "duree": "1h 55min",
+      "horaires": [
+        "18:00",
+        "15:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f7/f5/f7f5b02f75fd640bd6feb9f9581c42e0.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/315376-reminders-of-him/"
+    },
+    {
+      "titre": "Stand by Me",
+      "genre": "Film",
+      "duree": "1h 29min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/4d/de4d9f55e089fd9d0d1624e2a808dd06.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/2495-stand-by-me/"
     }
   ]
 }
