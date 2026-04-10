@@ -3,8 +3,18 @@
   "ville": "Le Creusot",
   "date": "2026-04-10",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-04-10T18:39:29.583Z",
+  "scraped_at": "2026-04-10T21:28:05.326Z",
   "films": [
+    {
+      "titre": "Juste une illusion",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
+    },
     {
       "titre": "Cocorico 2",
       "genre": "Film",
@@ -75,7 +85,8 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "16:00"
+        "16:00",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
