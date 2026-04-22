@@ -1,37 +1,91 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-04-21T21:37:16.602Z",
+  "scraped_at": "2026-04-22T01:28:05.925Z",
   "films": [
     {
-      "titre": "La Flûte Enchantée (The Royal Opera)",
+      "titre": "L'Arnaqueuse",
       "genre": "Film",
-      "duree": "3h 30min",
+      "duree": "1h 22min",
       "horaires": [
-        "19:45"
+        "16:45",
+        "21:05"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/66/9c66b20caa63432af172c588bebee726.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022522-la-flute-enchantee-the-royal-opera/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/f9/0bf95ca0474a1781b921862fb273a9cb.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000026412-larnaqueuse/"
+    },
+    {
+      "titre": "La Poupée",
+      "genre": "Film",
+      "duree": "1h 20min",
+      "horaires": [
+        "14:30",
+        "18:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/09/65/09654c317f423a18cba51456e628839d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000009082-la-poupee/"
+    },
+    {
+      "titre": "Les Fleurs du manguier",
+      "genre": "Film",
+      "duree": "1h 39min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d3/9e/d39e562c39c6ddb0b42fd902bd54ff63.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000027824-les-fleurs-du-manguier/"
+    },
+    {
+      "titre": "Pour le meilleur",
+      "genre": "Film",
+      "duree": "1h 47min",
+      "horaires": [
+        "16:15",
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000020101-pour-le-meilleur/"
+    },
+    {
+      "titre": "Good Luck Have Fun Don't Die",
+      "genre": "Film",
+      "duree": "2h 15min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/e1/42e15e9df4857aedd4142dcc6339306c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/326953-good-luck-have-fun-dont-die/"
     },
     {
       "titre": "Juste une illusion",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "14:10",
-        "20:25"
+        "13:50",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
+    },
+    {
+      "titre": "La Corde au cou",
+      "genre": "Film",
+      "duree": "1h 45min",
+      "horaires": [
+        "16:20",
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/d3/4fd3dc8b1b50eaa5de068450ee3e120e.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/328280-la-corde-au-cou/"
     },
     {
       "titre": "Une fille en or",
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "18:45"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/0f/bb0f9363bd93b115f677849c570d48b4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/327335-une-fille-en-or/"
@@ -41,8 +95,7 @@
       "genre": "Film",
       "duree": "21h 31min",
       "horaires": [
-        "14:20",
-        "18:20"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012412-cocorico-2/"
@@ -52,93 +105,50 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "16:20",
-        "20:20"
+        "18:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9d/15/9d157ac17daf804e350714f1f925c6bb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000023671-lenfant-du-desert/"
-    },
-    {
-      "titre": "La Femme de",
-      "genre": "Film",
-      "duree": "1h 33min",
-      "horaires": [
-        "14:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4d/e3/4de3841fc2b8b6f2fa29be5ac5c4f964.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000017983-la-femme-de/"
-    },
-    {
-      "titre": "Mauvaise Pioche",
-      "genre": "Film",
-      "duree": "1h 32min",
-      "horaires": [
-        "15:35"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/7f/f17f79f743742e1743f00001d4d14003.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000020594-mauvaise-pioche/"
-    },
-    {
-      "titre": "Nuestra Tierra",
-      "genre": "Film",
-      "duree": "2h 3min",
-      "horaires": [
-        "16:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7e/c2/7ec26787c1e2fbdc52dc6cac5c0e1edd.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000027836-nuestra-tierra/"
-    },
-    {
-      "titre": "Plus fort que moi",
-      "genre": "Film",
-      "duree": "2h 1min",
-      "horaires": [
-        "20:35",
-        "16:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b7/8fb759142fd32992ed10f00b082d92fd.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000009982-plus-fort-que-moi/"
-    },
-    {
-      "titre": "Silent Friend",
-      "genre": "Film",
-      "duree": "2h 27min",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/05/4205010710cd6378d3ec01f929478794.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/315015-silent-friend/"
     },
     {
       "titre": "Super Mario Galaxy Le Film",
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "18:25"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
     },
     {
-      "titre": "Les Filles du ciel",
+      "titre": "The Drama",
       "genre": "Film",
-      "duree": "1h 36min",
+      "duree": "1h 46min",
       "horaires": [
-        "13:50",
-        "17:25"
+        "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/b7/4eb7083418c36bfd338cd34374143071.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/323410-les-filles-du-ciel/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d8/a1/d8a1392b8ca6606937144df9513994d8.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000008742-the-drama/"
     },
     {
-      "titre": "La Danse des renards",
+      "titre": "Une jeunesse indienne - Homebound",
       "genre": "Film",
-      "duree": "1h 34min",
+      "duree": "1h 59min",
       "horaires": [
-        "16:30"
+        "18:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ef/99/ef99ce4fb6db8b8348ebc254c64ab440.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/316780-la-danse-des-renards/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0a/aa/0aaa63f822e3b7b2ffcd14b12e07a33c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000022828-une-jeunesse-indienne-homebound/"
+    },
+    {
+      "titre": "Abel",
+      "genre": "Film",
+      "duree": "2h 0min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/9d/a59db0f04640682ed57e6e0d153fe78e.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012048-abel/"
     }
   ]
 }
