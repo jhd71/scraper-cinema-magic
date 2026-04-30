@@ -1,28 +1,39 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-04-29T21:52:00.401Z",
+  "scraped_at": "2026-04-30T02:01:00.631Z",
   "films": [
     {
       "titre": "La Poupée",
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "14:30",
-        "18:15"
+        "16:40",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/09/65/09654c317f423a18cba51456e628839d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000009082-la-poupee/"
+    },
+    {
+      "titre": "Les Fleurs du manguier",
+      "genre": "Film",
+      "duree": "1h 39min",
+      "horaires": [
+        "16:15",
+        "20:25"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d3/9e/d39e562c39c6ddb0b42fd902bd54ff63.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000027824-les-fleurs-du-manguier/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "16:00",
-        "20:40"
+        "20:45",
+        "16:05"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
@@ -32,7 +43,8 @@
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "16:20"
+        "14:00",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000020101-pour-le-meilleur/"
@@ -42,28 +54,19 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "20:45"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f8/26/f8267fb67ed721057a4a2073e5f15be2.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006828-bagarre/"
-    },
-    {
-      "titre": "Good Luck Have Fun Don't Die",
-      "genre": "Film",
-      "duree": "2h 15min",
-      "horaires": [
-        "18:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/e1/42e15e9df4857aedd4142dcc6339306c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/326953-good-luck-have-fun-dont-die/"
     },
     {
       "titre": "Juste une illusion",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "15:50",
-        "20:25"
+        "13:55",
+        "18:00",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
@@ -73,8 +76,8 @@
       "genre": "Film",
       "duree": "1h 45min",
       "horaires": [
-        "16:10",
-        "20:10"
+        "14:30",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/d3/4fd3dc8b1b50eaa5de068450ee3e120e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/328280-la-corde-au-cou/"
@@ -84,7 +87,7 @@
       "genre": "Film",
       "duree": "1h 16min",
       "horaires": [
-        "14:10"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/9c/6f9c730c5c1ce5e2568036586e98dbeb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/323540-la-fille-du-konbini/"
@@ -94,27 +97,28 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "13:55"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012412-cocorico-2/"
     },
     {
-      "titre": "Le Cri des gardes",
+      "titre": "Romería",
       "genre": "Film",
-      "duree": "1h 49min",
+      "duree": "1h 55min",
       "horaires": [
-        "18:15"
+        "13:50",
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/07/ac/07ac2ba8e8d3388475020725122a5a41.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/327653-le-cri-des-gardes/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/71/7d71d5cb3807d32a852e5725c3c91974.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/304130-romeria/"
     },
     {
       "titre": "Compostelle",
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "15:50"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016304-compostelle/"
@@ -124,32 +128,10 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
-    },
-    {
-      "titre": "Une jeunesse indienne - Homebound",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "14:00",
-        "20:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0a/aa/0aaa63f822e3b7b2ffcd14b12e07a33c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022828-une-jeunesse-indienne-homebound/"
-    },
-    {
-      "titre": "Abel",
-      "genre": "Film",
-      "duree": "2h 0min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/9d/a59db0f04640682ed57e6e0d153fe78e.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012048-abel/"
     }
   ]
 }
