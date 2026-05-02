@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-05-01",
-  "dateLabel": "Sam.2",
-  "scraped_at": "2026-05-01T21:43:06.806Z",
+  "date": "2026-05-02",
+  "dateLabel": "Aujourd'hui",
+  "scraped_at": "2026-05-02T01:51:30.012Z",
   "films": [
     {
       "titre": "La Poupée",
