@@ -1,16 +1,15 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-10T21:38:34.825Z",
+  "scraped_at": "2026-05-11T02:08:08.159Z",
   "films": [
     {
       "titre": "C’est quoi l’amour ?",
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "12:15",
         "16:10",
         "20:10"
       ],
@@ -22,9 +21,8 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "11:55",
-        "16:20",
-        "20:30"
+        "16:05",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5f/fe/5ffe380abc5a30a52107cdd9b2264c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/292320-mortal-kombat-ii/"
@@ -34,8 +32,7 @@
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "10:30",
-        "14:25",
+        "14:20",
         "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/0e/0c0ee1446194ee21ca801fca6ac71de9.jpg",
@@ -46,9 +43,8 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "11:45",
-        "16:25",
-        "21:00"
+        "16:10",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -58,7 +54,7 @@
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "14:10"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/89/77/8977029863031e2d3ea8b7f679dece65.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317095-a-voix-basse/"
@@ -68,9 +64,8 @@
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "10:20",
-        "14:55",
-        "19:30"
+        "14:00",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
@@ -80,28 +75,38 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "18:40"
+        "14:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313953-nous-lorchestre/"
     },
     {
-      "titre": "Good Luck Have Fun Don't Die",
+      "titre": "Pour le meilleur",
       "genre": "Film",
-      "duree": "2h 15min",
+      "duree": "1h 47min",
       "horaires": [
-        "20:35"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/42/e1/42e15e9df4857aedd4142dcc6339306c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/326953-good-luck-have-fun-dont-die/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000020101-pour-le-meilleur/"
+    },
+    {
+      "titre": "Bagarre",
+      "genre": "Film",
+      "duree": "1h 37min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f8/26/f8267fb67ed721057a4a2073e5f15be2.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000006828-bagarre/"
     },
     {
       "titre": "Juste une illusion",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "14:05",
-        "18:45"
+        "13:50",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
@@ -111,7 +116,8 @@
       "genre": "Film",
       "duree": "1h 45min",
       "horaires": [
-        "10:15"
+        "16:20",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/d3/4fd3dc8b1b50eaa5de068450ee3e120e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/328280-la-corde-au-cou/"
@@ -121,7 +127,7 @@
       "genre": "Film",
       "duree": "1h 16min",
       "horaires": [
-        "10:20"
+        "18:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/9c/6f9c730c5c1ce5e2568036586e98dbeb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/323540-la-fille-du-konbini/"
@@ -131,52 +137,10 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "12:20",
-        "18:50"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012412-cocorico-2/"
-    },
-    {
-      "titre": "Les Contes du pommier",
-      "genre": "Film",
-      "duree": "1h 10min",
-      "horaires": [
-        "10:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/e7/97e726b5f30004d00fdd339b3f0757ce.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000019329-les-contes-du-pommier/"
-    },
-    {
-      "titre": "Compostelle",
-      "genre": "Film",
-      "duree": "1h 54min",
-      "horaires": [
-        "16:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/3d/5b3d2c4e0f58bab97b979611615ea321.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000016304-compostelle/"
-    },
-    {
-      "titre": "Super Mario Galaxy Le Film",
-      "genre": "Film",
-      "duree": "1h 39min",
-      "horaires": [
-        "12:50",
-        "17:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
-    },
-    {
-      "titre": "Jumpers",
-      "genre": "Film",
-      "duree": "1h 45min",
-      "horaires": [
-        "14:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/fc/0ffc959e65d43de4e4e3a40b80123e9e.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000009065-jumpers/"
     }
   ]
 }
