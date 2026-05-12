@@ -1,17 +1,26 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-11T21:57:22.956Z",
+  "scraped_at": "2026-05-12T02:03:39.313Z",
   "films": [
+    {
+      "titre": "La Vénus électrique",
+      "genre": "Film",
+      "duree": "2h 2min",
+      "horaires": [
+        "19:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000017998-la-venus-electrique/"
+    },
     {
       "titre": "C’est quoi l’amour ?",
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "16:10",
-        "20:10"
+        "14:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d5/79/d579011f3f7569a419fc93a0efe08763.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007257-cest-quoi-lamour/"
@@ -21,8 +30,8 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "16:05",
-        "20:15"
+        "16:30",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5f/fe/5ffe380abc5a30a52107cdd9b2264c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/292320-mortal-kombat-ii/"
@@ -32,8 +41,7 @@
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "14:20",
-        "18:20"
+        "16:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/0e/0c0ee1446194ee21ca801fca6ac71de9.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/302099-sauvons-les-meubles/"
@@ -43,8 +51,8 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "16:10",
-        "20:50"
+        "13:50",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -54,7 +62,7 @@
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "18:20"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/89/77/8977029863031e2d3ea8b7f679dece65.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317095-a-voix-basse/"
@@ -75,7 +83,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "14:15"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313953-nous-lorchestre/"
@@ -85,7 +93,8 @@
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "14:10"
+        "14:10",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000020101-pour-le-meilleur/"
@@ -95,7 +104,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "18:20"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f8/26/f8267fb67ed721057a4a2073e5f15be2.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006828-bagarre/"
@@ -105,8 +114,7 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
@@ -116,8 +124,7 @@
       "genre": "Film",
       "duree": "1h 45min",
       "horaires": [
-        "16:20",
-        "20:40"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/d3/4fd3dc8b1b50eaa5de068450ee3e120e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/328280-la-corde-au-cou/"
@@ -127,7 +134,7 @@
       "genre": "Film",
       "duree": "1h 16min",
       "horaires": [
-        "18:25"
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/9c/6f9c730c5c1ce5e2568036586e98dbeb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/323540-la-fille-du-konbini/"
@@ -141,6 +148,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/81/c481880f72da4f9a46f3fea9b0f83bf4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000012412-cocorico-2/"
+    },
+    {
+      "titre": "Super Mario Galaxy Le Film",
+      "genre": "Film",
+      "duree": "1h 39min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
     }
   ]
 }
