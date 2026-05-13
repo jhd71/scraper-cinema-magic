@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-12T22:03:53.246Z",
+  "scraped_at": "2026-05-13T02:09:15.528Z",
   "films": [
     {
       "titre": "L’Abandon",
