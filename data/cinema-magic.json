@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-15T21:49:34.181Z",
+  "scraped_at": "2026-05-16T02:01:52.918Z",
   "films": [
     {
       "titre": "Histoires parallèles",
@@ -21,8 +21,8 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:15",
-        "20:30"
+        "14:00",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
@@ -32,8 +32,8 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "14:30",
-        "18:30"
+        "16:20",
+        "20:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d5/79/d579011f3f7569a419fc93a0efe08763.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007257-cest-quoi-lamour/"
@@ -43,7 +43,8 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "18:15"
+        "16:00",
+        "17:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5f/fe/5ffe380abc5a30a52107cdd9b2264c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/292320-mortal-kombat-ii/"
@@ -53,8 +54,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:40",
-        "20:40"
+        "14:30",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027807-pour-le-plaisir/"
@@ -75,59 +76,49 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "14:10",
-        "21:00"
+        "13:50",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
-    },
-    {
-      "titre": "À voix basse",
-      "genre": "Film",
-      "duree": "1h 53min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/89/77/8977029863031e2d3ea8b7f679dece65.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/317095-a-voix-basse/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "13:55",
-        "18:25"
+        "16:10",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
     },
     {
-      "titre": "Nous l’orchestre",
+      "titre": "Juste une illusion",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 56min",
       "horaires": [
-        "16:30"
+        "20:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/313953-nous-lorchestre/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
     },
     {
-      "titre": "Le Réveil de la Momie",
+      "titre": "Les Contes du pommier",
       "genre": "Film",
-      "duree": "2h 14min",
+      "duree": "1h 10min",
       "horaires": [
-        "20:40"
+        "16:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/36/ee363e4628f63077dc8bf60babf12514.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000005009-le-reveil-de-la-momie/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/e7/97e726b5f30004d00fdd339b3f0757ce.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019329-les-contes-du-pommier/"
     },
     {
       "titre": "Wedding Nightmare : deuxième partie",
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "18:15"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/88/f9/88f94d7255e07eb66e232f2d92c517df.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001305-wedding-nightmare-deuxieme-partie/"
@@ -137,7 +128,7 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "16:25"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
