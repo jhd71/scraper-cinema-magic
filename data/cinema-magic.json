@@ -1,17 +1,17 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-17T21:44:21.295Z",
+  "scraped_at": "2026-05-18T02:27:00.032Z",
   "films": [
     {
       "titre": "Histoires parallèles",
       "genre": "Film",
       "duree": "2h 19min",
       "horaires": [
-        "10:15",
-        "18:05"
+        "16:10",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000023480-histoires-paralleles/"
@@ -21,8 +21,8 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "17:00",
-        "21:10"
+        "14:00",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
@@ -32,7 +32,6 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "10:30",
         "14:30",
         "18:30"
       ],
@@ -44,9 +43,8 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "10:15",
-        "14:50",
-        "18:55"
+        "14:10",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5f/fe/5ffe380abc5a30a52107cdd9b2264c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/292320-mortal-kombat-ii/"
@@ -56,9 +54,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "12:40",
         "16:40",
-        "20:40"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027807-pour-le-plaisir/"
@@ -68,8 +65,8 @@
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "12:45",
-        "20:45"
+        "14:20",
+        "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/0e/0c0ee1446194ee21ca801fca6ac71de9.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/302099-sauvons-les-meubles/"
@@ -79,7 +76,7 @@
       "genre": "Film",
       "duree": "1h 58min",
       "horaires": [
-        "21:10"
+        "13:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/7e/5a7e0992bbd2396635a9a4673d0e06b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/310017-die-my-love/"
@@ -89,9 +86,7 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "10:30",
-        "14:35",
-        "18:30"
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -101,28 +96,18 @@
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "12:05"
+        "16:15",
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/89/77/8977029863031e2d3ea8b7f679dece65.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317095-a-voix-basse/"
-    },
-    {
-      "titre": "Drunken Noodles",
-      "genre": "Film",
-      "duree": "1h 21min",
-      "horaires": [
-        "14:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/ef/f3ef873d9cb51384854b34c7174e6f96.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022998-drunken-noodles/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "14:15",
-        "18:45"
+        "18:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
@@ -132,8 +117,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "12:50",
-        "16:45"
+        "16:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313953-nous-lorchestre/"
@@ -143,41 +127,11 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "12:30"
+        "16:00",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
-    },
-    {
-      "titre": "Le Réveil de la Momie",
-      "genre": "Film",
-      "duree": "2h 14min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/36/ee363e4628f63077dc8bf60babf12514.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000005009-le-reveil-de-la-momie/"
-    },
-    {
-      "titre": "Super Mario Galaxy Le Film",
-      "genre": "Film",
-      "duree": "1h 39min",
-      "horaires": [
-        "10:10",
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
-    },
-    {
-      "titre": "Little Trouble Girls",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "16:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4e/1a/4e1ad8a908675c923a57fbb877dd131d.jpeg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/317577-little-trouble-girls/"
     }
   ]
 }
