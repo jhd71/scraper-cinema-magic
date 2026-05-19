@@ -3,17 +3,40 @@
   "ville": "Le Creusot",
   "date": "2026-05-19",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-19T19:42:48.480Z",
+  "scraped_at": "2026-05-19T22:06:43.505Z",
   "films": [
     {
       "titre": "Autofiction",
       "genre": "Film",
       "duree": "1h 51min",
       "horaires": [
-        "20:20"
+        "16:50",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
+    },
+    {
+      "titre": "Star Wars: The Mandalorian and Grogu",
+      "genre": "Film",
+      "duree": "2h 12min",
+      "horaires": [
+        "14:00",
+        "20:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
+    },
+    {
+      "titre": "L’Être Aimé",
+      "genre": "Film",
+      "duree": "2h 15min",
+      "horaires": [
+        "13:50",
+        "18:35"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/325965-letre-aime/"
     },
     {
       "titre": "Histoires parallèles",
@@ -31,11 +54,22 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:20",
-        "20:40"
+        "16:25",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
+    },
+    {
+      "titre": "La Vénus électrique",
+      "genre": "Film",
+      "duree": "2h 2min",
+      "horaires": [
+        "14:00",
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000017998-la-venus-electrique/"
     },
     {
       "titre": "C’est quoi l’amour ?",
@@ -48,23 +82,11 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007257-cest-quoi-lamour/"
     },
     {
-      "titre": "Mortal Kombat II",
-      "genre": "Film",
-      "duree": "1h 56min",
-      "horaires": [
-        "14:00",
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5f/fe/5ffe380abc5a30a52107cdd9b2264c07.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/292320-mortal-kombat-ii/"
-    },
-    {
       "titre": "Pour le plaisir",
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "14:30",
-        "18:30"
+        "18:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027807-pour-le-plaisir/"
@@ -74,73 +96,51 @@
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "16:30",
-        "21:00"
+        "16:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/0e/0c0ee1446194ee21ca801fca6ac71de9.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/302099-sauvons-les-meubles/"
-    },
-    {
-      "titre": "Die My Love",
-      "genre": "Film",
-      "duree": "1h 58min",
-      "horaires": [
-        "13:55",
-        "18:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/7e/5a7e0992bbd2396635a9a4673d0e06b5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/310017-die-my-love/"
     },
     {
       "titre": "Le Diable s'habille en Prada 2",
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "14:10",
-        "20:50"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
-    },
-    {
-      "titre": "À voix basse",
-      "genre": "Film",
-      "duree": "1h 53min",
-      "horaires": [
-        "16:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/89/77/8977029863031e2d3ea8b7f679dece65.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/317095-a-voix-basse/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "20:45"
+        "21:05"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
     },
     {
-      "titre": "Pour le meilleur",
+      "titre": "Allo la France",
       "genre": "Film",
-      "duree": "1h 47min",
+      "duree": "1h 17min",
       "horaires": [
-        "16:25"
+        "19:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/70/d6/70d6f7006ed9b8dbaf991e6922ba60f7.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000020101-pour-le-meilleur/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/cf/4acf7b90b734527b3c5068492f23d430.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000025088-allo-la-france/"
     },
     {
-      "titre": "Juste une illusion",
+      "titre": "Ce qu'il reste de nous",
       "genre": "Film",
-      "duree": "1h 56min",
+      "duree": "2h 25min",
       "horaires": [
-        "18:20"
+        "14:10",
+        "20:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ab/be/abbedce650d9fd1b3fe6c2defe9c3518.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000016229-ce-quil-reste-de-nous/"
     }
   ]
 }
