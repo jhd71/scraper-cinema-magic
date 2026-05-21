@@ -3,15 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-05-21",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-21T19:42:42.789Z",
+  "scraped_at": "2026-05-21T22:11:37.805Z",
   "films": [
     {
       "titre": "Autofiction",
       "genre": "Film",
       "duree": "1h 51min",
       "horaires": [
-        "13:55",
-        "18:40"
+        "21:10",
+        "16:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
@@ -22,7 +22,7 @@
       "duree": "2h 12min",
       "horaires": [
         "16:10",
-        "20:35"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
@@ -32,8 +32,8 @@
       "genre": "Film",
       "duree": "2h 15min",
       "horaires": [
-        "16:05",
-        "20:50"
+        "13:50",
+        "18:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325965-letre-aime/"
@@ -43,8 +43,8 @@
       "genre": "Film",
       "duree": "2h 19min",
       "horaires": [
-        "15:50",
-        "20:30"
+        "13:50",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000023480-histoires-paralleles/"
@@ -54,8 +54,8 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "16:25",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
@@ -65,8 +65,8 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "16:20",
-        "20:50"
+        "14:00",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017998-la-venus-electrique/"
@@ -76,7 +76,7 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "18:40"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d5/79/d579011f3f7569a419fc93a0efe08763.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007257-cest-quoi-lamour/"
@@ -86,27 +86,18 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
+        "14:20",
         "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027807-pour-le-plaisir/"
     },
     {
-      "titre": "Sauvons les meubles",
-      "genre": "Film",
-      "duree": "1h 26min",
-      "horaires": [
-        "14:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/0e/0c0ee1446194ee21ca801fca6ac71de9.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/302099-sauvons-les-meubles/"
-    },
-    {
       "titre": "The World of Love",
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "14:00"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/24/aa/24aae1d7eec39d1197e852f02703ecb7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027952-the-world-of-love/"
@@ -116,7 +107,7 @@
       "genre": "Film",
       "duree": "1h 58min",
       "horaires": [
-        "16:20"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/7e/5a7e0992bbd2396635a9a4673d0e06b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/310017-die-my-love/"
@@ -126,7 +117,7 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "21:10"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -136,7 +127,7 @@
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "18:40"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
@@ -146,7 +137,7 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "14:00"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
