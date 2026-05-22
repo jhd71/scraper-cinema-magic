@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-21T22:11:37.805Z",
+  "scraped_at": "2026-05-22T02:28:00.732Z",
   "films": [
     {
       "titre": "Autofiction",
