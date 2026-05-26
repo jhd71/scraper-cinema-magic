@@ -3,15 +3,37 @@
   "ville": "Le Creusot",
   "date": "2026-05-26",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-05-26T19:55:35.167Z",
+  "scraped_at": "2026-05-26T22:14:54.228Z",
   "films": [
+    {
+      "titre": "L'Objet du délit",
+      "genre": "Film",
+      "duree": "2h 13min",
+      "horaires": [
+        "16:10",
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/13/f113b78c6126c1a49a0168d53497267c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000022832-lobjet-du-delit/"
+    },
+    {
+      "titre": "Mata",
+      "genre": "Film",
+      "duree": "1h 38min",
+      "horaires": [
+        "14:10",
+        "18:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000016295-mata/"
+    },
     {
       "titre": "Autofiction",
       "genre": "Film",
       "duree": "1h 51min",
       "horaires": [
-        "14:00",
-        "18:45"
+        "13:50",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
@@ -21,6 +43,7 @@
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
+        "15:50",
         "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
@@ -31,8 +54,8 @@
       "genre": "Film",
       "duree": "2h 15min",
       "horaires": [
-        "16:10",
-        "21:00"
+        "15:50",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325965-letre-aime/"
@@ -42,30 +65,18 @@
       "genre": "Film",
       "duree": "2h 19min",
       "horaires": [
-        "13:50",
-        "18:15"
+        "15:50",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000023480-histoires-paralleles/"
-    },
-    {
-      "titre": "L’Abandon",
-      "genre": "Film",
-      "duree": "1h 40min",
-      "horaires": [
-        "16:15",
-        "20:55"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
     },
     {
       "titre": "La Vénus électrique",
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "16:25",
-        "21:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017998-la-venus-electrique/"
@@ -75,80 +86,52 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "13:50"
+        "14:00",
+        "18:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027807-pour-le-plaisir/"
-    },
-    {
-      "titre": "Sauvons les meubles",
-      "genre": "Film",
-      "duree": "1h 26min",
-      "horaires": [
-        "15:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0c/0e/0c0ee1446194ee21ca801fca6ac71de9.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/302099-sauvons-les-meubles/"
-    },
-    {
-      "titre": "The World of Love",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "18:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/24/aa/24aae1d7eec39d1197e852f02703ecb7.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000027952-the-world-of-love/"
-    },
-    {
-      "titre": "Die My Love",
-      "genre": "Film",
-      "duree": "1h 58min",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/7e/5a7e0992bbd2396635a9a4673d0e06b5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/310017-die-my-love/"
-    },
-    {
-      "titre": "Le Diable s'habille en Prada 2",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "20:50"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
     },
     {
-      "titre": "Nous l’orchestre",
+      "titre": "Super Mario Galaxy Le Film",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 39min",
       "horaires": [
-        "18:00"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b0/b6/b0b697a9f50e276e76eb4660fe084869.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/313953-nous-lorchestre/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/3c/923c580e3fb2488d308865d6b6a2e381.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/327878-super-mario-galaxy-le-film/"
     },
     {
-      "titre": "Juste une illusion",
+      "titre": "Allo la France",
       "genre": "Film",
-      "duree": "1h 56min",
+      "duree": "1h 17min",
       "horaires": [
-        "13:55"
+        "14:10",
+        "21:05"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cf/9e/cf9effb40e5ae3747fdb68a68289e81a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000015954-juste-une-illusion/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/cf/4acf7b90b734527b3c5068492f23d430.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000025088-allo-la-france/"
+    },
+    {
+      "titre": "Ce qu'il reste de nous",
+      "genre": "Film",
+      "duree": "2h 25min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ab/be/abbedce650d9fd1b3fe6c2defe9c3518.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000016229-ce-quil-reste-de-nous/"
     }
   ]
 }
