@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-06-02",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-02T12:34:01.196Z",
+  "scraped_at": "2026-06-02T18:31:47.042Z",
   "films": [
     {
       "titre": "L'Objet du délit",
@@ -121,6 +121,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
+    },
+    {
+      "titre": "Michael",
+      "genre": "Film",
+      "duree": "2h 8min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
     },
     {
       "titre": "À bout de course",
