@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-06-05",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-05T06:58:00.331Z",
+  "scraped_at": "2026-06-05T11:55:53.617Z",
   "films": [
     {
       "titre": "Bouchra",
@@ -148,6 +148,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
+    },
+    {
+      "titre": "Le Chant de la Mer",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "14:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/14/12/01/12/08/107961.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/226004-le-chant-de-la-mer/"
     }
   ]
 }
