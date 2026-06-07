@@ -1,16 +1,26 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-06T21:56:32.815Z",
+  "scraped_at": "2026-06-07T02:36:06.178Z",
   "films": [
+    {
+      "titre": "Hamlet (Comédie-Française)",
+      "genre": "Film",
+      "duree": "2h 5min",
+      "horaires": [
+        "15:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9d/ea/9deabc47655863e0791ef5cf1e1a1f75.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000033564-hamlet-comedie-francaise/"
+    },
     {
       "titre": "Bouchra",
       "genre": "Film",
       "duree": "1h 23min",
       "horaires": [
-        "18:50"
+        "18:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/14/99140c361e133b0537d02b67b63689c7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027940-bouchra/"
@@ -20,8 +30,9 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "17:00",
-        "20:10"
+        "10:30",
+        "13:30",
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/77/c5/77c52cb63e96528fac960a9785dba1be.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
@@ -31,7 +42,8 @@
       "genre": "Film",
       "duree": "1h 19min",
       "horaires": [
-        "16:20"
+        "10:50",
+        "14:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/08/20/082028a510ebcaa259712094f41f2f45.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314613-nouveaux-copains-a-puffin-rock/"
@@ -41,8 +53,9 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "14:10",
-        "21:10"
+        "10:10",
+        "14:35",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001030-scary-movie/"
@@ -52,8 +65,8 @@
       "genre": "Film",
       "duree": "2h 13min",
       "horaires": [
-        "13:50",
-        "18:25"
+        "14:10",
+        "20:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/13/f113b78c6126c1a49a0168d53497267c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022832-lobjet-du-delit/"
@@ -63,7 +76,9 @@
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "18:00"
+        "12:30",
+        "16:30",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016295-mata/"
@@ -73,7 +88,7 @@
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "16:40"
+        "12:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
@@ -83,28 +98,30 @@
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "14:15",
-        "18:40"
+        "12:05",
+        "16:10",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
     },
     {
-      "titre": "Histoires parallèles",
+      "titre": "Iron Maiden: Burning Ambition",
       "genre": "Film",
-      "duree": "2h 19min",
+      "duree": "1h 46min",
       "horaires": [
-        "20:00"
+        "20:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000023480-histoires-paralleles/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ff/cc/ffcc393f7659ba975478a74c0a96f3d4.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000038424-iron-maiden-burning-ambition/"
     },
     {
       "titre": "L’Abandon",
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:25"
+        "12:10",
+        "16:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
@@ -114,8 +131,7 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "14:20",
-        "20:40"
+        "10:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017998-la-venus-electrique/"
@@ -125,7 +141,7 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "21:00"
+        "10:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027807-pour-le-plaisir/"
@@ -135,7 +151,7 @@
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "14:00"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -145,10 +161,20 @@
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "16:10"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
+    },
+    {
+      "titre": "Les Hommes préfèrent les blondes",
+      "genre": "Film",
+      "duree": "1h 31min",
+      "horaires": [
+        "18:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/48/8e4869581edd33daf17152e5f1a7efd9.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/886-les-hommes-preferent-les-blondes/"
     }
   ]
 }
