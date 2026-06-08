@@ -3,14 +3,14 @@
   "ville": "Le Creusot",
   "date": "2026-06-08",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-08T20:00:43.882Z",
+  "scraped_at": "2026-06-08T22:18:20.719Z",
   "films": [
     {
       "titre": "Bouchra",
       "genre": "Film",
       "duree": "1h 23min",
       "horaires": [
-        "18:40"
+        "19:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/14/99140c361e133b0537d02b67b63689c7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027940-bouchra/"
@@ -52,7 +52,8 @@
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "18:50"
+        "16:15",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016295-mata/"
@@ -62,7 +63,7 @@
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "16:30"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
@@ -72,8 +73,7 @@
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "16:20",
-        "20:30"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
@@ -83,51 +83,50 @@
       "genre": "Film",
       "duree": "2h 15min",
       "horaires": [
-        "14:00"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325965-letre-aime/"
+    },
+    {
+      "titre": "Histoires parallèles",
+      "genre": "Film",
+      "duree": "2h 19min",
+      "horaires": [
+        "18:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023480-histoires-paralleles/"
     },
     {
       "titre": "L’Abandon",
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:25",
-        "21:00"
+        "16:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
     },
     {
-      "titre": "La Vénus électrique",
+      "titre": "Pour le plaisir",
       "genre": "Film",
-      "duree": "2h 2min",
+      "duree": "1h 29min",
       "horaires": [
-        "20:40"
+        "21:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000017998-la-venus-electrique/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/a2/fea2774a98df8c1101bafd7896f82b68.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000027807-pour-le-plaisir/"
     },
     {
-      "titre": "Le Diable s'habille en Prada 2",
+      "titre": "Michael",
       "genre": "Film",
-      "duree": "1h 59min",
+      "duree": "2h 8min",
       "horaires": [
-        "17:30"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
-    },
-    {
-      "titre": "Le Chant de la Mer",
-      "genre": "Film",
-      "duree": "1h 33min",
-      "horaires": [
-        "14:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/14/12/01/12/08/107961.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/226004-le-chant-de-la-mer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
     }
   ]
 }
