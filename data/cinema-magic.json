@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-06-08",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-08T07:23:13.543Z",
+  "scraped_at": "2026-06-08T12:58:15.428Z",
   "films": [
     {
       "titre": "Bouchra",
@@ -52,7 +52,6 @@
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "14:20",
         "18:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
@@ -119,6 +118,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
+    },
+    {
+      "titre": "Le Chant de la Mer",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "14:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/14/12/01/12/08/107961.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/226004-le-chant-de-la-mer/"
     }
   ]
 }
