@@ -3,15 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-06-11",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-11T18:04:29.889Z",
+  "scraped_at": "2026-06-11T22:46:53.775Z",
   "films": [
     {
       "titre": "Disclosure Day",
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "16:00",
-        "20:35"
+        "20:35",
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001453-disclosure-day/"
@@ -21,7 +21,7 @@
       "genre": "Film",
       "duree": "1h 23min",
       "horaires": [
-        "18:40"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/14/99140c361e133b0537d02b67b63689c7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000027940-bouchra/"
@@ -31,8 +31,8 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:40",
-        "19:40"
+        "16:30",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/77/c5/77c52cb63e96528fac960a9785dba1be.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
@@ -42,8 +42,7 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "16:30",
-        "21:00"
+        "19:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001030-scary-movie/"
@@ -53,7 +52,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "18:35"
+        "13:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022455-cocotte/"
@@ -63,7 +62,7 @@
       "genre": "Film",
       "duree": "2h 13min",
       "horaires": [
-        "20:35"
+        "15:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/13/f113b78c6126c1a49a0168d53497267c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022832-lobjet-du-delit/"
@@ -93,7 +92,8 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "20:30"
+        "14:15",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017042-tout-va-super/"
@@ -109,41 +109,31 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
     },
     {
+      "titre": "Passenger",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "21:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/0a/a60a11b68595a370995f33405c41e9e1.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000013049-passenger/"
+    },
+    {
       "titre": "Star Wars: The Mandalorian and Grogu",
       "genre": "Film",
       "duree": "2h 12min",
       "horaires": [
-        "18:30"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
-    },
-    {
-      "titre": "L’Être Aimé",
-      "genre": "Film",
-      "duree": "2h 15min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fb/ce/fbce99c777dbeedf8a6d8290cbd25b2a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/325965-letre-aime/"
-    },
-    {
-      "titre": "Histoires parallèles",
-      "genre": "Film",
-      "duree": "2h 19min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f3/5d/f35d2ca86b5d6c0d9b76fc8b07e56cb4.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000023480-histoires-paralleles/"
     },
     {
       "titre": "L’Abandon",
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:35"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
@@ -153,20 +143,30 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "14:00"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8f/b2/8fb29a2a2cc94a83af4989ba69a23fcd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017998-la-venus-electrique/"
     },
     {
-      "titre": "Le Diable s'habille en Prada 2",
+      "titre": "Marcher sur l'eau",
       "genre": "Film",
-      "duree": "1h 59min",
+      "duree": "1h 29min",
       "horaires": [
-        "16:20"
+        "20:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/21/07/07/11/51/3090352.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/276720-marcher-sur-leau/"
+    },
+    {
+      "titre": "Le Chant de la Mer",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/14/12/01/12/08/107961.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/226004-le-chant-de-la-mer/"
     }
   ]
 }
