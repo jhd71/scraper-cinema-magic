@@ -3,15 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-06-18",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-18T20:10:38.755Z",
+  "scraped_at": "2026-06-18T22:51:52.884Z",
   "films": [
     {
       "titre": "L'Illusion de Yakushima",
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "14:20",
-        "18:20"
+        "16:20",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/33/103306ec6d5abdd9dabb719258ded147.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022404-lillusion-de-yakushima/"
@@ -21,7 +21,7 @@
       "genre": "Film",
       "duree": "51h 42min",
       "horaires": [
-        "18:30"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/a6/baa69b8aeb28ddae932549492cb5ed9c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
@@ -32,7 +32,7 @@
       "duree": "2h 25min",
       "horaires": [
         "13:50",
-        "20:30"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001453-disclosure-day/"
@@ -42,8 +42,8 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:00",
-        "19:45"
+        "14:15",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
@@ -53,17 +53,27 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "20:40"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/1207823987500650b921584917214ab5.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016927-le-garcon-qui-faisait-danser-les-collines/"
+    },
+    {
+      "titre": "Nouveaux copains à Puffin Rock",
+      "genre": "Film",
+      "duree": "1h 19min",
+      "horaires": [
+        "17:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/08/20/082028a510ebcaa259712094f41f2f45.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/314613-nouveaux-copains-a-puffin-rock/"
     },
     {
       "titre": "Scary Movie",
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "21:00"
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001030-scary-movie/"
@@ -73,8 +83,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "13:50",
-        "18:25"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022455-cocotte/"
@@ -84,10 +93,21 @@
       "genre": "Film",
       "duree": "2h 13min",
       "horaires": [
-        "20:25"
+        "15:50",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022832-lobjet-du-delit/"
+    },
+    {
+      "titre": "Le Dernier Souffle d'un Yakuza",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "18:25"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/be/1b/be1b87d105e6ecf478bfd605fcb6c32b.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023475-le-dernier-souffle-dun-yakuza/"
     },
     {
       "titre": "Mata",
@@ -104,7 +124,7 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "16:30"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017042-tout-va-super/"
@@ -114,27 +134,17 @@
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "16:20"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
-    },
-    {
-      "titre": "L’Abandon",
-      "genre": "Film",
-      "duree": "1h 40min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
     },
     {
       "titre": "Le Diable s'habille en Prada 2",
       "genre": "Film",
       "duree": "1h 59min",
       "horaires": [
-        "14:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
@@ -148,16 +158,6 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
-    },
-    {
-      "titre": "Vol au-dessus d'un nid de coucou",
-      "genre": "Film",
-      "duree": "2h 14min",
-      "horaires": [
-        "15:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/ee/8dee08a3a6d342687e39fc85e4331ad4.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/2072-vol-au-dessus-dun-nid-de-coucou/"
     }
   ]
 }
