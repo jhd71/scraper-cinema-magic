@@ -1,17 +1,17 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-19T21:57:42.090Z",
+  "scraped_at": "2026-06-20T02:29:25.751Z",
   "films": [
     {
       "titre": "L'Illusion de Yakushima",
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "16:20",
-        "20:20"
+        "14:20",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/33/103306ec6d5abdd9dabb719258ded147.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022404-lillusion-de-yakushima/"
@@ -21,6 +21,8 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
+        "14:00",
+        "16:10",
         "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
@@ -53,7 +55,7 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "14:20"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/1207823987500650b921584917214ab5.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016927-le-garcon-qui-faisait-danser-les-collines/"
@@ -73,6 +75,7 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
+        "16:35",
         "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
@@ -83,7 +86,7 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "13:50"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022455-cocotte/"
@@ -93,8 +96,7 @@
       "genre": "Film",
       "duree": "2h 13min",
       "horaires": [
-        "15:50",
-        "20:15"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022832-lobjet-du-delit/"
@@ -104,57 +106,37 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "18:25"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/be/1b/be1b87d105e6ecf478bfd605fcb6c32b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000023475-le-dernier-souffle-dun-yakuza/"
-    },
-    {
-      "titre": "Mata",
-      "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "16:35"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/9a/f19a49c4c33ddb15673d9f218cd73c79.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000016295-mata/"
     },
     {
       "titre": "Tout va super",
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "18:30"
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017042-tout-va-super/"
     },
     {
-      "titre": "Autofiction",
+      "titre": "L’Abandon",
       "genre": "Film",
-      "duree": "1h 52min",
+      "duree": "1h 40min",
       "horaires": [
-        "13:50"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/99/ee/99ee4688f7d7695bf36eff48bf9da890.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000025821-autofiction/"
-    },
-    {
-      "titre": "Le Diable s'habille en Prada 2",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/6d/0b6d0b00d5fe060cc9b8500e7bf741bf.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000006868-le-diable-shabille-en-prada-2/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
     },
     {
       "titre": "Michael",
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "18:35"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f2/01/f201af7e5a1b0119af9047725a3f2785.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/279306-michael/"
