@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-06-23",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-23T06:39:10.120Z",
+  "scraped_at": "2026-06-23T11:52:00.563Z",
   "films": [
     {
       "titre": "L'Illusion de Yakushima",
@@ -39,7 +39,7 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001453-disclosure-day/"
     },
     {
-      "titre": "La Bataille de Gaulle: L'Âge de Fer",
+      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
@@ -47,7 +47,7 @@
         "19:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-lage-de-fer/"
+      "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     },
     {
       "titre": "Le Garçon qui faisait danser les collines",
