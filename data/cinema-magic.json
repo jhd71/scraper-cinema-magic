@@ -1,17 +1,17 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-06-28T21:54:01.639Z",
+  "scraped_at": "2026-06-29T02:33:03.756Z",
   "films": [
     {
       "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "13:45",
-        "19:45"
+        "17:00",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -21,9 +21,8 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "12:40",
-        "16:50",
-        "20:50"
+        "14:30",
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
@@ -33,9 +32,7 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "10:20",
-        "14:30",
-        "18:40"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022312-les-caprices-de-lenfant-roi/"
@@ -45,9 +42,7 @@
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "12:35",
-        "16:45",
-        "20:55"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c9/06/c9066cfdb985bb1f03cc08c35e29be68.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000020330-les-parfaits-arnaques-en-famille/"
@@ -57,8 +52,8 @@
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "12:45",
-        "16:30"
+        "14:10",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/33/103306ec6d5abdd9dabb719258ded147.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022404-lillusion-de-yakushima/"
@@ -68,9 +63,8 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "10:35",
-        "14:45",
-        "18:50"
+        "16:30",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
@@ -80,30 +74,18 @@
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "10:30",
-        "13:15",
-        "20:35"
+        "13:50",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001453-disclosure-day/"
-    },
-    {
-      "titre": "Le Vertige",
-      "genre": "Film",
-      "duree": "1h 7min",
-      "horaires": [
-        "15:00",
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/0b/450bf9211ea195e44999da9e5dbfa51b.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000044063-le-vertige/"
     },
     {
       "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "16:45"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
@@ -113,8 +95,7 @@
       "genre": "Film",
       "duree": "1h 39min",
       "horaires": [
-        "10:45",
-        "18:40"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/1207823987500650b921584917214ab5.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016927-le-garcon-qui-faisait-danser-les-collines/"
@@ -124,30 +105,50 @@
       "genre": "Film",
       "duree": "1h 36min",
       "horaires": [
-        "18:35"
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bd/e1/bde1b6a103ec4de9e8d82759bc58dd82.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000001030-scary-movie/"
     },
     {
-      "titre": "L'Objet du délit",
+      "titre": "Cocotte",
       "genre": "Film",
-      "duree": "2h 13min",
+      "duree": "1h 37min",
       "horaires": [
-        "16:00"
+        "16:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/26/a92625b4071ac2b7bf3586cfa5d051a5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022832-lobjet-du-delit/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/97/9f/979f0b330eccfacb2c2224cff4486819.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000022455-cocotte/"
     },
     {
-      "titre": "Star Wars: The Mandalorian and Grogu",
+      "titre": "Tout va super",
       "genre": "Film",
-      "duree": "2h 12min",
+      "duree": "1h 31min",
       "horaires": [
-        "10:45"
+        "14:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6e/84/6e847b845d10b7194d43f604b3ef1f20.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/325481-star-wars-the-mandalorian-and-grogu/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/44/8a/448ab250b55c084da48459dc9c9c4600.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000017042-tout-va-super/"
+    },
+    {
+      "titre": "L’Abandon",
+      "genre": "Film",
+      "duree": "1h 40min",
+      "horaires": [
+        "16:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2a/ff/2aff99358841773f126dd22734bbb72b.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000041395-labandon/"
+    },
+    {
+      "titre": "Vol au-dessus d'un nid de coucou",
+      "genre": "Film",
+      "duree": "2h 14min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/ee/8dee08a3a6d342687e39fc85e4331ad4.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/2072-vol-au-dessus-dun-nid-de-coucou/"
     }
   ]
 }
