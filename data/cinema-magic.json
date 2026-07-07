@@ -3,15 +3,36 @@
   "ville": "Le Creusot",
   "date": "2026-07-07",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-07-07T19:40:50.367Z",
+  "scraped_at": "2026-07-07T22:04:33.362Z",
   "films": [
+    {
+      "titre": "Le Passage",
+      "genre": "Film",
+      "duree": "1h 43min",
+      "horaires": [
+        "16:35"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/40/0540f501d85587116abb51aa2f9f7a91.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/326124-le-passage/"
+    },
+    {
+      "titre": "Vaiana, la légende du bout du monde",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "13:50",
+        "18:35"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
+    },
     {
       "titre": "On l'appelait Robin des Bois",
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "13:50",
-        "20:55"
+        "13:45",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/fe/3afe3c822ee3fed0c74b32d5060c2a69.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000002580-on-lappelait-robin-des-bois/"
@@ -21,7 +42,8 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "18:30"
+        "16:10",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/b9/23b90c7731c8c959d6b7e73b3bac993a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000021764-permis-de-detruire/"
@@ -31,7 +53,7 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:30",
+        "16:15",
         "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
@@ -42,7 +64,7 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "14:00",
+        "17:00",
         "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
@@ -53,84 +75,53 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:15",
-        "20:30"
+        "14:30",
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
-    },
-    {
-      "titre": "Les Caprices de l’Enfant Roi",
-      "genre": "Film",
-      "duree": "1h 54min",
-      "horaires": [
-        "16:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022312-les-caprices-de-lenfant-roi/"
-    },
-    {
-      "titre": "Les Parfait(s) : arnaques en famille",
-      "genre": "Film",
-      "duree": "1h 34min",
-      "horaires": [
-        "14:10",
-        "18:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c9/06/c9066cfdb985bb1f03cc08c35e29be68.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000020330-les-parfaits-arnaques-en-famille/"
-    },
-    {
-      "titre": "Jim Queen",
-      "genre": "Film",
-      "duree": "1h 25min",
-      "horaires": [
-        "15:00",
-        "20:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/24/0b2475fd5c509b222ed908d2ee8bb3c5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/310112-jim-queen/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:15",
-        "18:50"
+        "16:30",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
-    },
-    {
-      "titre": "Disclosure Day",
-      "genre": "Film",
-      "duree": "2h 25min",
-      "horaires": [
-        "18:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000001453-disclosure-day/"
-    },
-    {
-      "titre": "Le Vertige",
-      "genre": "Film",
-      "duree": "1h 7min",
-      "horaires": [
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/0b/450bf9211ea195e44999da9e5dbfa51b.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000044063-le-vertige/"
     },
     {
       "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "17:00"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+    },
+    {
+      "titre": "Cosmos",
+      "genre": "Film",
+      "duree": "2h 30min",
+      "horaires": [
+        "13:50",
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/17/a41710bb3ce042bc6d6b8b6e4b64e0f1.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000018489-cosmos/"
+    },
+    {
+      "titre": "Vivaldi et moi",
+      "genre": "Film",
+      "duree": "1h 51min",
+      "horaires": [
+        "18:35"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/e6/0be6712ea95b821a63891ca86b72ee0e.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000018672-vivaldi-et-moi/"
     }
   ]
 }
