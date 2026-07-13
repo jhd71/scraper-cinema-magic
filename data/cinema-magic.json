@@ -1,17 +1,16 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-07-12T21:39:44.369Z",
+  "scraped_at": "2026-07-13T01:49:41.563Z",
   "films": [
     {
       "titre": "Le Passage",
       "genre": "Film",
       "duree": "1h 43min",
       "horaires": [
-        "15:15",
-        "21:20"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/40/0540f501d85587116abb51aa2f9f7a91.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326124-le-passage/"
@@ -21,9 +20,8 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "10:10",
-        "14:35",
-        "19:00"
+        "16:05",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
@@ -33,32 +31,19 @@
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "10:45",
-        "15:45"
+        "13:50",
+        "17:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/fe/3afe3c822ee3fed0c74b32d5060c2a69.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000002580-on-lappelait-robin-des-bois/"
-    },
-    {
-      "titre": "Permis de détruire",
-      "genre": "Film",
-      "duree": "1h 37min",
-      "horaires": [
-        "10:10",
-        "13:50",
-        "18:05"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/b9/23b90c7731c8c959d6b7e73b3bac993a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000021764-permis-de-detruire/"
     },
     {
       "titre": "Supergirl",
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "12:25",
-        "16:50",
-        "21:15"
+        "13:45",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9b/ae/9bae883f672ff5095e2a4282effeb116.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/266720-supergirl/"
@@ -68,8 +53,8 @@
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "13:15",
-        "16:15"
+        "17:00",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -79,29 +64,28 @@
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "10:30",
-        "14:45",
-        "19:00"
+        "16:30",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
     },
     {
-      "titre": "Les Caprices de l’Enfant Roi",
+      "titre": "Eruption",
       "genre": "Film",
-      "duree": "1h 54min",
+      "duree": "1h 11min",
       "horaires": [
-        "17:20"
+        "16:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/36/8f/368f8ae0d4f0928b0523eb6a5347576a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000022312-les-caprices-de-lenfant-roi/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/20/a920872e51c1f9f893aefe6166ef2d94.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012946-eruption/"
     },
     {
       "titre": "Maspalomas",
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "13:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/15/2315f43ab8450d3204f41426a899b98b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000017160-maspalomas/"
@@ -111,8 +95,7 @@
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "12:05",
-        "19:35"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/24/0b2475fd5c509b222ed908d2ee8bb3c5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/310112-jim-queen/"
@@ -122,42 +105,41 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "12:30",
-        "16:45",
-        "21:00"
+        "14:15",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
-    },
-    {
-      "titre": "Disclosure Day",
-      "genre": "Film",
-      "duree": "2h 25min",
-      "horaires": [
-        "10:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/84/ce/84cee8c8b2bf7843e715a33ebcc4287a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000001453-disclosure-day/"
     },
     {
       "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "20:00"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
     },
     {
-      "titre": "Colony",
+      "titre": "Obsession",
       "genre": "Film",
-      "duree": "2h 2min",
+      "duree": "1h 49min",
       "horaires": [
-        "19:15"
+        "20:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/76/24/762414ae8d9a780867c83c2f3e9ea456.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000021055-colony/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/00/20/0020008382daf6b1305be800e8342a72.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000028234-obsession/"
+    },
+    {
+      "titre": "L'Aile ou la cuisse",
+      "genre": "Film",
+      "duree": "1h 44min",
+      "horaires": [
+        "13:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/82/3d822555e58e5588c9ca7ea71da43c15.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/47573-laile-ou-la-cuisse/"
     }
   ]
 }
