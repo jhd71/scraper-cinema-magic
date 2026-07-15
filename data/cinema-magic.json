@@ -3,12 +3,12 @@
   "ville": "Le Creusot",
   "date": "2026-07-15",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-07-15T10:41:53.211Z",
+  "scraped_at": "2026-07-15T13:11:49.113Z",
   "films": [
     {
       "titre": "L'Odyssée",
       "genre": "Film",
-      "duree": "2h 52min",
+      "duree": "2h 53min",
       "horaires": [
         "14:00",
         "19:50"
