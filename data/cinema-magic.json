@@ -1,17 +1,16 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-07-30T21:58:46.273Z",
+  "scraped_at": "2026-07-31T01:51:47.391Z",
   "films": [
     {
       "titre": "Le Triangle d'or",
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "14:30",
-        "18:45"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/81/8e81e196c0cbbb89bdbbc4b45d4ded0c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031160-le-triangle-dor/"
@@ -32,7 +31,7 @@
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "13:45"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9f/4a/9f4af8841cf8a30055df79e676984b5c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000003105-charlie-et-les-kangourous/"
@@ -43,7 +42,7 @@
       "duree": "1h 15min",
       "horaires": [
         "18:35",
-        "21:00"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000037046-de-la-comedie-francaise/"
@@ -53,7 +52,7 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "14:15"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/9e/a69e4b47821ccc84f4ee63d57ffc5124.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/320561-la-fille-dans-les-nuages/"
@@ -63,7 +62,7 @@
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "16:00"
+        "14:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/25/8d253a0a0ae870ed54287abc2a552bb4.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000014102-kayara-princesse-inca/"
@@ -73,8 +72,8 @@
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "20:00",
-        "16:45"
+        "13:50",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
@@ -84,47 +83,38 @@
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "17:45"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/16/ba1686f11e81aa7744e16454a5627fa2.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/281912-la-derniere-seance/"
     },
     {
-      "titre": "La Chaleur",
+      "titre": "Evil Dead Burn",
       "genre": "Film",
-      "duree": "1h 33min",
+      "duree": "1h 51min",
       "horaires": [
-        "16:30"
+        "21:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/7a/667a6bfae865622207e1695971d1879e.png",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000025598-la-chaleur/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/b2/b7b2ba851dae7e23fdf1f8ef35704d9f.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/326465-evil-dead-burn/"
     },
     {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "16:15"
+        "13:45",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
-    },
-    {
-      "titre": "Un champ de fraises pour l’éternité",
-      "genre": "Film",
-      "duree": "1h 43min",
-      "horaires": [
-        "20:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/6e/8a6e5ffd0c7bb7caa1ba70aaba6972b1.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/295636-un-champ-de-fraises-pour-leternite/"
     },
     {
       "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
       "duree": "2h 40min",
       "horaires": [
-        "13:50"
+        "17:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
@@ -144,7 +134,7 @@
       "genre": "Film",
       "duree": "1h 51min",
       "horaires": [
-        "20:40"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/3b/a93b9ba87d2ecb728214f6fc9edecf5b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313220-backrooms/"
@@ -154,10 +144,20 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "18:30"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
+    },
+    {
+      "titre": "Mon oncle",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "13:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/36/3a36ea2b9550756306bcb9bd9db5629d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/2614-mon-oncle/"
     }
   ]
 }
