@@ -3,14 +3,26 @@
   "ville": "Le Creusot",
   "date": "2026-08-04",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-08-04T19:17:48.237Z",
+  "scraped_at": "2026-08-04T22:03:33.118Z",
   "films": [
+    {
+      "titre": "La Pat' Patrouille : Le film mission Dino",
+      "genre": "Film",
+      "duree": "1h 28min",
+      "horaires": [
+        "13:50",
+        "18:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/320681-la-pat-patrouille-le-film-mission-dino/"
+    },
     {
       "titre": "Les Gendarmes",
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "19:00"
+        "14:10",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022546-les-gendarmes/"
@@ -20,7 +32,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "20:45"
+        "14:00",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/81/8e81e196c0cbbb89bdbbc4b45d4ded0c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031160-le-triangle-dor/"
@@ -30,134 +43,103 @@
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "14:00",
-        "20:20"
+        "15:50",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
-    },
-    {
-      "titre": "Charlie et les kangourous",
-      "genre": "Film",
-      "duree": "1h 47min",
-      "horaires": [
-        "18:05"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9f/4a/9f4af8841cf8a30055df79e676984b5c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000003105-charlie-et-les-kangourous/"
     },
     {
       "titre": "De la Comédie-Française",
       "genre": "Film",
       "duree": "1h 15min",
       "horaires": [
-        "16:30",
-        "18:35"
+        "16:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000037046-de-la-comedie-francaise/"
     },
     {
-      "titre": "La Fille dans les nuages",
+      "titre": "Les Vacances de Golo & Ritchie",
       "genre": "Film",
-      "duree": "1h 28min",
+      "duree": "1h 20min",
       "horaires": [
-        "16:20"
+        "18:25"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/9e/a69e4b47821ccc84f4ee63d57ffc5124.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/320561-la-fille-dans-les-nuages/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/88/46/8846274b0766ff87bce4f2d8a037ef51.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000044689-les-vacances-de-golo-and-ritchie/"
     },
     {
-      "titre": "Kayara, Princesse inca",
+      "titre": "Sous le ciel de Kyoto",
       "genre": "Film",
-      "duree": "1h 21min",
+      "duree": "2h 8min",
       "horaires": [
-        "14:30"
+        "16:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/25/8d253a0a0ae870ed54287abc2a552bb4.jpeg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000014102-kayara-princesse-inca/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f5/c5/f5c59c0d93b30f3bd8ba4d657d668a9d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000014327-sous-le-ciel-de-kyoto/"
     },
     {
       "titre": "L'Odyssée",
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "16:50",
-        "20:00"
+        "16:40",
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
-    },
-    {
-      "titre": "Le Berger et les ours",
-      "genre": "Film",
-      "duree": "1h 41min",
-      "horaires": [
-        "20:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/22/8a22bf3670d6e30e9434ec9fd5aed923.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000015418-le-berger-et-les-ours/"
     },
     {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "13:45",
-        "20:50"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
     },
     {
-      "titre": "Un champ de fraises pour l’éternité",
+      "titre": "In Waves",
       "genre": "Film",
-      "duree": "1h 43min",
+      "duree": "1h 31min",
       "horaires": [
-        "16:00"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/6e/8a6e5ffd0c7bb7caa1ba70aaba6972b1.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/295636-un-champ-de-fraises-pour-leternite/"
-    },
-    {
-      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
-      "genre": "Film",
-      "duree": "2h 40min",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
-    },
-    {
-      "titre": "Des Minions et des monstres",
-      "genre": "Film",
-      "duree": "1h 29min",
-      "horaires": [
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
-    },
-    {
-      "titre": "Jim Queen",
-      "genre": "Film",
-      "duree": "1h 25min",
-      "horaires": [
-        "18:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/24/0b2475fd5c509b222ed908d2ee8bb3c5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/310112-jim-queen/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/66/95/66956c0d0a15062c936b14d7dd48c5b7.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/293636-in-waves/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "14:15"
+        "14:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
+    },
+    {
+      "titre": "Father",
+      "genre": "Film",
+      "duree": "1h 42min",
+      "horaires": [
+        "14:20",
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/5f/105fe14e968cd2673bc767d4fca283ff.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/302136-father/"
+    },
+    {
+      "titre": "Anemone – Les racines du mensonge",
+      "genre": "Film",
+      "duree": "2h 5min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/58/b3/58b398c7f7452a1559c1cd9e8b9cfada.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012643-anemone-les-racines-du-mensonge/"
     }
   ]
 }
