@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-08-06",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-08-06T13:40:39.451Z",
+  "scraped_at": "2026-08-06T23:49:12.833Z",
   "films": [
     {
       "titre": "La Pat' Patrouille : Le film mission Dino",
@@ -21,8 +21,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "16:25",
-        "20:15"
+        "14:10",
+        "20:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022546-les-gendarmes/"
@@ -32,7 +32,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "18:25"
+        "16:20",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/81/8e81e196c0cbbb89bdbbc4b45d4ded0c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031160-le-triangle-dor/"
@@ -49,21 +50,11 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
     },
     {
-      "titre": "Charlie et les kangourous",
-      "genre": "Film",
-      "duree": "1h 47min",
-      "horaires": [
-        "16:35"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9f/4a/9f4af8841cf8a30055df79e676984b5c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000003105-charlie-et-les-kangourous/"
-    },
-    {
       "titre": "De la Comédie-Française",
       "genre": "Film",
       "duree": "1h 15min",
       "horaires": [
-        "21:10"
+        "14:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000037046-de-la-comedie-francaise/"
@@ -73,7 +64,7 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "14:30"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/9e/a69e4b47821ccc84f4ee63d57ffc5124.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/320561-la-fille-dans-les-nuages/"
@@ -83,7 +74,7 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "18:20"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/88/46/8846274b0766ff87bce4f2d8a037ef51.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000044689-les-vacances-de-golo-and-ritchie/"
@@ -93,7 +84,7 @@
       "genre": "Film",
       "duree": "2h 8min",
       "horaires": [
-        "20:25"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f5/c5/f5c59c0d93b30f3bd8ba4d657d668a9d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000014327-sous-le-ciel-de-kyoto/"
@@ -103,7 +94,7 @@
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "16:45"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/25/8d253a0a0ae870ed54287abc2a552bb4.jpeg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000014102-kayara-princesse-inca/"
@@ -113,7 +104,7 @@
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "15:45"
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
@@ -123,27 +114,27 @@
       "genre": "Film",
       "duree": "1h 52min",
       "horaires": [
-        "18:50"
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ba/16/ba1686f11e81aa7744e16454a5627fa2.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/281912-la-derniere-seance/"
     },
     {
-      "titre": "Evil Dead Burn",
+      "titre": "Le Berger et les ours",
       "genre": "Film",
-      "duree": "1h 51min",
+      "duree": "1h 41min",
       "horaires": [
-        "21:00"
+        "18:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/b2/b7b2ba851dae7e23fdf1f8ef35704d9f.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/326465-evil-dead-burn/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8a/22/8a22bf3670d6e30e9434ec9fd5aed923.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000015418-le-berger-et-les-ours/"
     },
     {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "14:10"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
@@ -159,24 +150,24 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
     },
     {
+      "titre": "Backrooms",
+      "genre": "Film",
+      "duree": "1h 51min",
+      "horaires": [
+        "17:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a9/3b/a93b9ba87d2ecb728214f6fc9edecf5b.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/313220-backrooms/"
+    },
+    {
       "titre": "Toy Story 5",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "18:55"
+        "15:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
-    },
-    {
-      "titre": "Playtime",
-      "genre": "Film",
-      "duree": "2h 4min",
-      "horaires": [
-        "14:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7e/d6/7ed607dc315a0e50ba21318b311fa830.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1363-playtime/"
     }
   ]
 }
