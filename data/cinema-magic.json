@@ -3,42 +3,12 @@
   "ville": "Le Creusot",
   "date": "2026-08-12",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-08-12T07:07:48.287Z",
+  "scraped_at": "2026-08-12T09:52:54.997Z",
   "films": [
-    {
-      "titre": "Bait",
-      "genre": "Film",
-      "duree": "",
-      "horaires": [
-        "18:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ab/fb/abfb0a4e5a21a5f53a2d0e8e7ef1750c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/271156-bait/"
-    },
-    {
-      "titre": "Des Minions et des monstres",
-      "genre": "Film",
-      "duree": "",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
-    },
-    {
-      "titre": "Home stories",
-      "genre": "Film",
-      "duree": "",
-      "horaires": [
-        "16:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/b5/8eb5f1cd2f2737ce006e2bbb3a0957cc.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/289867-home-stories/"
-    },
     {
       "titre": "Juste pour une nuit",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 42min",
       "horaires": [
         "14:20",
         "20:20"
@@ -47,19 +17,20 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019899-juste-pour-une-nuit/"
     },
     {
-      "titre": "L'Odyssée",
+      "titre": "Tombé du ciel",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 32min",
       "horaires": [
-        "20:10"
+        "16:30",
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
     },
     {
       "titre": "La Pat' Patrouille : Le film mission Dino",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 28min",
       "horaires": [
         "13:50",
         "18:40"
@@ -70,7 +41,7 @@
     {
       "titre": "Les Gendarmes",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 27min",
       "horaires": [
         "14:30",
         "18:30"
@@ -79,9 +50,19 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022546-les-gendarmes/"
     },
     {
+      "titre": "Home stories",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "16:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/b5/8eb5f1cd2f2737ce006e2bbb3a0957cc.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/289867-home-stories/"
+    },
+    {
       "titre": "Les Matins merveilleux",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 27min",
       "horaires": [
         "18:15"
       ],
@@ -89,19 +70,9 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019327-les-matins-merveilleux/"
     },
     {
-      "titre": "Les Vacances de Golo & Ritchie",
-      "genre": "Film",
-      "duree": "",
-      "horaires": [
-        "16:20"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/88/46/8846274b0766ff87bce4f2d8a037ef51.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000044689-les-vacances-de-golo-and-ritchie/"
-    },
-    {
       "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
-      "duree": "",
+      "duree": "2h 25min",
       "horaires": [
         "15:50",
         "20:40"
@@ -110,20 +81,49 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
     },
     {
-      "titre": "Tombé du ciel",
+      "titre": "Les Vacances de Golo & Ritchie",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 20min",
       "horaires": [
-        "16:30",
-        "20:30"
+        "16:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/88/46/8846274b0766ff87bce4f2d8a037ef51.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000044689-les-vacances-de-golo-and-ritchie/"
+    },
+    {
+      "titre": "L'Odyssée",
+      "genre": "Film",
+      "duree": "2h 53min",
+      "horaires": [
+        "20:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
+    },
+    {
+      "titre": "Vaiana, la légende du bout du monde",
+      "genre": "Film",
+      "duree": "1h 56min",
+      "horaires": [
+        "17:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
+    },
+    {
+      "titre": "Des Minions et des monstres",
+      "genre": "Film",
+      "duree": "1h 29min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
     },
     {
       "titre": "Toy Story 5",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 42min",
       "horaires": [
         "15:50"
       ],
@@ -133,7 +133,7 @@
     {
       "titre": "Une année italienne",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 42min",
       "horaires": [
         "14:10",
         "20:20"
@@ -142,14 +142,14 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/327942-une-annee-italienne/"
     },
     {
-      "titre": "Vaiana, la légende du bout du monde",
+      "titre": "Bait",
       "genre": "Film",
-      "duree": "",
+      "duree": "1h 29min",
       "horaires": [
-        "17:50"
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ab/fb/abfb0a4e5a21a5f53a2d0e8e7ef1750c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/271156-bait/"
     }
   ]
 }
