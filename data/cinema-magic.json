@@ -1,17 +1,17 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-08-13T21:34:21.955Z",
+  "scraped_at": "2026-08-14T01:04:28.909Z",
   "films": [
     {
       "titre": "Juste pour une nuit",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:10",
-        "20:20"
+        "14:20",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/e5/3ee55833da929172da915df8db4d24b0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019899-juste-pour-une-nuit/"
@@ -21,8 +21,8 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "14:30",
-        "18:30"
+        "16:30",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
@@ -43,8 +43,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "16:30",
-        "20:30"
+        "14:30",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022546-les-gendarmes/"
@@ -54,7 +54,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "18:20"
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/ad/15adab41a1612c7739f12d034a62f712.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000003998-i-want-your-sex/"
@@ -64,7 +64,7 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "21:15"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/8e/81/8e81e196c0cbbb89bdbbc4b45d4ded0c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031160-le-triangle-dor/"
@@ -74,7 +74,7 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "18:10"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/d7/c4d7a94755c795c00581abcbb45a2ee0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019327-les-matins-merveilleux/"
@@ -91,74 +91,74 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
     },
     {
-      "titre": "La Fille dans les nuages",
+      "titre": "De la Comédie-Française",
       "genre": "Film",
-      "duree": "1h 28min",
+      "duree": "1h 15min",
+      "horaires": [
+        "16:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000037046-de-la-comedie-francaise/"
+    },
+    {
+      "titre": "Les Vacances de Golo & Ritchie",
+      "genre": "Film",
+      "duree": "1h 20min",
       "horaires": [
         "16:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/9e/a69e4b47821ccc84f4ee63d57ffc5124.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/320561-la-fille-dans-les-nuages/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/88/46/8846274b0766ff87bce4f2d8a037ef51.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000044689-les-vacances-de-golo-and-ritchie/"
     },
     {
-      "titre": "Kayara, Princesse inca",
+      "titre": "Sous le ciel de Kyoto",
       "genre": "Film",
-      "duree": "1h 21min",
+      "duree": "2h 8min",
       "horaires": [
-        "14:20"
+        "18:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8d/25/8d253a0a0ae870ed54287abc2a552bb4.jpeg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000014102-kayara-princesse-inca/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f5/c5/f5c59c0d93b30f3bd8ba4d657d668a9d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000014327-sous-le-ciel-de-kyoto/"
     },
     {
       "titre": "L'Odyssée",
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "15:50"
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
-    },
-    {
-      "titre": "The Last Viking",
-      "genre": "Film",
-      "duree": "1h 56min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/6b/786b7993221ab3a0d871f6510da3f91f.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/316460-the-last-viking/"
     },
     {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "19:00"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
     },
     {
-      "titre": "Des Minions et des monstres",
+      "titre": "La Baleine et le musicien",
       "genre": "Film",
-      "duree": "1h 29min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
-    },
-    {
-      "titre": "Trafic",
-      "genre": "Film",
-      "duree": "1h 32min",
+      "duree": "1h 23min",
       "horaires": [
         "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/ef/5aefddb74a6c57920e31cf12767d9e81.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1786-trafic/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b3/54/b354f7ce979aa7674f9f1dd17a4de56f.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000012309-la-baleine-et-le-musicien/"
+    },
+    {
+      "titre": "Toy Story 5",
+      "genre": "Film",
+      "duree": "1h 42min",
+      "horaires": [
+        "14:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
     }
   ]
 }
