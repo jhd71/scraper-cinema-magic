@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-08-26",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-08-26T09:30:27.806Z",
+  "scraped_at": "2026-08-26T12:29:16.771Z",
   "films": [
     {
       "titre": "Raconte moi une belle rencontre",
@@ -67,6 +67,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Un grand raccourci",
+      "genre": "Film",
+      "duree": "1h 21min",
+      "horaires": [
+        "21:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0b/ba/0bba7c07804e33c96916e23ba1ee7ec2.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000041528-un-grand-raccourci/"
     },
     {
       "titre": "La Pat' Patrouille : Le film mission Dino",
