@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-08-27T13:20:01.450Z",
+  "scraped_at": "2026-08-28T00:09:33.206Z",
   "films": [
     {
       "titre": "Tad l'explorateur et la lampe magique",
@@ -11,7 +11,7 @@
       "duree": "1h 35min",
       "horaires": [
         "14:15",
-        "18:15"
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7a/89/7a89c362c3c4180669ce471a947d2f70.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/257425-tad-lexplorateur-et-la-lampe-magique/"
@@ -41,8 +41,8 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "14:15",
-        "18:15"
+        "14:30",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
@@ -52,8 +52,7 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "14:15",
-        "18:50"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/320681-la-pat-patrouille-le-film-mission-dino/"
@@ -63,31 +62,41 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "20:30"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022546-les-gendarmes/"
+    },
+    {
+      "titre": "Les Matins merveilleux",
+      "genre": "Film",
+      "duree": "1h 27min",
+      "horaires": [
+        "21:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/d7/c4d7a94755c795c00581abcbb45a2ee0.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019327-les-matins-merveilleux/"
     },
     {
       "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "16:05",
-        "20:40"
+        "13:45",
+        "20:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
     },
     {
-      "titre": "De la Comédie-Française",
+      "titre": "Nightborn",
       "genre": "Film",
-      "duree": "1h 15min",
+      "duree": "1h 32min",
       "horaires": [
-        "21:00"
+        "18:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000037046-de-la-comedie-francaise/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/67/e4/67e46aeae8cd8f627262d4a1e3e05651.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/328440-nightborn/"
     },
     {
       "titre": "L'Odyssée",
@@ -100,16 +109,6 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
     },
     {
-      "titre": "Le Héros de Berlin",
-      "genre": "Film",
-      "duree": "1h 53min",
-      "horaires": [
-        "20:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7c/9a/7c9a3ca1671b58045d39caf0245aaa24.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/327050-le-heros-de-berlin/"
-    },
-    {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
@@ -120,14 +119,24 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
     },
     {
-      "titre": "Des Minions et des monstres",
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
       "genre": "Film",
-      "duree": "1h 29min",
+      "duree": "2h 40min",
       "horaires": [
-        "16:30"
+        "13:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
+    },
+    {
+      "titre": "Noise",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d6/a3/d6a31fbf7f5ca4b69bacc1d3d68e6a5c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/325653-noise/"
     },
     {
       "titre": "Toy Story 5",
@@ -140,24 +149,24 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
     },
     {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "titre": "Harry Potter à l'école des sorciers",
       "genre": "Film",
-      "duree": "2h 40min",
+      "duree": "2h 32min",
       "horaires": [
-        "13:45"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e7/3e/e73e85182622161d9546ca494a4db564.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/29276-harry-potter-a-lecole-des-sorciers/"
     },
     {
-      "titre": "Les Vacances de Monsieur Hulot",
+      "titre": "Mon oncle",
       "genre": "Film",
-      "duree": "1h 28min",
+      "duree": "1h 56min",
       "horaires": [
         "16:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/98/95/98957abe085b0f16eba3fa7291c77b58.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/2615-les-vacances-de-monsieur-hulot/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3a/36/3a36ea2b9550756306bcb9bd9db5629d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/2614-mon-oncle/"
     }
   ]
 }
