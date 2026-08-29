@@ -3,15 +3,25 @@
   "ville": "Le Creusot",
   "date": "2026-08-29",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-08-29T20:09:47.173Z",
+  "scraped_at": "2026-08-29T22:55:32.455Z",
   "films": [
+    {
+      "titre": "L'île des souvenirs",
+      "genre": "Film",
+      "duree": "1h 38min",
+      "horaires": [
+        "16:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/296642-lile-des-souvenirs/"
+    },
     {
       "titre": "Tad l'explorateur et la lampe magique",
       "genre": "Film",
       "duree": "1h 35min",
       "horaires": [
-        "14:15",
-        "18:15"
+        "10:30",
+        "14:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7a/89/7a89c362c3c4180669ce471a947d2f70.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/257425-tad-lexplorateur-et-la-lampe-magique/"
@@ -21,7 +31,7 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "16:05"
+        "12:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/07/de07c88f2baa5a2d8f890dc5d7b39326.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022217-marius-et-le-royaume-des-mers/"
@@ -31,7 +41,7 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "21:00"
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/e5/3ee55833da929172da915df8db4d24b0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019899-juste-pour-une-nuit/"
@@ -41,7 +51,8 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "20:10"
+        "20:45",
+        "10:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2b/1b/2b1bc2ebbf00d185baa83a18177317c6.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314503-la-fin-doak-street/"
@@ -51,7 +62,7 @@
       "genre": "Film",
       "duree": "3h 15min",
       "horaires": [
-        "19:30"
+        "10:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/3e/42/3e425c3916d4f282734535c052079c8b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024105-soudain/"
@@ -61,19 +72,30 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "14:15",
-        "18:15"
+        "10:45",
+        "14:30",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Une aube nouvelle",
+      "genre": "Film",
+      "duree": "1h 16min",
+      "horaires": [
+        "12:15",
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/ab/18aba3e0fff8d3a713834677b8b17d83.png",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019382-une-aube-nouvelle/"
     },
     {
       "titre": "La Pat' Patrouille : Le film mission Dino",
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "14:15",
-        "18:50"
+        "13:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/bb/35/bb358019448f4fcd5c37b0d19c04fd0d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/320681-la-pat-patrouille-le-film-mission-dino/"
@@ -83,48 +105,100 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
+        "16:30",
         "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/8e/498e9c4d4f75557cdf9c3796e92a0a21.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022546-les-gendarmes/"
     },
     {
+      "titre": "I Want Your Sex",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "21:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/15/ad/15adab41a1612c7739f12d034a62f712.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000003998-i-want-your-sex/"
+    },
+    {
+      "titre": "Les Matins merveilleux",
+      "genre": "Film",
+      "duree": "1h 27min",
+      "horaires": [
+        "19:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c4/d7/c4d7a94755c795c00581abcbb45a2ee0.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019327-les-matins-merveilleux/"
+    },
+    {
       "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
       "duree": "2h 25min",
       "horaires": [
-        "16:05",
-        "20:40"
+        "15:45",
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
+    },
+    {
+      "titre": "De la Comédie-Française",
+      "genre": "Film",
+      "duree": "1h 15min",
+      "horaires": [
+        "17:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9c/4d/9c4daa6e94f7107c83f7d732700c44a0.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000037046-de-la-comedie-francaise/"
     },
     {
       "titre": "L'Odyssée",
       "genre": "Film",
       "duree": "2h 53min",
       "horaires": [
-        "17:45"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/70/a770a3822c90a655af05961cda53f3a1.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013045-lodyssee/"
+    },
+    {
+      "titre": "Le Héros de Berlin",
+      "genre": "Film",
+      "duree": "1h 53min",
+      "horaires": [
+        "16:50",
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7c/9a/7c9a3ca1671b58045d39caf0245aaa24.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/327050-le-heros-de-berlin/"
     },
     {
       "titre": "Vaiana, la légende du bout du monde",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "13:50"
+        "10:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/13/4913eda52c42338d6920439130cec93a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314942-vaiana-la-legende-du-bout-du-monde/"
+    },
+    {
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+      "genre": "Film",
+      "duree": "2h 40min",
+      "horaires": [
+        "13:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
     },
     {
       "titre": "Des Minions et des monstres",
       "genre": "Film",
       "duree": "1h 29min",
       "horaires": [
-        "16:30"
+        "12:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/c4/21c43d8b03a44dbd5dd9659d6be3f5ef.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/315380-des-minions-et-des-monstres/"
@@ -134,30 +208,20 @@
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:10"
+        "12:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ea/ae/eaae87f9bb59d843847667a3d8c7567e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/313256-toy-story-5/"
     },
     {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "titre": "Trafic",
       "genre": "Film",
-      "duree": "2h 40min",
+      "duree": "1h 32min",
       "horaires": [
-        "13:45"
+        "19:05"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
-    },
-    {
-      "titre": "Playtime",
-      "genre": "Film",
-      "duree": "2h 4min",
-      "horaires": [
-        "16:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7e/d6/7ed607dc315a0e50ba21318b311fa830.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1363-playtime/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/ef/5aefddb74a6c57920e31cf12767d9e81.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1786-trafic/"
     }
   ]
 }
