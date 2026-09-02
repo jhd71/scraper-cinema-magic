@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-09-01T22:54:07.354Z",
+  "scraped_at": "2026-09-02T01:58:20.661Z",
   "films": [
     {
       "titre": "La Dernière patiente",
