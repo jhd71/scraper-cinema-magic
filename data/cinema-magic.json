@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-09-15",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-09-15T13:58:50.228Z",
+  "scraped_at": "2026-09-15T18:34:59.697Z",
   "films": [
     {
       "titre": "La Vie d'une femme",
@@ -32,8 +32,7 @@
       "genre": "Film",
       "duree": "1h 40min",
       "horaires": [
-        "16:10",
-        "20:50"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/fb/92fb57911489ab17bfa8ecf0b29712c5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000004458-pressure/"
@@ -98,16 +97,6 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f6/c9/f6c9bc96111477a457737412606a7dd7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000002942-mutiny/"
-    },
-    {
-      "titre": "Oklahoma Honey",
-      "genre": "Film",
-      "duree": "2h 10min",
-      "horaires": [
-        "18:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/c5/9b/c59b5f11e1d8c447738dd7b4a8a49476.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/316021-oklahoma-honey/"
     },
     {
       "titre": "La fin d’Oak Street",
