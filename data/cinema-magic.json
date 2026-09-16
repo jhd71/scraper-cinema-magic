@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-09-16",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-09-16T08:03:25.347Z",
+  "scraped_at": "2026-09-16T13:52:04.389Z",
   "films": [
     {
       "titre": "L'Invitation",
@@ -15,6 +15,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317219-linvitation/"
+    },
+    {
+      "titre": "Ma famille de samouraïs",
+      "genre": "Film",
+      "duree": "1h 22min",
+      "horaires": [
+        "16:05"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5d/72/5d72af42143f7d2d3ef6b00ac8c23699.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023495-ma-famille-de-samourais/"
     },
     {
       "titre": "Resident Evil",
@@ -61,6 +71,16 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/323826-les-heros-du-louvre/"
     },
     {
+      "titre": "Pressure",
+      "genre": "Film",
+      "duree": "1h 40min",
+      "horaires": [
+        "17:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/fb/92fb57911489ab17bfa8ecf0b29712c5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000004458-pressure/"
+    },
+    {
       "titre": "Fjord",
       "genre": "Film",
       "duree": "2h 26min",
@@ -89,6 +109,16 @@
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Spider-Man: Brand New Day",
+      "genre": "Film",
+      "duree": "2h 25min",
+      "horaires": [
+        "20:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
     },
     {
       "titre": "Hanami",
