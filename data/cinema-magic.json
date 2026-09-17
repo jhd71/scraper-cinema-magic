@@ -3,15 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-09-17",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-09-17T18:40:53.969Z",
+  "scraped_at": "2026-09-17T23:15:28.149Z",
   "films": [
     {
       "titre": "L'Invitation",
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "13:45",
-        "18:20"
+        "16:05",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317219-linvitation/"
@@ -21,7 +21,8 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "21:00"
+        "16:15",
+        "20:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018854-resident-evil/"
@@ -31,8 +32,8 @@
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "16:00",
-        "20:35"
+        "13:45",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/ef/10ef2a762195d43d7ddaebcf19e161d4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000043221-si-tu-penses-bien/"
@@ -42,8 +43,7 @@
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "13:50",
-        "18:05"
+        "16:05"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/327941-la-vie-dune-femme/"
@@ -53,8 +53,8 @@
       "genre": "Film",
       "duree": "1h 45min",
       "horaires": [
-        "15:55",
-        "20:10"
+        "13:55",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5b/2e/5b2e76c638253f412a5deea5a9d849e7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/323826-les-heros-du-louvre/"
@@ -65,7 +65,7 @@
       "duree": "1h 40min",
       "horaires": [
         "14:00",
-        "18:30"
+        "18:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/fb/92fb57911489ab17bfa8ecf0b29712c5.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000004458-pressure/"
@@ -76,7 +76,7 @@
       "duree": "1h 46min",
       "horaires": [
         "13:40",
-        "21:00"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/64/13/641357276a6608346bae117825d1ef87.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314290-la-frappe/"
@@ -92,41 +92,31 @@
       "lien": "https://www.cinemamagic-creusot.fr/films/1000039625-degel/"
     },
     {
-      "titre": "L'Inconnue",
-      "genre": "Film",
-      "duree": "2h 20min",
-      "horaires": [
-        "16:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/af/a2/afa2a4e9bb49e003bceb86c209f46033.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/327993-linconnue/"
-    },
-    {
-      "titre": "The Dog Stars",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "16:05"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/49/53/4953b0ca2f415faf7afb40c6cf9c1cf5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000014969-the-dog-stars/"
-    },
-    {
       "titre": "Fjord",
       "genre": "Film",
       "duree": "2h 26min",
       "horaires": [
-        "18:10"
+        "20:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7d/a3/7da334b5a024f1960d11cefab25107bc.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/188280-fjord/"
+    },
+    {
+      "titre": "Insidious : l'invasion du lointain",
+      "genre": "Film",
+      "duree": "1h 46min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/ec/35/ec35f784920486fc0e3ff35b7aa4fc41.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000016503-insidious-linvasion-du-lointain/"
     },
     {
       "titre": "Oklahoma Honey",
       "genre": "Film",
       "duree": "2h 10min",
       "horaires": [
-        "20:35"
+        "16:05"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/c5/9b/c59b5f11e1d8c447738dd7b4a8a49476.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/316021-oklahoma-honey/"
@@ -136,11 +126,20 @@
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "14:15",
-        "19:00"
+        "14:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Spider-Man: Brand New Day",
+      "genre": "Film",
+      "duree": "2h 25min",
+      "horaires": [
+        "20:45"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
     }
   ]
 }
