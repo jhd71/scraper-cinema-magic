@@ -3,14 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-09-25",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-09-25T19:01:53.221Z",
+  "scraped_at": "2026-09-25T23:41:38.687Z",
   "films": [
     {
       "titre": "Avengers : Endgame Extended",
       "genre": "Film",
       "duree": "3h 5min",
       "horaires": [
-        "18:05"
+        "13:40",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/e1/53e1e6f2d34748e3f07d101e103dbfb6.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000036867-avengers-endgame-extended/"
@@ -20,8 +21,8 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "18:05",
-        "13:50"
+        "13:50",
+        "19:05"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
@@ -31,8 +32,8 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "15:55",
-        "20:15"
+        "13:50",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000028944-justin-le-juste/"
@@ -42,19 +43,28 @@
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "16:00",
-        "20:15"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/317219-linvitation/"
+    },
+    {
+      "titre": "Ma famille de samouraïs",
+      "genre": "Film",
+      "duree": "1h 22min",
+      "horaires": [
+        "16:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5d/72/5d72af42143f7d2d3ef6b00ac8c23699.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023495-ma-famille-de-samourais/"
     },
     {
       "titre": "Resident Evil",
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "13:50",
-        "18:10"
+        "16:05",
+        "20:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018854-resident-evil/"
@@ -64,82 +74,61 @@
       "genre": "Film",
       "duree": "1h 34min",
       "horaires": [
-        "14:00",
-        "18:15"
+        "16:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/ef/10ef2a762195d43d7ddaebcf19e161d4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000043221-si-tu-penses-bien/"
-    },
-    {
-      "titre": "Adieu monde cruel",
-      "genre": "Film",
-      "duree": "1h 33min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012310-adieu-monde-cruel/"
-    },
-    {
-      "titre": "La Vie d'une femme",
-      "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/327941-la-vie-dune-femme/"
     },
     {
       "titre": "Les Ensorceleuses 2",
       "genre": "Film",
       "duree": "2h 10min",
       "horaires": [
-        "16:00",
-        "20:35"
+        "13:45",
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/d0/05d0dcb033bc9dced645815301b59394.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000004679-les-ensorceleuses-2/"
-    },
-    {
-      "titre": "Pressure",
-      "genre": "Film",
-      "duree": "1h 40min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/fb/92fb57911489ab17bfa8ecf0b29712c5.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000004458-pressure/"
-    },
-    {
-      "titre": "La Frappe",
-      "genre": "Film",
-      "duree": "1h 46min",
-      "horaires": [
-        "13:45"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/64/13/641357276a6608346bae117825d1ef87.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/314290-la-frappe/"
     },
     {
       "titre": "Tombé du ciel",
       "genre": "Film",
       "duree": "1h 32min",
       "horaires": [
-        "18:35"
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
     },
     {
-      "titre": "Les Autres",
+      "titre": "Spider-Man: Brand New Day",
       "genre": "Film",
-      "duree": "1h 44min",
+      "duree": "2h 25min",
       "horaires": [
-        "21:00"
+        "17:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/medias/nmedia/00/02/33/92/afflesautres.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/26832-les-autres/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cd/90/cd90255ae37ff659dab73bd1c422c9b5.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/276608-spider-man-brand-new-day/"
+    },
+    {
+      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+      "genre": "Film",
+      "duree": "2h 40min",
+      "horaires": [
+        "16:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
+    },
+    {
+      "titre": "Lawrence d'Arabie",
+      "genre": "Film",
+      "duree": "3h 46min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/8b/55/8b5584e08ae3b9656f8bb67c84ccf884.jpeg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/4749-lawrence-darabie/"
     }
   ]
 }
