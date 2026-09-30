@@ -1,37 +1,49 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-09-29T21:38:49.308Z",
+  "scraped_at": "2026-09-30T02:59:06.126Z",
   "films": [
+    {
+      "titre": "Mémoire de fille",
+      "genre": "Film",
+      "duree": "1h 57min",
+      "horaires": [
+        "13:50",
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000026296-memoire-de-fille/"
+    },
+    {
+      "titre": "Notre salut",
+      "genre": "Film",
+      "duree": "2h 39min",
+      "horaires": [
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000007388-notre-salut/"
+    },
     {
       "titre": "Verity",
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "20:40"
+        "14:00",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015739-verity/"
-    },
-    {
-      "titre": "Avengers : Endgame Extended",
-      "genre": "Film",
-      "duree": "3h 5min",
-      "horaires": [
-        "18:05"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/53/e1/53e1e6f2d34748e3f07d101e103dbfb6.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000036867-avengers-endgame-extended/"
     },
     {
       "titre": "Heart Of The Beast",
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "13:50",
-        "19:05"
+        "14:10",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
@@ -41,104 +53,94 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "15:55",
-        "20:15"
+        "16:10",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000028944-justin-le-juste/"
     },
     {
-      "titre": "L'Invitation",
+      "titre": "Les Contrebandiers",
       "genre": "Film",
-      "duree": "1h 47min",
+      "duree": "1h 53min",
       "horaires": [
-        "20:00"
+        "16:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/b1/31b1faa3ca361d78ca82078f8accda1e.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/317219-linvitation/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/20/142026a9ee3fb83800e19232c9cc0998.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019874-les-contrebandiers/"
+    },
+    {
+      "titre": "Ma famille de samouraïs",
+      "genre": "Film",
+      "duree": "1h 22min",
+      "horaires": [
+        "16:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5d/72/5d72af42143f7d2d3ef6b00ac8c23699.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023495-ma-famille-de-samourais/"
     },
     {
       "titre": "Resident Evil",
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "13:50",
-        "18:10"
+        "14:20",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018854-resident-evil/"
     },
     {
-      "titre": "Si tu penses bien",
-      "genre": "Film",
-      "duree": "1h 34min",
-      "horaires": [
-        "14:00",
-        "18:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/10/ef/10ef2a762195d43d7ddaebcf19e161d4.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000043221-si-tu-penses-bien/"
-    },
-    {
-      "titre": "Adieu monde cruel",
-      "genre": "Film",
-      "duree": "1h 33min",
-      "horaires": [
-        "16:05"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/df/db/dfdb8f83b9bb92e5ba76f43452af06cd.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000012310-adieu-monde-cruel/"
-    },
-    {
-      "titre": "La Vie d'une femme",
+      "titre": "Les Survivants du Che",
       "genre": "Film",
       "duree": "1h 38min",
       "horaires": [
-        "14:00"
+        "14:20",
+        "20:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/46/d4/46d4170eaca90b7bd1dae27db18ed739.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/327941-la-vie-dune-femme/"
-    },
-    {
-      "titre": "Les Ensorceleuses 2",
-      "genre": "Film",
-      "duree": "2h 10min",
-      "horaires": [
-        "13:30",
-        "18:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/05/d0/05d0dcb033bc9dced645815301b59394.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000004679-les-ensorceleuses-2/"
-    },
-    {
-      "titre": "Rose",
-      "genre": "Film",
-      "duree": "1h 34min",
-      "horaires": [
-        "16:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/34/89/34896ce3efb274395de7187b29642a8e.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/319893-rose/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9a/84/9a8430fcb28326ce1b8780231c8c026b.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/318226-les-survivants-du-che/"
     },
     {
       "titre": "La Frappe",
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "16:05"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/64/13/641357276a6608346bae117825d1ef87.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314290-la-frappe/"
     },
     {
-      "titre": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+      "titre": "Tombé du ciel",
       "genre": "Film",
-      "duree": "2h 40min",
+      "duree": "1h 32min",
       "horaires": [
-        "16:00"
+        "16:15"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/61/de/61dec3511b1ef0a65757a438ca898bbb.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/294280-la-bataille-de-gaulle-partie-1-lage-de-fer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Cotton Queen",
+      "genre": "Film",
+      "duree": "1h 33min",
+      "horaires": [
+        "18:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/eb/de/ebdef8e95f07a49c4d93c6942fe2fc5d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/305836-cotton-queen/"
+    },
+    {
+      "titre": "Cars",
+      "genre": "Film",
+      "duree": "1h 57min",
+      "horaires": [
+        "16:20",
+        "18:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/55774-cars/"
     }
   ]
 }
