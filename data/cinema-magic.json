@@ -1,18 +1,16 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-07T18:07:22.450Z",
+  "scraped_at": "2026-10-08T00:34:14.700Z",
   "films": [
     {
       "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "13:50",
-        "17:30",
-        "19:20"
+        "17:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
@@ -22,8 +20,8 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "13:50",
-        "18:40"
+        "15:40",
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000030290-fausse-note/"
@@ -33,8 +31,8 @@
       "genre": "Film",
       "duree": "1h 35min",
       "horaires": [
-        "16:35",
-        "20:45"
+        "14:20",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/96/4596f21ac87015ae6a3a4e833db30ba9.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/285141-lespece-explosive/"
@@ -44,19 +42,29 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "15:40",
-        "21:10"
+        "13:50",
+        "19:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031247-la-maison-de-nos-reves/"
+    },
+    {
+      "titre": "Mémoire de fille",
+      "genre": "Film",
+      "duree": "1h 57min",
+      "horaires": [
+        "14:00",
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000026296-memoire-de-fille/"
     },
     {
       "titre": "Notre salut",
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "15:40",
-        "20:30"
+        "13:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007388-notre-salut/"
@@ -66,19 +74,28 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "14:20",
-        "18:30"
+        "16:15",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015739-verity/"
+    },
+    {
+      "titre": "Fini de rire ! L'humour politique au garde-à-vous ?",
+      "genre": "Film",
+      "duree": "1h 37min",
+      "horaires": [
+        "18:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e5/a1/e5a1946e5fd253382f636dc7a26252db.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000048319-fini-de-rire-lhumour-politique-au-garde-a-vous/"
     },
     {
       "titre": "Garance",
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "16:10",
-        "20:40"
+        "16:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000026039-garance/"
@@ -88,7 +105,8 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "14:10"
+        "16:20",
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
@@ -98,41 +116,31 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "18:30"
+        "16:20",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000028944-justin-le-juste/"
     },
     {
-      "titre": "Les Éléphants dans la brume",
+      "titre": "Les Contrebandiers",
       "genre": "Film",
-      "duree": "1h 47min",
+      "duree": "1h 53min",
       "horaires": [
-        "14:00",
-        "20:50"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/00/94/00949f4ef8372d0da903da48aa36c1bf.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000042927-les-elephants-dans-la-brume/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/20/142026a9ee3fb83800e19232c9cc0998.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019874-les-contrebandiers/"
     },
     {
-      "titre": "Cars",
+      "titre": "Demain",
       "genre": "Film",
-      "duree": "1h 57min",
+      "duree": "1h 58min",
       "horaires": [
-        "16:10"
+        "19:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/da/59da33b9de0e915a94ce75dcd407df2d.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/55774-cars/"
-    },
-    {
-      "titre": "Vive l'amour",
-      "genre": "Film",
-      "duree": "1h 59min",
-      "horaires": [
-        "18:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/20/11/16/10/13/0543035.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/11764-vive-lamour/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d9/7e/d97ed66cf5d889bb3c47741931a427c6.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/229903-demain/"
     }
   ]
 }
