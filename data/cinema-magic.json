@@ -3,15 +3,25 @@
   "ville": "Le Creusot",
   "date": "2026-10-12",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-12T13:52:40.955Z",
+  "scraped_at": "2026-10-12T22:18:42.609Z",
   "films": [
+    {
+      "titre": "Ducobu et le fantôme de Saint-Potache",
+      "genre": "Film",
+      "duree": "1h 30min",
+      "horaires": [
+        "18:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
+    },
     {
       "titre": "Fausse note",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "13:50",
-        "18:40"
+        "16:20",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000030290-fausse-note/"
@@ -21,8 +31,8 @@
       "genre": "Film",
       "duree": "1h 35min",
       "horaires": [
-        "14:20",
-        "18:30"
+        "14:10",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/96/4596f21ac87015ae6a3a4e833db30ba9.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/285141-lespece-explosive/"
@@ -32,7 +42,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "20:45"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031247-la-maison-de-nos-reves/"
@@ -42,8 +52,7 @@
       "genre": "Film",
       "duree": "1h 57min",
       "horaires": [
-        "14:00",
-        "18:30"
+        "14:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a6/80/a68035287b2d9e0818ce43dd84822074.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000026296-memoire-de-fille/"
@@ -53,8 +62,8 @@
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "15:40",
-        "20:10"
+        "13:50",
+        "17:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007388-notre-salut/"
@@ -64,8 +73,7 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "16:15",
-        "20:30"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015739-verity/"
@@ -75,8 +83,8 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "13:45",
-        "18:00"
+        "15:40",
+        "20:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000026039-garance/"
@@ -86,7 +94,8 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "20:30"
+        "16:50",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
@@ -96,7 +105,8 @@
       "genre": "Film",
       "duree": "1h 50min",
       "horaires": [
-        "16:20"
+        "16:20",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000028944-justin-le-juste/"
@@ -106,9 +116,7 @@
       "genre": "Film",
       "duree": "1h 49min",
       "horaires": [
-        "14:10",
-        "15:50",
-        "18:35"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b2/33/b2335224732f2a74fd22019277712f13.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013908-primetime/"
@@ -118,20 +126,30 @@
       "genre": "Film",
       "duree": "1h 53min",
       "horaires": [
-        "16:20"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/14/20/142026a9ee3fb83800e19232c9cc0998.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019874-les-contrebandiers/"
     },
     {
-      "titre": "Resident Evil",
+      "titre": "Tombé du ciel",
       "genre": "Film",
-      "duree": "1h 37min",
+      "duree": "1h 32min",
       "horaires": [
-        "20:50"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/1d/65/1d653b3f832f0f7ca7016e650207798f.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000018854-resident-evil/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/78/a7/78a70db88122966584f6dd674da06a6d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000032856-tombe-du-ciel/"
+    },
+    {
+      "titre": "Six femmes pour l'assassin",
+      "genre": "Film",
+      "duree": "1h 28min",
+      "horaires": [
+        "20:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/23/09/19/10/48/4130224.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/2063-six-femmes-pour-lassassin/"
     }
   ]
 }
