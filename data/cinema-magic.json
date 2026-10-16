@@ -3,14 +3,14 @@
   "ville": "Le Creusot",
   "date": "2026-10-16",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-16T18:30:59.866Z",
+  "scraped_at": "2026-10-16T23:07:36.352Z",
   "films": [
     {
       "titre": "Englouti",
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "16:15",
+        "16:00",
         "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
@@ -21,7 +21,8 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "19:00"
+        "13:50",
+        "17:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/321790-le-corset/"
@@ -32,17 +33,29 @@
       "duree": "2h 56min",
       "horaires": [
         "13:50",
-        "20:00"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326160-les-miserables/"
+    },
+    {
+      "titre": "Mochy",
+      "genre": "Film",
+      "duree": "1h 25min",
+      "horaires": [
+        "14:00",
+        "18:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000013643-mochy/"
     },
     {
       "titre": "Street Fighter",
       "genre": "Film",
       "duree": "2h 0min",
       "horaires": [
-        "18:20"
+        "13:45",
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314939-street-fighter/"
@@ -52,7 +65,8 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "18:00"
+        "16:00",
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
@@ -62,29 +76,29 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:00"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000030290-fausse-note/"
     },
     {
-      "titre": "L'Espèce explosive",
+      "titre": "Joyeuse Jungle !",
       "genre": "Film",
-      "duree": "1h 35min",
+      "duree": "1h 16min",
       "horaires": [
-        "14:10",
-        "21:15"
+        "17:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/96/4596f21ac87015ae6a3a4e833db30ba9.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/285141-lespece-explosive/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e8/6c/e86c9876fe8dc5abacfaacbd1bcd1cb3.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/302738-joyeuse-jungle/"
     },
     {
       "titre": "La Maison de nos rêves",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "17:10",
-        "20:50"
+        "15:40",
+        "19:20",
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031247-la-maison-de-nos-reves/"
@@ -94,52 +108,30 @@
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "16:00"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007388-notre-salut/"
     },
     {
-      "titre": "Verity",
+      "titre": "Hunger Games - L'embrasement",
       "genre": "Film",
-      "duree": "1h 54min",
+      "duree": "2h 26min",
       "horaires": [
-        "13:50",
-        "18:15"
+        "18:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000015739-verity/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/13/ac/13acec041093db4933277c31074661ab.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/196666-hunger-games-lembrasement/"
     },
     {
-      "titre": "Garance",
+      "titre": "La Grande Vadrouille",
       "genre": "Film",
-      "duree": "1h 55min",
+      "duree": "2h 12min",
       "horaires": [
-        "16:00",
-        "19:00"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000026039-garance/"
-    },
-    {
-      "titre": "Heart Of The Beast",
-      "genre": "Film",
-      "duree": "1h 41min",
-      "horaires": [
-        "14:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
-    },
-    {
-      "titre": "Justin le Juste",
-      "genre": "Film",
-      "duree": "1h 50min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a4/da/a4dac200a65518d1db35e7dba6ddd4e7.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000028944-justin-le-juste/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/pictures/16/06/16/12/01/072037.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/4307-la-grande-vadrouille/"
     }
   ]
 }
