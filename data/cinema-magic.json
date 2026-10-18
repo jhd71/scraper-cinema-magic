@@ -3,16 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-10-18",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-18T19:51:12.753Z",
+  "scraped_at": "2026-10-18T22:40:32.594Z",
   "films": [
     {
       "titre": "Englouti",
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "10:40",
-        "16:55",
-        "21:15"
+        "13:50",
+        "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/318791-englouti/"
@@ -22,9 +21,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "10:45",
-        "14:45",
-        "18:30"
+        "17:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/321790-le-corset/"
@@ -34,8 +31,8 @@
       "genre": "Film",
       "duree": "2h 56min",
       "horaires": [
-        "14:15",
-        "15:20"
+        "13:50",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326160-les-miserables/"
@@ -45,20 +42,29 @@
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "10:30",
-        "17:30"
+        "14:00",
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013643-mochy/"
+    },
+    {
+      "titre": "Petite Casbah",
+      "genre": "Film",
+      "duree": "1h 24min",
+      "horaires": [
+        "14:20"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/17/54/17541c911a486e7b1a8a08911805be6e.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000047512-petite-casbah/"
     },
     {
       "titre": "Street Fighter",
       "genre": "Film",
       "duree": "2h 0min",
       "horaires": [
-        "10:20",
-        "14:35",
-        "19:00"
+        "16:00",
+        "20:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314939-street-fighter/"
@@ -68,8 +74,8 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "12:15",
-        "19:15"
+        "16:00",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
@@ -79,8 +85,8 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "12:45",
-        "21:05"
+        "16:10",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a5/08/a5081c99da97f696eaf2a157422bac63.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000030290-fausse-note/"
@@ -90,7 +96,7 @@
       "genre": "Film",
       "duree": "1h 35min",
       "horaires": [
-        "18:40"
+        "14:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/45/96/4596f21ac87015ae6a3a4e833db30ba9.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/285141-lespece-explosive/"
@@ -100,8 +106,7 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "12:40",
-        "16:40"
+        "19:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031247-la-maison-de-nos-reves/"
@@ -111,7 +116,7 @@
       "genre": "Film",
       "duree": "2h 39min",
       "horaires": [
-        "17:35"
+        "18:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000007388-notre-salut/"
@@ -121,8 +126,7 @@
       "genre": "Film",
       "duree": "1h 54min",
       "horaires": [
-        "13:00",
-        "20:40"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000015739-verity/"
@@ -132,8 +136,7 @@
       "genre": "Film",
       "duree": "1h 55min",
       "horaires": [
-        "10:30",
-        "20:35"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000026039-garance/"
@@ -143,21 +146,10 @@
       "genre": "Film",
       "duree": "1h 41min",
       "horaires": [
-        "12:35",
-        "20:20"
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
-    },
-    {
-      "titre": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
-      "genre": "Film",
-      "duree": "2h 40min",
-      "horaires": [
-        "14:35"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fe/af/feaf214ef84e96e437f8c65e7c540e86.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/294281-la-bataille-de-gaulle-partie-2-jecris-ton-nom/"
     }
   ]
 }
