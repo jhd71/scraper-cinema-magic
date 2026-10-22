@@ -3,7 +3,7 @@
   "ville": "Le Creusot",
   "date": "2026-10-22",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-22T02:32:07.861Z",
+  "scraped_at": "2026-10-22T08:06:25.475Z",
   "films": [
     {
       "titre": "Karma",
@@ -61,7 +61,7 @@
     {
       "titre": "Le Corset",
       "genre": "Film",
-      "duree": "1h 30min",
+      "duree": "1h 31min",
       "horaires": [
         "14:00"
       ],
