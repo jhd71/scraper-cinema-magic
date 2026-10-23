@@ -3,25 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-10-23",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-23T18:47:32.039Z",
+  "scraped_at": "2026-10-23T23:39:56.767Z",
   "films": [
-    {
-      "titre": "Moulin",
-      "genre": "Film",
-      "duree": "2h 14min",
-      "horaires": [
-        "19:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000020311-moulin/"
-    },
     {
       "titre": "Karma",
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "16:05",
-        "20:00"
+        "15:35",
+        "20:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018384-karma/"
@@ -31,8 +21,8 @@
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "15:50",
-        "21:00"
+        "13:50",
+        "17:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/296642-lile-des-souvenirs/"
@@ -42,8 +32,8 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "13:50",
-        "17:20"
+        "15:40",
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/11/211184243b4ab7c37127ace9ced2e939.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000030383-le-roi-du-game/"
@@ -53,7 +43,8 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "15:40"
+        "14:00",
+        "17:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
@@ -63,8 +54,8 @@
       "genre": "Film",
       "duree": "1h 46min",
       "horaires": [
-        "14:00",
-        "19:15"
+        "16:10",
+        "21:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/318791-englouti/"
@@ -75,7 +66,7 @@
       "duree": "1h 31min",
       "horaires": [
         "14:20",
-        "18:10"
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/321790-le-corset/"
@@ -85,8 +76,8 @@
       "genre": "Film",
       "duree": "2h 56min",
       "horaires": [
-        "13:45",
-        "19:50"
+        "16:00",
+        "20:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326160-les-miserables/"
@@ -96,8 +87,8 @@
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "14:00",
-        "18:00"
+        "16:00",
+        "20:40"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013643-mochy/"
@@ -107,31 +98,41 @@
       "genre": "Film",
       "duree": "2h 0min",
       "horaires": [
-        "17:00",
-        "21:15"
+        "13:45",
+        "19:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/314939-street-fighter/"
     },
     {
-      "titre": "La Maison de nos rêves",
+      "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "16:10"
+        "13:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000031247-la-maison-de-nos-reves/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
     },
     {
-      "titre": "Garance",
+      "titre": "Heart Of The Beast",
       "genre": "Film",
-      "duree": "1h 55min",
+      "duree": "1h 41min",
       "horaires": [
-        "18:45"
+        "19:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/22/e4/22e455446c0461e270e5341d9f88f43f.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000026039-garance/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
+    },
+    {
+      "titre": "Hunger Games - La Révolte : Partie 1",
+      "genre": "Film",
+      "duree": "2h 3min",
+      "horaires": [
+        "18:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/59/5e/595e2c4249c13746be04d6f3f2b452e9.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/200088-hunger-games-la-revolte-partie-1/"
     }
   ]
 }
