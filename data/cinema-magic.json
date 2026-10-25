@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-24T22:47:05.572Z",
+  "scraped_at": "2026-10-25T02:17:45.025Z",
   "films": [
     {
       "titre": "Karma",
