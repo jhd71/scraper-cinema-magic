@@ -1,17 +1,39 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-10-27T21:35:26.927Z",
+  "scraped_at": "2026-10-28T03:01:22.396Z",
   "films": [
+    {
+      "titre": "Le Fantôme de l'Opéra",
+      "genre": "Film",
+      "duree": "2h 14min",
+      "horaires": [
+        "16:10",
+        "20:40"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019622-le-fantome-de-lopera/"
+    },
+    {
+      "titre": "Quelques mots d'amour",
+      "genre": "Film",
+      "duree": "1h 37min",
+      "horaires": [
+        "15:25",
+        "19:05"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000036515-quelques-mots-damour/"
+    },
     {
       "titre": "Karma",
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "13:50",
-        "20:10"
+        "15:40",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018384-karma/"
@@ -22,7 +44,7 @@
       "duree": "1h 48min",
       "horaires": [
         "13:50",
-        "17:45"
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/296642-lile-des-souvenirs/"
@@ -32,8 +54,8 @@
       "genre": "Film",
       "duree": "1h 28min",
       "horaires": [
-        "16:00",
-        "21:30"
+        "13:40",
+        "17:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/11/211184243b4ab7c37127ace9ced2e939.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000030383-le-roi-du-game/"
@@ -43,71 +65,59 @@
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "14:20",
-        "17:50"
+        "13:50",
+        "17:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
-    },
-    {
-      "titre": "Englouti",
-      "genre": "Film",
-      "duree": "1h 46min",
-      "horaires": [
-        "16:30",
-        "21:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/31/73/3173f450f63ac497176b4d6c8fd08ea0.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/318791-englouti/"
-    },
-    {
-      "titre": "Le Corset",
-      "genre": "Film",
-      "duree": "1h 31min",
-      "horaires": [
-        "14:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/321790-le-corset/"
     },
     {
       "titre": "Les Misérables",
       "genre": "Film",
       "duree": "2h 56min",
       "horaires": [
-        "16:00",
-        "20:00"
+        "17:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326160-les-miserables/"
+    },
+    {
+      "titre": "Malfaisante",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/c5/9ec5c971224bc443153c1a8da6c73e07.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023068-malfaisante/"
     },
     {
       "titre": "Mochy",
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "16:00",
-        "20:45"
+        "16:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013643-mochy/"
     },
     {
-      "titre": "Street Fighter",
+      "titre": "Doraemon et le Château sous-marin",
       "genre": "Film",
-      "duree": "2h 0min",
+      "duree": "1h 41min",
       "horaires": [
-        "19:15"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fc/20/fc20187ddbbd4af991999e32c9a03fb4.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/314939-street-fighter/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/12/07/120736d4c8daa5a98e6d413e236ea509.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000040606-doraemon-et-le-chateau-sous-marin/"
     },
     {
       "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "14:10"
+        "15:30",
+        "19:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
@@ -117,40 +127,31 @@
       "genre": "Film",
       "duree": "1h 30min",
       "horaires": [
-        "18:15"
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031247-la-maison-de-nos-reves/"
     },
     {
-      "titre": "Ni vue, ni connue",
+      "titre": "Salvation",
       "genre": "Film",
-      "duree": "1h 55min",
+      "duree": "2h 0min",
       "horaires": [
-        "18:30"
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/d2/04d24a4f7815a30efe7dd1202384832f.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000023992-ni-vue-ni-connue/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/af/cb/afcbdf0c4270301632930da3d4002981.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000022260-salvation/"
     },
     {
-      "titre": "Verity",
+      "titre": "Chicas tristes",
       "genre": "Film",
-      "duree": "1h 54min",
+      "duree": "1h 30min",
       "horaires": [
-        "16:00"
+        "13:50",
+        "20:40"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/f0/bf/f0bfbb3dc69cb51a8dadfbef66d50c07.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000015739-verity/"
-    },
-    {
-      "titre": "Heart Of The Beast",
-      "genre": "Film",
-      "duree": "1h 41min",
-      "horaires": [
-        "19:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/6f/af/6faf7d9aa879bd9374e773f31db44956.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000000085-heart-of-the-beast/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/57/32/5732fc7877b55cb456ac1a47200b74fc.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000029301-chicas-tristes/"
     }
   ]
 }
