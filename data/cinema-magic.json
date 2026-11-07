@@ -3,15 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-11-07",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-11-07T00:29:57.293Z",
+  "scraped_at": "2026-11-07T09:24:49.687Z",
   "films": [
     {
       "titre": "Club Kid",
       "genre": "Film",
       "duree": "2h 2min",
       "horaires": [
-        "20:50",
-        "16:10"
+        "13:50",
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/13/ce/13ce08b4b1cd5a6f30247161eea15143.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000036932-club-kid/"
@@ -21,8 +21,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "17:15",
-        "20:45"
+        "14:00",
+        "21:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031925-un-bon-patron/"
@@ -32,8 +32,8 @@
       "genre": "Film",
       "duree": "1h 58min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "16:10",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/19/2c/192c21b88207a32bb9c1a043c51f053b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/298024-wild-horse-nine/"
@@ -43,8 +43,8 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "14:00",
-        "18:10"
+        "14:10",
+        "21:00"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019622-le-fantome-de-lopera/"
@@ -54,68 +54,47 @@
       "genre": "Film",
       "duree": "1h 37min",
       "horaires": [
-        "13:50",
-        "18:30"
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000036515-quelques-mots-damour/"
     },
     {
-      "titre": "Karma",
+      "titre": "Clayface",
       "genre": "Film",
-      "duree": "2h 20min",
+      "duree": "1h 49min",
       "horaires": [
-        "13:50"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000018384-karma/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000016901-clayface/"
     },
     {
       "titre": "L'île des souvenirs",
       "genre": "Film",
       "duree": "1h 48min",
       "horaires": [
-        "20:40"
+        "13:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/296642-lile-des-souvenirs/"
-    },
-    {
-      "titre": "La Gradiva",
-      "genre": "Film",
-      "duree": "2h 25min",
-      "horaires": [
-        "15:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/a7/23a7c2106f6141b87e1381da3beaf635.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/318225-la-gradiva/"
     },
     {
       "titre": "Shaun le Mouton : La Bêêête d'Halloween",
       "genre": "Film",
       "duree": "1h 20min",
       "horaires": [
-        "16:30"
+        "16:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
-    },
-    {
-      "titre": "Une femme aujourd’hui",
-      "genre": "Film",
-      "duree": "",
-      "horaires": [
-        "16:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/7f/927fd5891c142dc643f5851ba85d8393.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000026725-une-femme-aujourdhui/"
     },
     {
       "titre": "Le Corset",
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "18:50"
+        "19:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/a7/96/a796a67caa5bdab1508d9207abaf5284.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/321790-le-corset/"
@@ -125,40 +104,70 @@
       "genre": "Film",
       "duree": "2h 56min",
       "horaires": [
-        "14:00"
+        "15:55"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/326160-les-miserables/"
+    },
+    {
+      "titre": "Malfaisante",
+      "genre": "Film",
+      "duree": "1h 34min",
+      "horaires": [
+        "18:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/c5/9ec5c971224bc443153c1a8da6c73e07.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023068-malfaisante/"
     },
     {
       "titre": "Mochy",
       "genre": "Film",
       "duree": "1h 25min",
       "horaires": [
-        "19:00"
+        "15:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000013643-mochy/"
     },
     {
-      "titre": "Les Chaillées de l'enfer",
+      "titre": "Ducobu et le fantôme de Saint-Potache",
       "genre": "Film",
-      "duree": "1h 42min",
+      "duree": "1h 30min",
       "horaires": [
-        "20:30"
+        "17:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/dd/ae/ddaeb481af358ed506986cd5e768a234.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000040273-les-chaillees-de-lenfer/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
     },
     {
-      "titre": "Dune",
+      "titre": "La Maison de nos rêves",
       "genre": "Film",
-      "duree": "2h 17min",
+      "duree": "1h 30min",
       "horaires": [
-        "20:50"
+        "19:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/32/5f/325fcabf888af3b69428ce8e48921bf9.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/176-dune/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/7f/e6/7fe6fefcab6e4951dac81cebd7c5e202.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000031247-la-maison-de-nos-reves/"
+    },
+    {
+      "titre": "La Vie en relief - Jacques Henri Lartigue",
+      "genre": "Film",
+      "duree": "1h 20min",
+      "horaires": [
+        "14:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fd/d8/fdd88f9e61c3f4da1059df2dff02ae3a.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000042891-la-vie-en-relief-jacques-henri-lartigue/"
+    },
+    {
+      "titre": "Hunger Games: la Ballade du serpent et de l'oiseau chanteur",
+      "genre": "Film",
+      "duree": "2h 38min",
+      "horaires": [
+        "17:30"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/83/fd/83fdacdaceb7e25b257d44bef7f6d133.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/258080-hunger-games-la-ballade-du-serpent-et-de-loiseau-chanteur/"
     }
   ]
 }
