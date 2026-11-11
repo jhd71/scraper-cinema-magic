@@ -1,37 +1,61 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-11-10T21:05:36.533Z",
+  "scraped_at": "2026-11-11T03:44:57.975Z",
   "films": [
+    {
+      "titre": "15/18",
+      "genre": "Film",
+      "duree": "1h 44min",
+      "horaires": [
+        "16:30",
+        "20:50"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/a4/04a4c539c199c806d48c2f2e4eaf6607.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000040172-1518/"
+    },
+    {
+      "titre": "Il faut brûler Maman",
+      "genre": "Film",
+      "duree": "1h 21min",
+      "horaires": [
+        "16:40",
+        "21:00"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000039483-il-faut-bruler-maman/"
+    },
     {
       "titre": "Scrooge",
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "20:50"
+        "14:15",
+        "18:10",
+        "20:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000034007-scrooge/"
     },
     {
-      "titre": "Quel monde après Trump ?",
+      "titre": "Club Kid",
       "genre": "Film",
-      "duree": "3h 0min",
+      "duree": "2h 2min",
       "horaires": [
-        "19:45"
+        "14:10",
+        "18:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/64/16/6416cb6da8821f3ac69d8b852de66eaa.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000051924-quel-monde-apres-trump/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/13/ce/13ce08b4b1cd5a6f30247161eea15143.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000036932-club-kid/"
     },
     {
       "titre": "Un bon patron",
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "14:20",
-        "18:10"
+        "14:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031925-un-bon-patron/"
@@ -41,7 +65,8 @@
       "genre": "Film",
       "duree": "1h 58min",
       "horaires": [
-        "17:30"
+        "21:10",
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/19/2c/192c21b88207a32bb9c1a043c51f053b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/298024-wild-horse-nine/"
@@ -51,121 +76,71 @@
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "13:50",
-        "18:35"
+        "15:35"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000019622-le-fantome-de-lopera/"
     },
     {
-      "titre": "Quelques mots d'amour",
+      "titre": "Moulin",
       "genre": "Film",
-      "duree": "1h 37min",
+      "duree": "2h 14min",
       "horaires": [
-        "14:00"
+        "14:00",
+        "18:20"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000036515-quelques-mots-damour/"
-    },
-    {
-      "titre": "Clayface",
-      "genre": "Film",
-      "duree": "1h 49min",
-      "horaires": [
-        "21:10"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/98/f1/98f14da258dd56c0ff1bcb12a4929e85.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000016901-clayface/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000020311-moulin/"
     },
     {
       "titre": "Karma",
       "genre": "Film",
       "duree": "2h 20min",
       "horaires": [
-        "14:10"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018384-karma/"
     },
     {
-      "titre": "L'île des souvenirs",
+      "titre": "Shaun le Mouton : La Bêêête d'Halloween",
       "genre": "Film",
-      "duree": "1h 48min",
+      "duree": "1h 20min",
       "horaires": [
-        "18:40"
+        "16:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/56/7e/567e74d867a1c88b20897c5d7f92d4dd.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/296642-lile-des-souvenirs/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
     },
     {
-      "titre": "La Gradiva",
+      "titre": "Écrire la vie : Annie Ernaux racontée par des lycéennes et des lycéens",
       "genre": "Film",
-      "duree": "2h 25min",
+      "duree": "1h 30min",
       "horaires": [
-        "16:00"
+        "13:50"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/a7/23a7c2106f6141b87e1381da3beaf635.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/318225-la-gradiva/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/3d/1c/3d1c834b2dfa29e4ac131563769755ff.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000028074-ecrire-la-vie-annie-ernaux-racontee-par-des-lyceennes-et-des-lyceens/"
     },
     {
-      "titre": "Le Roi du Game",
+      "titre": "Trois adieux",
       "genre": "Film",
-      "duree": "1h 28min",
+      "duree": "2h 0min",
       "horaires": [
-        "16:15"
+        "18:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/21/11/211184243b4ab7c37127ace9ced2e939.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000030383-le-roi-du-game/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/c0/b7c02de28cf26d48eab1a78a340e887c.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019852-trois-adieux/"
     },
     {
-      "titre": "Une femme aujourd’hui",
+      "titre": "Les Hauts de Hurlevent",
       "genre": "Film",
-      "duree": "",
+      "duree": "2h 8min",
       "horaires": [
-        "16:20"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/92/7f/927fd5891c142dc643f5851ba85d8393.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000026725-une-femme-aujourdhui/"
-    },
-    {
-      "titre": "Les Misérables",
-      "genre": "Film",
-      "duree": "2h 56min",
-      "horaires": [
-        "20:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5a/41/5a4186d62d534f2da65c2e9e8e822a34.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/326160-les-miserables/"
-    },
-    {
-      "titre": "Mochy",
-      "genre": "Film",
-      "duree": "1h 25min",
-      "horaires": [
-        "16:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000013643-mochy/"
-    },
-    {
-      "titre": "Notre salut",
-      "genre": "Film",
-      "duree": "2h 39min",
-      "horaires": [
-        "14:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/ac/b7acc48dac20e8329866a199e0ff78e8.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000007388-notre-salut/"
-    },
-    {
-      "titre": "Chantage",
-      "genre": "Film",
-      "duree": "1h 26min",
-      "horaires": [
-        "20:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/41/6b/416b9aa121425ab283b8aaae68fec488.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/4165-chantage/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/medias/nmedia/18/87/37/35/20311095.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/135549-les-hauts-de-hurlevent/"
     }
   ]
 }
