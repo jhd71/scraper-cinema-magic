@@ -1,9 +1,9 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-11-19T19:44:38.203Z",
+  "scraped_at": "2026-11-20T01:57:00.675Z",
   "films": [
     {
       "titre": "Camembert",
