@@ -3,35 +3,15 @@
   "ville": "Le Creusot",
   "date": "2026-11-23",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-11-23T01:14:13.693Z",
+  "scraped_at": "2026-11-23T11:29:45.073Z",
   "films": [
-    {
-      "titre": "Le Bois de Klara",
-      "genre": "Film",
-      "duree": "2h 1min",
-      "horaires": [
-        "14:25"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/48/74/4874a72ddd1fc8ae319bdd593fdc9405.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000029992-le-bois-de-klara/"
-    },
-    {
-      "titre": "Astérix - Le Royaume de Nubie",
-      "genre": "Film",
-      "duree": "1h 26min",
-      "horaires": [
-        "17:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/5d/82/5d822abd6caebdff0b065a16e93b7f76.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/313265-asterix-le-royaume-de-nubie/"
-    },
     {
       "titre": "Camembert",
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "16:40",
-        "21:10"
+        "14:20",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/01/de019123ff2a620ecfc2c45bc743ab01.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/316136-camembert/"
@@ -41,10 +21,7 @@
       "genre": "Film",
       "duree": "2h 38min",
       "horaires": [
-        "13:50",
-        "16:00",
-        "20:20",
-        "10:15"
+        "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/24/f124e39fa139536fceb9005cab53fc04.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000004528-hunger-games-lever-de-soleil-sur-la-moisson/"
@@ -54,8 +31,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "14:55",
-        "18:30"
+        "13:45",
+        "21:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2f/ab/2fabb861ff01b7c43b24c0cdafb0931a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022995-jupiter/"
@@ -65,8 +42,8 @@
       "genre": "Film",
       "duree": "1h 26min",
       "horaires": [
-        "12:40",
-        "21:00"
+        "16:30",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/40/75/40755e7f3312dc2311b37a66bc94fe81.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018671-malika/"
@@ -76,8 +53,7 @@
       "genre": "Film",
       "duree": "1h 44min",
       "horaires": [
-        "12:30",
-        "18:45"
+        "16:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/04/a4/04a4c539c199c806d48c2f2e4eaf6607.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000040172-1518/"
@@ -87,8 +63,8 @@
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "14:20",
-        "19:00"
+        "17:15",
+        "20:50"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000039483-il-faut-bruler-maman/"
@@ -98,30 +74,17 @@
       "genre": "Film",
       "duree": "1h 56min",
       "horaires": [
-        "10:15",
-        "14:30",
-        "18:55"
+        "18:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/ee/1d/ee1d9a9f275b9d7332cf8dff0c5dfd27.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000034007-scrooge/"
-    },
-    {
-      "titre": "Godzilla Minus Zero",
-      "genre": "Film",
-      "duree": "2h 15min",
-      "horaires": [
-        "20:40"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/62/57/625799426a89e53445b5fb0b842cd241.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000014492-godzilla-minus-zero/"
     },
     {
       "titre": "L'Affaire Marie-Claire",
       "genre": "Film",
       "duree": "1h 42min",
       "horaires": [
-        "16:45",
-        "20:45"
+        "18:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/323550-laffaire-marie-claire/"
@@ -131,7 +94,7 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "13:10"
+        "15:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000031925-un-bon-patron/"
@@ -141,70 +104,71 @@
       "genre": "Film",
       "duree": "1h 58min",
       "horaires": [
-        "10:20"
+        "16:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/19/2c/192c21b88207a32bb9c1a043c51f053b.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/298024-wild-horse-nine/"
+    },
+    {
+      "titre": "Irish Travellers",
+      "genre": "Film",
+      "duree": "1h 36min",
+      "horaires": [
+        "16:15"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/68/57/6857fdb3b89fdd00da7d32b5f2faea69.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000033620-irish-travellers/"
+    },
+    {
+      "titre": "Le Fantôme de l'Opéra",
+      "genre": "Film",
+      "duree": "2h 14min",
+      "horaires": [
+        "18:55"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/9e/85/9e85825c32a9d2be8135074c9e45c870.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000019622-le-fantome-de-lopera/"
     },
     {
       "titre": "Moulin",
       "genre": "Film",
       "duree": "2h 14min",
       "horaires": [
-        "16:45"
+        "14:00",
+        "18:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000020311-moulin/"
     },
     {
-      "titre": "Papa où t'es ?",
+      "titre": "Quelques mots d'amour",
       "genre": "Film",
-      "duree": "1h 41min",
+      "duree": "1h 37min",
       "horaires": [
-        "10:30"
+        "14:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2d/5b/2d5be7939e2b342391de951db5694ca7.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000051934-papa-ou-tes/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/d2/e4/d2e423fe953024eca9f0ebb7b2552db2.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000036515-quelques-mots-damour/"
     },
     {
-      "titre": "Shaun le Mouton : La Bêêête d'Halloween",
+      "titre": "La Gradiva",
       "genre": "Film",
-      "duree": "1h 20min",
+      "duree": "2h 25min",
       "horaires": [
-        "12:00"
+        "14:00"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4f/da/4fda4090f417ac9b0e78ccc48f43ea2c.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000024131-shaun-le-mouton-la-beeete-dhalloween/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/23/a7/23a7c2106f6141b87e1381da3beaf635.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/318225-la-gradiva/"
     },
     {
-      "titre": "Mochy",
+      "titre": "Haute solitude, Jean Zay prisonnier politique",
       "genre": "Film",
-      "duree": "1h 25min",
+      "duree": "1h 38min",
       "horaires": [
-        "10:20"
+        "20:45"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/2e/29/2e292d36aa0d7fc0efb2e1d08578357d.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000013643-mochy/"
-    },
-    {
-      "titre": "Ducobu et le fantôme de Saint-Potache",
-      "genre": "Film",
-      "duree": "1h 30min",
-      "horaires": [
-        "12:30"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/54/16/54167f9b523fff67b07b2e80f5f9dd71.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000019249-ducobu-et-le-fantome-de-saint-potache/"
-    },
-    {
-      "titre": "La Dame de Shanghai",
-      "genre": "Film",
-      "duree": "1h 27min",
-      "horaires": [
-        "19:15"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/18/85/1885d4d4c6f1520410352dcc1108c4b7.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/514-la-dame-de-shanghai/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/25/c8/25c8bcdb0f418ddda4d9f5752eb5998d.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000046253-haute-solitude-jean-zay-prisonnier-politique/"
     }
   ]
 }
