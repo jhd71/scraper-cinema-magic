@@ -1,16 +1,27 @@
 {
   "cinema": "Cinema Magic",
   "ville": "Le Creusot",
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "dateLabel": "Aujourd'hui",
-  "scraped_at": "2026-11-26T20:42:00.848Z",
+  "scraped_at": "2026-11-27T03:22:24.278Z",
   "films": [
+    {
+      "titre": "Billie, à la croisée des mondes",
+      "genre": "Film",
+      "duree": "1h 46min",
+      "horaires": [
+        "19:00",
+        "21:10"
+      ],
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e1/e2/e1e26762a29dabe9fec6d1bf189bb4fa.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/312529-billie-a-la-croisee-des-mondes/"
+    },
     {
       "titre": "Demain je tombe amoureux",
       "genre": "Film",
       "duree": "1h 47min",
       "horaires": [
-        "14:00",
+        "14:15",
         "18:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/38/58/3858f877d88532b0c1a8da62e26b8b2c.jpg",
@@ -22,7 +33,7 @@
       "duree": "1h 46min",
       "horaires": [
         "13:50",
-        "18:20"
+        "18:10"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/e7/b2/e7b2d3047feb71205387d7e2b34d02a2.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000016814-mon-beau-pere-ma-belle-fille-et-moi/"
@@ -32,8 +43,8 @@
       "genre": "Film",
       "duree": "1h 31min",
       "horaires": [
-        "16:15",
-        "20:30"
+        "16:20",
+        "20:45"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/de/01/de019123ff2a620ecfc2c45bc743ab01.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/316136-camembert/"
@@ -43,7 +54,7 @@
       "genre": "Film",
       "duree": "2h 38min",
       "horaires": [
-        "15:40",
+        "16:00",
         "20:20"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/f1/24/f124e39fa139536fceb9005cab53fc04.jpg",
@@ -54,8 +65,8 @@
       "genre": "Film",
       "duree": "1h 27min",
       "horaires": [
-        "15:40",
-        "21:10"
+        "13:50",
+        "21:15"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/2f/ab/2fabb861ff01b7c43b24c0cdafb0931a.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000022995-jupiter/"
@@ -66,7 +77,8 @@
       "duree": "1h 26min",
       "horaires": [
         "13:50",
-        "19:20"
+        "15:40",
+        "19:25"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/40/75/40755e7f3312dc2311b37a66bc94fe81.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000018671-malika/"
@@ -76,71 +88,50 @@
       "genre": "Film",
       "duree": "1h 35min",
       "horaires": [
-        "21:00"
+        "17:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/0a/18/0a18acf83e57e18b7826971f3720dfc4.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000037363-ce-qui-nous-mene-a-toi/"
-    },
-    {
-      "titre": "Face à face",
-      "genre": "Film",
-      "duree": "1h 24min",
-      "horaires": [
-        "13:50"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/fa/0a/fa0a0d5d947a0fd8fa095219777db6e1.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000040446-face-a-face/"
     },
     {
       "titre": "Il faut brûler Maman",
       "genre": "Film",
       "duree": "1h 21min",
       "horaires": [
-        "15:55",
-        "20:40"
+        "16:30"
       ],
       "affiche": "https://all.web.img.acsta.net/r_250_x/img/b7/22/b722617d1263956a4b556c739a49afc3.jpg",
       "lien": "https://www.cinemamagic-creusot.fr/films/1000039483-il-faut-bruler-maman/"
     },
     {
-      "titre": "L'Affaire Marie-Claire",
+      "titre": "Hope",
       "genre": "Film",
-      "duree": "1h 42min",
+      "duree": "2h 37min",
       "horaires": [
-        "16:10"
+        "20:30"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/4a/3c/4a3cf95bb345d5d71bdc7acf3430323b.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/323550-laffaire-marie-claire/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/37/eb/37eb88a0ce51e0295cac6fca4884a609.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/314882-hope/"
     },
     {
-      "titre": "Un bon patron",
+      "titre": "Moulin",
       "genre": "Film",
-      "duree": "1h 27min",
+      "duree": "2h 14min",
       "horaires": [
-        "17:30"
+        "15:35"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/e0/fa/e0fa1b691ed74bcdc54a9761aa33dbb4.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000031925-un-bon-patron/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/0f/7f/0f7fb216155bf7bcf7bb69d9e2f65310.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000020311-moulin/"
     },
     {
-      "titre": "Karma",
+      "titre": "Sanguine",
       "genre": "Film",
-      "duree": "2h 20min",
+      "duree": "1h 43min",
       "horaires": [
-        "17:40"
+        "18:10"
       ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/94/0a/940afff3ed3b09677bf94e2bc7c3009b.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000018384-karma/"
-    },
-    {
-      "titre": "Haute solitude, Jean Zay prisonnier politique",
-      "genre": "Film",
-      "duree": "1h 38min",
-      "horaires": [
-        "19:00"
-      ],
-      "affiche": "https://all.web.img.acsta.net/r_250_x/img/25/c8/25c8bcdb0f418ddda4d9f5752eb5998d.jpg",
-      "lien": "https://www.cinemamagic-creusot.fr/films/1000046253-haute-solitude-jean-zay-prisonnier-politique/"
+      "affiche": "https://all.web.img.acsta.net/r_250_x/img/cb/93/cb93a3a86bd02e7b49e976435d28d3fb.jpg",
+      "lien": "https://www.cinemamagic-creusot.fr/films/1000023600-sanguine/"
     }
   ]
 }
